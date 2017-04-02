@@ -11,6 +11,7 @@ Text Mining project on songs by British Invasions artists (mid-60s, 80s) and the
 │   ├── SBI_Song_List.pkl
 │   ├── Songs_by_British_Invasion_artists.csv
 │   └── Songs_by_Second_British_Invasion_artists.csv
+├── Fetch_All_Lyrics.ipynb
 ├── Fetch_Song_List.ipynb
 ├── Matching_Songs_and_Lyrics_with_Lists_of_Artists.ipynb
 ├── README.md

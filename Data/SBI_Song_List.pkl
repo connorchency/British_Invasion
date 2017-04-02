@@ -1,0 +1,9081 @@
+(dp1
+S'Elvis Costello'
+p2
+(lp3
+S'13 Steps Lead Down'
+p4
+aS'15 Petals'
+p5
+aS'20% Amnesia'
+p6
+aS'45'
+p7
+aS'5Ive Gears In Reverse'
+p8
+aS'A Slow Drag With Josephine'
+p9
+aS'A Town Called Big Nothing'
+p10
+aS'Abandoned Masquerade'
+p11
+aS'Accidents Will Happen'
+p12
+aS'After The Fall'
+p13
+aS'Alibi'
+p14
+aS'Alison'
+p15
+aS'All Grown Up'
+p16
+aS'All The Rage'
+p17
+aS'All This Useless Beauty'
+p18
+aS'Almost Blue'
+p19
+aS'American Without Tears'
+p20
+aS'...and In Every Home'
+p21
+aS"Any King's Shilling"
+p22
+aS'Ascension Day'
+p23
+aS'B Movie'
+p24
+aS"Baby It's You"
+p25
+aS'Baby Plays Around'
+p26
+aS"Baby's Got A Brand New Hairdo"
+p27
+aS'Bama Lama Bama Loo'
+p28
+aS'Basement Kiss'
+p29
+aS'Battered Old Bird'
+p30
+aS'Beaten To The Punch'
+p31
+aS'Bedlam'
+p32
+aS'Beyond Belief'
+p33
+aS'Big Boys'
+p34
+aS'Big Sister'
+p35
+aS"Big Sister's Clothes"
+p36
+aS'Big Tears'
+p37
+aS'Black And White World'
+p38
+aS'Black Sails In The Sunset'
+p39
+aS'Blame It On Cain'
+p40
+aS'Blue Chair'
+p41
+aS'Boy With A Problem'
+p42
+aS'Brilliant Disguise'
+p43
+aS'Brilliant Mistake'
+p44
+aS'Broken'
+p45
+aS'Brown To Blue'
+p46
+aS'Bullets For The New-Born King'
+p47
+aS'Busy Bodies'
+p48
+aS'Button My Lip'
+p49
+aS'Call On Me (Demo)'
+p50
+aS'Can You Be True?'
+p51
+aS'Changing Partners'
+p52
+aS'Charm School'
+p53
+aS'Cheap Reward'
+p54
+aS'Chelsea'
+p55
+aS'Chemistry Class'
+p56
+aS'Chewing Gum'
+p57
+aS'Clean Money'
+p58
+aS'Clown Strike'
+p59
+aS'Clowntime Is Over'
+p60
+aS'Clubland'
+p61
+aS'Coal Train Robberies'
+p62
+aS'Colour Of The Blues'
+p63
+aS'Come Away, Death'
+p64
+aS'Complicated Shadows'
+p65
+aS"Couldn't Call It Unexpected No. 4"
+p66
+aS"Couldn't You Keep That To Yourself"
+p67
+aS'Country Darkness'
+p68
+aS'Crawling To The U.s.a.'
+p69
+aS'Crimes Of Paris'
+p70
+aS'Cry, Cry, Cry'
+p71
+aS'Daddy Can I Turn This?'
+p72
+aS"Damnation's Cellar"
+p73
+aS"Darling, You Know I Wouldn't Lie"
+p74
+aS'Days'
+p75
+aS'Dear Sweet Filthy World'
+p76
+aS'Deep Dark Truthful Mirror'
+p77
+aS'Deep Dead Blue'
+p78
+aS'Different Finger'
+p79
+aS'Dirty Rotten Shame'
+p80
+aS'Dissolve'
+p81
+aS'Distorted Angel'
+p82
+aS"Don't Be Careless Love"
+p83
+aS"Don't Let Me Be Misunderstood"
+p84
+aS'Down Among The Wines & Spirits'
+p85
+aS"Dr. Luther's Assistant"
+p86
+aS'...dust'
+p87
+aS'Dust 2...'
+p88
+aS'Edith And The Kingpin'
+p89
+aS'Eisenhower Blues'
+p90
+aS'Either Side Of The Same Town'
+p91
+aS'Episode Of Blonde'
+p92
+aS"Everybody's Crying Mercy"
+p93
+aS'Everyday I Write The Book'
+p94
+aS'Expert Rites'
+p95
+aS'Fake Tin Star'
+p96
+aS'Fallen'
+p97
+aS'Favourite Hour'
+p98
+aS"Fish 'n' Chip Paper"
+p99
+aS'From A Whisper To A Scream'
+p100
+aS'From Head To Toe'
+p101
+aS'Georgia And Her Rival'
+p102
+aS'Get Yourself Another Fool'
+p103
+aS'Getting Mighty Crowded'
+p104
+aS'Ghost Train'
+p105
+aS'Gigi'
+p106
+aS'Girls Talk'
+p107
+aS'Glitter Gulch'
+p108
+aS'Gloomy Sunday'
+p109
+aS'God Give Me Strength'
+p110
+aS"God's Comic"
+p111
+aS'Good Year For The Roses'
+p112
+aS'Goon Squad'
+p113
+aS'Green Shirt'
+p114
+aS'Hand In Hand'
+p115
+aS'Harpies Bizarre'
+p116
+aS'Heart-shaped Bruise'
+p117
+aS"He's Got You"
+p118
+aS'Hidden Charms'
+p119
+aS'Hidden Shame'
+p120
+aS'High Fidelity'
+p121
+aS'Home Truth'
+p122
+aS'Honey, Are You Straight Or Are You Blind?'
+p123
+aS'Honey Hush'
+p124
+aS'Hoover Factory'
+p125
+aS'How Deep Is The Red'
+p126
+aS'How Much I Lied'
+p127
+aS'How To Be Dumb'
+p128
+aS'Human Hands'
+p129
+aS'Human Touch'
+p130
+aS'Hurry Down Doomsday'
+p131
+aS'I Almost Had A Weakness'
+p132
+aS"I Can't Stand Up For Falling Down"
+p133
+aS'I Dreamed Of My Old Lover'
+p134
+aS'I Hear A Melody (Demo)'
+p135
+aS"I Hope You're Happy Now"
+p136
+aS"I Just Don't Know What To Do With Myself"
+p137
+aS'I Stand Accused'
+p138
+aS'I Still Have That Other Girl'
+p139
+aS"I Thought I'd Write To Juliet"
+p140
+aS'I Threw It All Away'
+p141
+aS'I Throw My Toys Around'
+p142
+aS'I Turn Around'
+p143
+aS'I Wanna Be Loved'
+p144
+aS'I Want To Vanish'
+p145
+aS'I Want You'
+p146
+aS"I'll Never Fall In Love Again"
+p147
+aS"I'll Wear It Proudly"
+p148
+aS"I'm In The Mood Again"
+p149
+aS"I'm Not Angry"
+p150
+aS"I'm Your Toy"
+p151
+aS'Imagination'
+p152
+aS'Impatience'
+p153
+aS'Imperial Bedroom'
+p154
+aS'In The Darkest Place'
+p155
+aS'Inch By Inch'
+p156
+aS'Indoor Fireworks'
+p157
+aS'Invasion Hit Parade'
+p158
+aS'It Tears Me Up (Live)'
+p159
+aS"It's Time"
+p160
+aS"I've Been Wrong Before"
+p161
+aS'Jack Of All Parades'
+p162
+aS'Jacksons, Monk And Rowe'
+p163
+aS'Jimmie Standing In The Rain'
+p164
+aS'Joe Porterhouse'
+p165
+aS'Jump Up'
+p166
+aS'Just A Memory'
+p167
+aS'Just About Glad'
+p168
+aS'Kid About It'
+p169
+aS'Kinder Murder'
+p170
+aS'King Horse'
+p171
+aS'King Of Confidence'
+p172
+aS'King Of Thieves'
+p173
+aS'Last Boat Leaving'
+p174
+aS'Leave My Kitten Alone'
+p175
+aS'Less Than Zero'
+p176
+aS'Let Him Dangle'
+p177
+aS'Let Me Tell You About Her'
+p178
+aS'Let Them All Talk'
+p179
+aS"Let's Misbehave"
+p180
+aS'Life Shrinks'
+p181
+aS'Lip Service'
+p182
+aS'Lipstick Vogue'
+p183
+aS'Little Atoms'
+p184
+aS'Little Palaces'
+p185
+aS'Little Savage'
+p186
+aS'Little Triggers'
+p187
+aS'Living In Paradise'
+p188
+aS"London's Brilliant Parade"
+p189
+aS'Long Journey Home'
+p190
+aS'Lost In The Stars'
+p191
+aS'Lovable'
+p192
+aS'Love Field'
+p193
+aS'Love For Sale'
+p194
+aS'Love For Tender'
+p195
+aS'Love Went Mad'
+p196
+aS'Lovers That Never Were'
+p197
+aS"Lover's Walk"
+p198
+aS'Luxembourg'
+p199
+aS'Man Out Of Time'
+p200
+aS'Men Called Uncle'
+p201
+aS'Miracle Man'
+p202
+aS'Mischievous Ghost'
+p203
+asS'Paul Young'
+p204
+(lp205
+S'A Certain Passion'
+p206
+aS"Baby Don't Change Your Mind"
+p207
+aS'Between Two Fires'
+p208
+aS'Bite The Hand That Feeds'
+p209
+aS'Broken Man'
+p210
+aS'Come Back And Stay'
+p211
+aS"Don't Dream It's Over"
+p212
+aS'Every Time  You Go Away'
+p213
+aS'Everything Must Change'
+p214
+aS'Heaven Can Wait'
+p215
+aS"Hey Girl Don't Bother Me"
+p216
+aS'Hope In Hopeless World'
+p217
+aS'Hot Fun'
+p218
+aS'I Was In Chains'
+p219
+aS'I Wish You Love'
+p220
+aS'In The Long Run'
+p221
+aS'It Was A Very Good Year'
+p222
+aS'Love Has No Pride'
+p223
+aS'Love Is In The Air'
+p224
+aS'Love Makes The World Go Around'
+p225
+aS'Love Will Tear Us Apart'
+p226
+aS'Marcel Galarneau'
+p227
+aS'No Parlez'
+p228
+aS'Now I Know What Made Otis Blue'
+p229
+aS'Oh Girl'
+p230
+aS'One Step Forward'
+p231
+aS'Prisoner Of Conscience'
+p232
+aS"Reach Out I'll Be There"
+p233
+aS'Reflections'
+p234
+aS'Senza Una Donna'
+p235
+aS'Softly Whispering I Love You'
+p236
+aS'Some People'
+p237
+aS'Tender Trap'
+p238
+aS"Then There's You"
+p239
+aS'This Means Anything'
+p240
+aS'Tomb Of Memories'
+p241
+aS'Tularosa'
+p242
+aS'War Games'
+p243
+aS'What Becomes Of The Brokenhearted'
+p244
+aS'What Christmas Means To Me'
+p245
+aS'Wherever I Lay My Hat'
+p246
+aS'Wonderland'
+p247
+asS'The Style Council'
+p248
+(lp249
+S'A Casual Affair'
+p250
+aS'A Gospel'
+p251
+aS'A Man Of Great Promise'
+p252
+aS'A Stones Throw Away'
+p253
+aS"A Woman's Song"
+p254
+aS'All Gone Away'
+p255
+aS'All Year Round'
+p256
+aS'Angel'
+p257
+aS"April's Fool"
+p258
+aS'Big Boss Groove'
+p259
+aS'Bloodsports'
+p260
+aS'Boy Who Cried Wolf'
+p261
+aS'Call Me'
+p262
+aS'Can You Still Love Me?'
+p263
+aS'Changing Of The Guard'
+p264
+aS'Come To Milton Keynes'
+p265
+aS'Confessions 1, 2 & 3'
+p266
+aS'Confessions Of A Pop Group'
+p267
+aS'Down In The Seine'
+p268
+aS"Everybody's On The Run"
+p269
+aS'Fairy Tales'
+p270
+aS'Francoise'
+p271
+aS'Ghosts Of Dachau'
+p272
+aS'Have You Ever Had It Blue'
+p273
+aS'Headstart For Happiness'
+p274
+aS"Heaven's Above"
+p275
+aS"Here's One That Got Away"
+p276
+aS'Homebreakers'
+p277
+aS'How She Threw It All Away'
+p278
+aS"I Ain't Goin' Under"
+p279
+aS'I Am Leaving'
+p280
+aS"I Was A Dole Dad's Toy Boy"
+p281
+aS'In Love For The First Time'
+p282
+aS'Internationalists'
+p283
+aS"It Didn't Matter"
+p284
+aS'It Just Came To Pieces In My Hands'
+p285
+aS"It's A Very Deep Sea"
+p286
+aS'Iwasadoledadstoyboy'
+p287
+aS'Life At A Top Peoples Health Farm'
+p288
+aS'Long Hot Summer'
+p289
+aS'Love Pains'
+p290
+aS'Luck'
+p291
+aS'Money-Go-Round'
+p292
+aS'Move On Up'
+p293
+aS'My Ever Changing Moods'
+p294
+aS'My Very Good Friend'
+p295
+aS'Night After Night'
+p296
+aS'Party Chambers'
+p297
+aS'Promised Land'
+p298
+aS'Right To Go'
+p299
+aS'Shout To The Top!'
+p300
+aS'Solid Bond In Your Heart'
+p301
+aS'Soul Deep'
+p302
+aS'Speak Like A Child'
+p303
+aS"Spin' Drifting"
+p304
+aS'Spring, Summer, Autumn'
+p305
+aS'Sweet Loving Ways'
+p306
+aS'The Cost Of Loving'
+p307
+aS'The Gardener Of Eden'
+p308
+aS"The Lodger's"
+p309
+aS'The Paris Match'
+p310
+aS'The Piccadilly Trail'
+p311
+aS"The Stand Up Comic's Instructions"
+p312
+aS"The Story Of Someone's Shoe"
+p313
+aS'The Whole Point Ii'
+p314
+aS'The Whole Point Of No Return'
+p315
+aS'Waiting'
+p316
+aS'Waiting On A Connection'
+p317
+aS'Walking The Night'
+p318
+aS'Walls Come Tumbling Down'
+p319
+aS'Wanted'
+p320
+aS'Who Will Buy?'
+p321
+aS'Why I Went Missing'
+p322
+aS'With Everything To Lose'
+p323
+aS"You're The Best Thing"
+p324
+asS'Depeche Mode'
+p325
+(lp326
+S"A Pain That I'm Used To"
+p327
+aS'A Photograph Of You'
+p328
+aS'A Question Of Lust'
+p329
+aS'A Question Of Time'
+p330
+aS'Addiction'
+p331
+aS"All That's Mine"
+p332
+aS'Alone'
+p333
+aS'Always'
+p334
+aS'And Then...'
+p335
+aS'Angel'
+p336
+aS'Any Second Now'
+p337
+aS'Barrel Of A Gun'
+p338
+aS'Behind The Wheel'
+p339
+aS"Better Days (Basteroid 'Dance Is Gone' Vocal Mix)"
+p340
+aS'Black Celebration'
+p341
+aS'Black Day'
+p342
+aS'Blasphemous Rumours'
+p343
+aS'Blue Dress'
+p344
+aS'Boys Say Go!'
+p345
+aS'Breathe'
+p346
+aS'Broken'
+p347
+aS'But Not Tonight'
+p348
+aS'Clean'
+p349
+aS'Comatose'
+p350
+aS'Come Back'
+p351
+aS'Coming Back To You'
+p352
+aS'Compulsion (Evolution Mix)'
+p353
+aS'Condemnation'
+p354
+aS'Corrupt'
+p355
+aS'Damaged People'
+p356
+aS'Dangerous'
+p357
+aS"Death's Door"
+p358
+aS'Dirt'
+p359
+aS'Dream On'
+p360
+aS'Dreaming Of Me'
+p361
+aS'Dressed In Black'
+p362
+aS'Enjoy The Silence'
+p363
+aS'Everything Counts'
+p364
+aS'Everything Counts (reprise)'
+p365
+aS'Flexible'
+p366
+aS'Fly On The Windscreen'
+p367
+aS'Fools'
+p368
+aS'Fragile Tension'
+p369
+aS'Free'
+p370
+aS'Freelove'
+p371
+aS'Freestate'
+p372
+aS'Get Right With Me'
+p373
+aS'Get The Balance Right'
+p374
+aS'Ghost'
+p375
+aS'Gone (The Vacuous House Mix)'
+p376
+aS'Goodbye'
+p377
+aS'Goodnight Lovers'
+p378
+aS'Halo'
+p379
+aS'Happens All The Time'
+p380
+aS'Happiest Girl'
+p381
+aS'Heaven'
+p382
+aS'Heaven II'
+p383
+aS'Here Is The House'
+p384
+aS'Higher Love'
+p385
+aS'Hole To Feed'
+p386
+aS'Home'
+p387
+aS'I Am You'
+p388
+aS'I Feel Loved'
+p389
+aS'I Feel You'
+p390
+aS'I Like It'
+p391
+aS'I Sometimes Wish I Was Dead'
+p392
+aS'I Want It All'
+p393
+aS'I Want You Now'
+p394
+aS'Ice Machine'
+p395
+aS'If You Want'
+p396
+aS'In A Manner Of Speaking (Trandy Mix)'
+p397
+aS'In Chains'
+p398
+aS'In Sympathy'
+p399
+aS'In Your Memory'
+p400
+aS'In Your Room'
+p401
+aS'Insight'
+p402
+aS"It Doesn't Matter"
+p403
+aS"It Doesn't Matter Two"
+p404
+aS"It's Called A Heart"
+p405
+aS"It's No Good"
+p406
+aS'Jezebel'
+p407
+aS'John The Revelator'
+p408
+aS'Judas'
+p409
+aS"Just Can't Get Enough"
+p410
+aS'Leave In Silence'
+p411
+aS'Lie To Me'
+p412
+aS'Light'
+p413
+aS'Lillian'
+p414
+aS'Little 15'
+p415
+aS'Little Soul'
+p416
+aS'Long Time Lie'
+p417
+aS'Love, In Itself'
+p418
+aS'Macro'
+p419
+aS'Martyr'
+p420
+aS'Master And Servant'
+p421
+aS'Mercy In You'
+p422
+aS'Miles Away/The Truth Is'
+p423
+aS'Monument'
+p424
+aS'More Than A Party'
+p425
+aS'Motherless Child (Dark-Wave Mix)'
+p426
+aS'My Joy'
+p427
+aS'My Little Universe'
+p428
+aS'My Secret Garden'
+p429
+aS'Never Let Me Down Again'
+p430
+aS'Never Turn Your Back On Mother Earth (Bong Magazine)'
+p431
+aS'New Dress'
+p432
+aS'New Life'
+p433
+aS'Newborn'
+p434
+aS'No Disco'
+p435
+aS'Nothing'
+p436
+aS"Nothing's Impossible"
+p437
+aS'Now, This Is Fun'
+p438
+aS'Oh Well'
+p439
+aS'One Caress'
+p440
+aS'Only When I Lose Myself'
+p441
+aS'Peace'
+p442
+aS'People Are People'
+p443
+aS'Perfect'
+p444
+aS'Personal Jesus'
+p445
+aS'Photographic'
+p446
+aS'Pipeline'
+p447
+aS'Pleasure, Little Treasure'
+p448
+aS'Policy Of Truth'
+p449
+aS'Precious'
+p450
+aS'Puppets'
+p451
+aS'Reason Man'
+p452
+aS'Route 66'
+p453
+aS'Rush'
+p454
+aS'Sacred'
+p455
+aS'Satellite'
+p456
+aS'Sea Of Sin'
+p457
+aS'Secret To The End'
+p458
+aS'See You'
+p459
+aS'Set Me Free'
+p460
+aS'Shake The Disease'
+p461
+aS'Shame'
+p462
+aS'Shine'
+p463
+aS'Should Be Higher'
+p464
+aS"Shouldn't Have Done That"
+p465
+aS'Shout'
+p466
+aS'Sister Of Night'
+p467
+aS'Slow'
+p468
+aS'Smile In A Crowd (Oriental Mix)'
+p469
+aS'Soft Touch/Raw Nerve'
+p470
+aS'Somebody'
+p471
+aS'Something To Do'
+p472
+aS'Sometimes'
+p473
+aS'Song For Europe (Unreleased Track)'
+p474
+aS'Soothe My Soul'
+p475
+aS'Stories Of Old'
+p476
+aS'Strangelove'
+p477
+aS'Stripped'
+p478
+aS'Suffer Well'
+p479
+aS'Surrender'
+p480
+aS'Sweetest Perfection'
+p481
+aS'Television Set'
+p482
+aS'The Bottom Line'
+p483
+aS'The Child Inside'
+p484
+aS'The Darkest Star'
+p485
+aS'The Dead Of Night'
+p486
+aS'The Landscape Is Changing'
+p487
+aS'The Love Thieves'
+p488
+aS'The Meaning Of Love'
+p489
+aS'The Price Of Love'
+p490
+aS'The Sinner In Me'
+p491
+aS'The Sun And The Moon And The Stars'
+p492
+aS'The Sun & The Rainfall'
+p493
+aS'The Sweetest Condition'
+p494
+aS'The Things You Said'
+p495
+aS'To Have And To Hold'
+p496
+aS'Told You So'
+p497
+aS"Tomorrow's Dance"
+p498
+aS'Tora! Tora! Tora!'
+p499
+aS'Two Minute Warning'
+p500
+aS'Useless'
+p501
+aS'Useless [The Kruder And Dorfmeister Session]'
+p502
+aS'Waiting For The Night'
+p503
+aS'Walking In My Shoes'
+p504
+aS'Welcome To My World'
+p505
+aS"What's Your Name?"
+p506
+aS'When The Body Speaks'
+p507
+aS'Work Hard'
+p508
+aS'World Full Of Nothing'
+p509
+aS'World In My Eyes'
+p510
+aS'Wrong'
+p511
+asS'The Police'
+p512
+(lp513
+S'A Sermon'
+p514
+aS"Ain't No Sunshine"
+p515
+aS'All This Time'
+p516
+aS'Almost There'
+p517
+aS'Be My Girl - Sally'
+p518
+aS'Bombs Away'
+p519
+aS"Born In The '50S"
+p520
+aS'Brand New Day'
+p521
+aS'Bring On The Night'
+p522
+aS'Canary In A Coalmine'
+p523
+aS"Can't Stand Losing You"
+p524
+aS'Codeword Elvis'
+p525
+aS'Contact'
+p526
+aS'Darkness'
+p527
+aS'De Do Do Do, De Da Da Da'
+p528
+aS'De Do Do Do (in Spanish)'
+p529
+aS'Deathwish'
+p530
+aS'Demolition Man'
+p531
+aS'Does Everyone Stare'
+p532
+aS"Don't Stand So Close To Me"
+p533
+aS'Driven To Tears'
+p534
+aS'Every Breath You Take'
+p535
+aS'Every Little Thing She Does Is Magic'
+p536
+aS'Fall Out'
+p537
+aS'Flashback'
+p538
+aS'Frame Of Mind'
+p539
+aS'Friends'
+p540
+aS'Gemini/the Madman'
+p541
+aS'Heaven (never Seemed So Far Away)'
+p542
+aS'High-flying Bird (an Ode To San Francisco)'
+p543
+aS'Hole In My Life'
+p544
+aS"Hungry For You (j'aurais Toujours Faim De Toi)"
+p545
+aS'I Am The Sun'
+p546
+aS'I Burn For You'
+p547
+aS'I Shall Be Released'
+p548
+aS'If You There'
+p549
+aS"I'm An Animal"
+p550
+aS'Im Dying, Or Am I?'
+p551
+aS'Invisible Sun'
+p552
+aS"It's Alright For You"
+p553
+aS"It's My Life"
+p554
+aS'King Of Pain'
+p555
+aS'Lady Of Delight'
+p556
+aS'Low Life'
+p557
+aS'Man In A Suitcase'
+p558
+aS'Masoko Tanga'
+p559
+aS'Message In Bottle'
+p560
+aS'Miss Gradenko'
+p561
+aS'Mother'
+p562
+aS'Mr. Normal'
+p563
+aS'Murder By Numbers'
+p564
+aS'New World Blues'
+p565
+aS'Next To You'
+p566
+aS'No Time This Time'
+p567
+aS'Nothing Achieving'
+p568
+aS'Nuclear Waste (version 1)'
+p569
+aS'Nuclear Waste (version 2)'
+p570
+aS'O My God'
+p571
+aS'Omegaman'
+p572
+aS'On Any Other Day'
+p573
+aS'Once Upon A Daydream'
+p574
+aS'One World'
+p575
+aS'Only The Wind'
+p576
+aS'Peanuts'
+p577
+aS'Recapture The Thrill'
+p578
+aS'Regatta De Blanc'
+p579
+aS'Reggatta De Blanc'
+p580
+aS'Rehumanize Yourself'
+p581
+aS'River Deep Mountain High'
+p582
+aS'Round Midnight'
+p583
+aS'Roxanne'
+p584
+aS'Secret Journey'
+p585
+aS'Shadows In The Rain'
+p586
+aS'Shambelle'
+p587
+aS'Shape Of My Heart'
+p588
+aS'So Lonely'
+p589
+aS'Someone To Talk To'
+p590
+aS'Spirits In The Material World'
+p591
+aS'Synchronicity I'
+p592
+aS'Synchronicity Ii'
+p593
+aS'Tea In The Sahara'
+p594
+aS"The Bed's Too Big Without You"
+p595
+aS'The Madman Running Through The Fields'
+p596
+aS'Too Much Information'
+p597
+aS'Towers Tumbled'
+p598
+aS'Walking In Your Footsteps'
+p599
+aS'Walking On The Moon'
+p600
+aS'When The World Is Running Down'
+p601
+aS'World War Three'
+p602
+aS'Wrapped Around Your Finger'
+p603
+asS'Belouis Some'
+p604
+(lp605
+S'Imagination'
+p606
+aS'Some People'
+p607
+asS'Soft Cell'
+p608
+(lp609
+S'A Lover Spurned'
+p610
+aS'All Out Of Love'
+p611
+aS'Baby Doll'
+p612
+aS'Barriers'
+p613
+aS'Bedsitter'
+p614
+aS'Best Way To Kill'
+p615
+aS'Caligula Syndrome'
+p616
+aS'Chips On My Shoulder'
+p617
+aS'Dancing Alone'
+p618
+aS'Darker Times'
+p619
+aS'Desperate'
+p620
+aS'Disease & Desire'
+p621
+aS'Down In The Subway'
+p622
+aS'Entertain Me'
+p623
+aS'Forever The Same'
+p624
+aS'Frustration'
+p625
+aS'Fun City'
+p626
+aS'Heat'
+p627
+aS'Hendrix Medley'
+p628
+aS'Her Imagination'
+p629
+aS'I Feel Love'
+p630
+aS'Insecure Me'
+p631
+aS"It's A Mug's Game"
+p632
+aS'Kitchen Sink Drama'
+p633
+aS'Last Chance'
+p634
+aS'Le Grand Guignol'
+p635
+aS"L'esqualita"
+p636
+aS'Little Rough Rhinestone'
+p637
+aS'Love Feelings'
+p638
+aS'Loving You - Hating Me'
+p639
+aS'Martin'
+p640
+aS'Meet Murder My Angel'
+p641
+aS'Memorabilia'
+p642
+aS'Metro Mrx'
+p643
+aS'Monoculture'
+p644
+aS'Mr Self Destruct'
+p645
+aS'Numbers'
+p646
+aS'On An Up'
+p647
+aS'Persuasion'
+p648
+aS'Potential'
+p649
+aS'Say Hello Wave Goodbye'
+p650
+aS'Secret Life'
+p651
+aS'Seedy Films'
+p652
+aS'Sensation Nation'
+p653
+aS'Slave To This'
+p654
+aS"Something's Gotten Hold Of My Heart"
+p655
+aS'Soul Inside'
+p656
+aS'Surrender To A Stranger'
+p657
+aS"Tainted Love '91"
+p658
+aS'Tears Run Rings'
+p659
+aS'The Art Of Falling Apart'
+p660
+aS'The Night'
+p661
+aS'Together Alone'
+p662
+aS'Torch'
+p663
+aS'Waifs & Strays'
+p664
+aS'What'
+p665
+aS'Whatever It Takes'
+p666
+aS'Where Did Our Love Go'
+p667
+aS'Where The Heart Is'
+p668
+aS'Where Was Your Heart (When You Needed It Most)'
+p669
+aS'You Only Live Twice'
+p670
+aS'Youth'
+p671
+asS'Thomas Dolby'
+p672
+(lp673
+S'17 Hills'
+p674
+aS'A Jealous Thing Called Love'
+p675
+aS'Airhead'
+p676
+aS'Airwaves'
+p677
+aS'Armageddon'
+p678
+aS'Budapest By Blimp'
+p679
+aS'Close But No Cigar'
+p680
+aS'Cloud Burst At Shingle Street'
+p681
+aS'Commercial Breakup'
+p682
+aS'Cruel'
+p683
+aS'Dissidents'
+p684
+aVEastern Bloc (Sequel To Europa And The\u2026
+p685
+aS'Eastern Bloc (Sequel To Europa And The Pirate Twins, 1981)'
+p686
+aS'Europa And The Pirate Twins'
+p687
+aS'Evil Twin Brother'
+p688
+aS'Flying North'
+p689
+aS'Hot Sauce'
+p690
+aS'Hyperactive'
+p691
+aS'I Live In A Suitcase'
+p692
+aS'I Love You Goodbye'
+p693
+aS'I Scare Myself'
+p694
+aS"I'm Not Your Dog"
+p695
+aS'Leipzig'
+p696
+aS'Love Is A Loaded Pistol'
+p697
+aS'May The Cube Be With You'
+p698
+aS'Mulu The Rain Forest'
+p699
+aS'My Brain Is Like A Sieve'
+p700
+aS'N.E.O.'
+p701
+aS'Neon Sisters'
+p702
+aS'Nothing New Under The Sun'
+p703
+aS'Nuvogue'
+p704
+aS'Oceanea'
+p705
+aS'One Of Our Submarines'
+p706
+aS'Pulp Culture'
+p707
+aS'Quantum Mechanic'
+p708
+aS'Radio Silence'
+p709
+aS'Road To Reno'
+p710
+aS'Screen Kiss'
+p711
+aS'She Blinded Me With Science'
+p712
+aS'Silk Pyjamas'
+p713
+aS'Simone'
+p714
+aS'Spice Train'
+p715
+aS"That's Why People Fall In Love"
+p716
+aS'The Ability To Swing'
+p717
+aS'The Beauty Of A Dream'
+p718
+aS'The Flat Earth'
+p719
+aS'The Key To Her Ferrari'
+p720
+aS'The Mirror Song'
+p721
+aS"The Valley Of The Mind's Eye"
+p722
+aS'To The Lifeboats'
+p723
+aS'Toad Lickers'
+p724
+aS'Urges'
+p725
+aS'Weightless'
+p726
+aS'White City'
+p727
+aS'Wind Power'
+p728
+asS'Modern English'
+p729
+(lp730
+S'A Viable Commercial'
+p731
+aS'After The Snow'
+p732
+aS'Beautiful People'
+p733
+aS'Beauty'
+p734
+aS'Black Houses'
+p735
+aS'Blue Waves'
+p736
+aS'Breaking Away'
+p737
+aS'Care About You'
+p738
+aS'Carry Me Down'
+p739
+aS'Chapter 12'
+p740
+aS'Coming Up For Air'
+p741
+aS'Dance Of Devotion'
+p742
+aS'Dawn Chorus'
+p743
+aS'Elastic'
+p744
+aS'Face Of Wood'
+p745
+aS'Gathering Dust'
+p746
+aS'Grief'
+p747
+aS'Hands Across The Sea'
+p748
+aS'Heart'
+p749
+aS'Heaven'
+p750
+aS'Here We Go Again'
+p751
+aS"I Can't Believe"
+p752
+aS'I Melt With You'
+p753
+aS'Ink And Paper'
+p754
+aS"It's Ok"
+p755
+aS'Just A Thought'
+p756
+aS"Let's All Dream"
+p757
+aS'Life In The Gladhouse'
+p758
+aS"Life's Rich Tapestry"
+p759
+aS'Machines'
+p760
+aS'Move In Light'
+p761
+aS'Pillow Lips'
+p762
+aS"Rainbow's End"
+p763
+aS'Ricochet Days'
+p764
+aS'Ringing In The Change'
+p765
+aS'Sixteen Days'
+p766
+aS"Someone's Calling"
+p767
+aS'Spinning Me Round'
+p768
+aS'Tables Turning'
+p769
+aS'Take Me Away'
+p770
+aS"That's Right"
+p771
+aS'The Killing Screens'
+p772
+aS'The Token Man'
+p773
+aS'Waves'
+p774
+aS"You're Too Much"
+p775
+asS'Joe Jackson'
+p776
+(lp777
+S"1-2-3 Go (This Town's A Fairground)"
+p778
+aS'A Place In The Rain'
+p779
+aS'A Slow Song'
+p780
+aS'Amateur Hour'
+p781
+aS'Angel'
+p782
+aS'Another World'
+p783
+aS'Awkward Age'
+p784
+aS'Baby Stick Around'
+p785
+aS'Battleground'
+p786
+aS'Be My Number Two'
+p787
+aS'Beat Crazy'
+p788
+aS'Big World'
+p789
+aS'Biology'
+p790
+aS'Blaze Of Glory'
+p791
+aS'Blue Flame'
+p792
+aS'Breaking Us In Two'
+p793
+aS'Bright Grey'
+p794
+aS'Cancer'
+p795
+aS'Cha Cha Loco'
+p796
+aS'Chinatown'
+p797
+aS'Chrome'
+p798
+aS'Cosmopolitan'
+p799
+aS"Crime Don't Pay"
+p800
+aS'Dear Mom'
+p801
+aS'Different For Girls'
+p802
+aS'Dirty Martini'
+p803
+aS'Discipline'
+p804
+aS'(Do The) Instant Mash'
+p805
+aS"Don't Ask Me"
+p806
+aS"Don't Wanna Be Like That"
+p807
+aS'Down To London'
+p808
+aS'Drowning'
+p809
+aS'Drunk Song'
+p810
+aS'Eleanor Rigby'
+p811
+aS'Enough Is Not Enough'
+p812
+aS'Ever After'
+p813
+aS'Evil Empire'
+p814
+aS'Fairy Dust'
+p815
+aS'Fifty Dollar Love Affair'
+p816
+aS'Fit'
+p817
+aS'Five Guys Named Moe'
+p818
+aS'Flying'
+p819
+aS'Fools In Love'
+p820
+aS'For Your Love'
+p821
+aS'Forty Years'
+p822
+aS'Friday'
+p823
+aS'Fugue 1 / More Is More'
+p824
+aS'Fugue 2 / Song Of Daedalus'
+p825
+aS'Geraldine And John'
+p826
+aS'Get That Girl'
+p827
+aS'Glamour & Pain'
+p828
+aS'Go For It'
+p829
+aS"Goin' Downtown"
+p830
+aS'Good Bad Boy'
+p831
+aS'Got The Time'
+p832
+aS'Happy Ending'
+p833
+aS'Happy Loving Couples'
+p834
+aS'Happyland'
+p835
+aS'Hell Of A Town'
+p836
+aS'Hit Single'
+p837
+aS'Home Town'
+p838
+aS'How Long Must I Wait For You'
+p839
+aS"I'm The Man"
+p840
+aS'In Every Dream Home (A Nightmare)'
+p841
+aS'Invisible Man'
+p842
+aS'Is She Really Going Out With Him?'
+p843
+aS"Is You Is Or Is You Ain't My Baby"
+p844
+aS"It's All Too Much"
+p845
+aS"Jack, You're Dead"
+p846
+aS'Jamie G.'
+p847
+aS'Jenny Jenny'
+p848
+aS"Jumpin' Jive"
+p849
+aS"Jumpin' With Symphony Sid"
+p850
+aS'Just Because...'
+p851
+aS'Kinda Kute'
+p852
+aS'King Of The World'
+p853
+aS'King Pleasure Time'
+p854
+aS'Laundromat Monday'
+p855
+aS'Life Is Just A Bowl Of Cherries'
+p856
+aS'Little Bit Stupid'
+p857
+aS'Look Sharp'
+p858
+aS'Love At First Light'
+p859
+aS'Love Got Lost'
+p860
+aS'Mad At You'
+p861
+aS'Man In The Street'
+p862
+aS'Me And You'
+p863
+aS'Memphis'
+p864
+aS'Mood Indigo'
+p865
+aS'Moonlight'
+p866
+aS'My House'
+p867
+aS'Nineteen Forever'
+p868
+aS'Not Here, Not Now'
+p869
+aS'Obvious Song'
+p870
+aS'Oh Well'
+p871
+aS'On Your Radio'
+p872
+aS'One More Time'
+p873
+aS'One To One'
+p874
+aS'Out Of Style'
+p875
+aS'Passacaglia / A Bud & A Slice'
+p876
+aS'Precious Time'
+p877
+aS'Pretty Boys'
+p878
+aS'Pretty Girls'
+p879
+aS'Rant And Rave'
+p880
+aS'Real Men'
+p881
+aS'Rhythm Delivery'
+p882
+aS'Right And Wrong'
+p883
+aS'Rush Across The Road'
+p884
+aS'San Francisco Fan'
+p885
+aS'Sentimental Thing'
+p886
+aS'Shanghai Sky'
+p887
+aS'Shape In A Drape'
+p888
+aS'Solo (So Low)'
+p889
+aS'Someone Up There'
+p890
+aS'Soul Kiss'
+p891
+aS'Statue Of Liberty'
+p892
+aS'Stay'
+p893
+aS"Steppin' Out"
+p894
+aS'Still Alive'
+p895
+aS'Stranger Than Fiction'
+p896
+aS'Stranger Than You'
+p897
+aS'Summer In The City'
+p898
+aS'Sunday Papers'
+p899
+aS'Survival'
+p900
+aS'Take It Like A Man'
+p901
+aS'Tango Atlantico'
+p902
+aS'Target'
+p903
+aS'The Band Wore Blue Shirts'
+p904
+aS'The Best I Can Do'
+p905
+aS'The Bridge'
+p906
+aS'The Evil Eye'
+p907
+aS'The Harder They Come'
+p908
+aS'The Human Touch'
+p909
+aS'The Jet Set'
+p910
+aS'The Man Who Wrote Danny Boy'
+p911
+aS'The Old Songs'
+p912
+aS'The Other Me'
+p913
+aS'The Verdict'
+p914
+aS'Throw It Away'
+p915
+aS'Thugz R Us'
+p916
+aS'Tiger Rag'
+p917
+aS'Tilt'
+p918
+aS"Tomorow's World"
+p919
+aS'Tonight And Forever'
+p920
+aS'Too Tough'
+p921
+aS'Trying To Cry'
+p922
+aS'Tuxedo Junction'
+p923
+aS'Tuzla'
+p924
+aS'T.V. Age'
+p925
+aS'Wasted Time'
+p926
+aS"We Can't Live Together"
+p927
+aS'We The Cats (Shall Hep Ya)'
+p928
+aS"What's The Use Of Getting Sober (When You're Gonna Get Drunk Again)"
+p929
+aS"When You're Not Around"
+p930
+aS'Why'
+p931
+aS'Wild West'
+p932
+aS"You Can't Get What You Want"
+p933
+aS'You Got The Fever'
+p934
+aS'You Run Your Mouth'
+p935
+aS"You're My Meat"
+p936
+asS'Big Country'
+p937
+(lp938
+S'1,000 Stars'
+p939
+aS'All Fall Together'
+p940
+aS'All Go Together'
+p941
+aS'All Of Us'
+p942
+aS'Alone'
+p943
+aS'Angle Park'
+p944
+aS'Balcony'
+p945
+aS'Beat The Devil'
+p946
+aS'Belief In The Small Man'
+p947
+aS'Big Yellow Taxi'
+p948
+aS'Buffalo Skinners'
+p949
+aS'Chance'
+p950
+aS'Charlotte'
+p951
+aS'Chesters Farm'
+p952
+aS'Close Action'
+p953
+aS'Come Back To Me'
+p954
+aS'Comes A Time'
+p955
+aS'Cracked Actor'
+p956
+aS'Dive In To Me'
+p957
+aS"Don't You Stay"
+p958
+aS'Driving To Damascus'
+p959
+aS'Dynamite Lady'
+p960
+aS'East Of Eden'
+p961
+aS'Eiledon'
+p962
+aS'Eleanor Rigby'
+p963
+aS'Far From Me To You'
+p964
+aS'Fields Of Fire'
+p965
+aS'Flame Of The West'
+p966
+aS'Fragile Thing'
+p967
+aS'Harvest Home'
+p968
+aS'Heart & Soul'
+p969
+aS'Hold The Heart'
+p970
+aS'I Could Be Happy Here'
+p971
+aS'I Walk The Hill'
+p972
+aS"I'm Eighteen"
+p973
+aS"I'm Not Ashamed"
+p974
+aS"I'm On This Train"
+p975
+aS"I'm Only Waiting"
+p976
+aS'In A Big Country'
+p977
+aS'In A Big Country (Unplugged)'
+p978
+aS'In This Place'
+p979
+aS'Inwards'
+p980
+aS"John Wayne's Dream"
+p981
+aS'Just A Shadow'
+p982
+aS'King Of Emotion'
+p983
+aS'Kiss The Girl Goodbye'
+p984
+aS'Long Way Home'
+p985
+aS'Look Away'
+p986
+aS'Loserville'
+p987
+aS'Lost Patrol'
+p988
+aS'Oh Well'
+p989
+aS'One Great Thing'
+p990
+aS'One In A Million'
+p991
+aS'Peace In Our Time'
+p992
+aS'Perfect World'
+p993
+aS'Pink Marshmallow Moon'
+p994
+aS'Porroh Man'
+p995
+aS'Post Nuclear Talking Blues'
+p996
+aS'Prairie Rose'
+p997
+aS'President Slipped And Fell'
+p998
+aS'Red Fox'
+p999
+aS'Rememberance Day'
+p1000
+aS'Restless Natives'
+p1001
+aS'Ruby Tuesday'
+p1002
+aS'Sail Into Nothing'
+p1003
+aS'Sailor'
+p1004
+aS'See You'
+p1005
+aS'Send You'
+p1006
+aS'Seven Waves'
+p1007
+aS'Ships'
+p1008
+aS'Somebody Else'
+p1009
+aS'Steeltown'
+p1010
+aS'The Crossing'
+p1011
+aS'The Night They Drove Old Dixie Down'
+p1012
+aS'The One I Love'
+p1013
+aS'The Seer'
+p1014
+aS'The Storm'
+p1015
+aS'The Teacher'
+p1016
+aS'Thirteen Valleys'
+p1017
+aS'Thousand Yard Stare'
+p1018
+aS'Tracks Of My Tears [Live]'
+p1019
+aS'Trouble In The Waters'
+p1020
+aS"We're Not In Kansas"
+p1021
+aS'What Are You Working For'
+p1022
+aS'Where The Rose Is Sown'
+p1023
+aS'Winding Wind'
+p1024
+aS'Winter Sky'
+p1025
+aS'Wonderland'
+p1026
+aS'You Dreamer'
+p1027
+aS'Your Spirit To Me'
+p1028
+asS'Tears for Fears'
+p1029
+(lp1030
+S'Advice For The Young At Heart'
+p1031
+aS'All Of The Angels'
+p1032
+aS'Always In The Past'
+p1033
+aS'Ashes To Ashes'
+p1034
+aS"Badman's Song"
+p1035
+aS'Bloodletting Go'
+p1036
+aS'Break It Down Again'
+p1037
+aS'Brian Wilson Said'
+p1038
+aS'Broken'
+p1039
+aS'Call Me Mellow'
+p1040
+aS'Change'
+p1041
+aS'Closest Thing To Heaven'
+p1042
+aS'Cold'
+p1043
+aS'Deja Vu And The Sins Of Science'
+p1044
+aS"Dog's A Best Friend's Dog"
+p1045
+aS"Don't Drink The Water"
+p1046
+aS'Elemental'
+p1047
+aS'Empire Building (Mix)'
+p1048
+aS'Everybody Loves A Happy Ending'
+p1049
+aS'Everybody Wants To Rule The World'
+p1050
+aS'Falling Down'
+p1051
+aS'Famous Last Words'
+p1052
+aS'Fish Out Of Water'
+p1053
+aS'Floating Down The River'
+p1054
+aS"God's Mistake"
+p1055
+aS'Goodnight Song'
+p1056
+aS'Head Over Heels'
+p1057
+aS'Humdrum And Humble'
+p1058
+aS'I Believe'
+p1059
+aS'I Choose You'
+p1060
+aS'Ideas As Opiates'
+p1061
+aS'Johnny Panic And The Bible Of Dreams'
+p1062
+aS'Killing With Kindness'
+p1063
+aS'Ladybird'
+p1064
+aS'Laid So Low'
+p1065
+aS'Last Days On Earth'
+p1066
+aS'Lord Of Karma'
+p1067
+aS'Los Reyes Catolicos'
+p1068
+aS'Los Reyes Catolicos (Reprise)'
+p1069
+aS'Mad World'
+p1070
+aS'Madness Of Roland'
+p1071
+aS'Me And My Big Ideas'
+p1072
+aS'Memories Fade'
+p1073
+aS'Mothers Talk'
+p1074
+aS'Mr. Pessimist'
+p1075
+aS'My Life In The Suicide Ranks'
+p1076
+aS'New Star'
+p1077
+aS'Out Of Control'
+p1078
+aS'Pale Shelter'
+p1079
+aS'Power'
+p1080
+aS"Pullin' A Cloud"
+p1081
+aS'Queen Of Compromise'
+p1082
+aS'Quiet Ones'
+p1083
+aS'Raoul And The Kings Of Spain'
+p1084
+aS"Schrodinger's Cat"
+p1085
+aS'Sea Song'
+p1086
+aS'Secret World'
+p1087
+aS'Secrets'
+p1088
+aS'Shout'
+p1089
+aS'Shout (Bonus Beats)'
+p1090
+aS'Size Of Sorrow'
+p1091
+aS'Sketches Of Pain'
+p1092
+aS'Sorry'
+p1093
+aS'Sowing The Seeds Of Love'
+p1094
+aS'Standing On The Corner Of The Third World'
+p1095
+aS'Start Of The Breakdown'
+p1096
+aS'Suffer The Children'
+p1097
+aS'Swords And Knives'
+p1098
+aS'Tears Roll Down'
+p1099
+aS'The Big Chair'
+p1100
+aS'The Conflict'
+p1101
+aS'The Devil'
+p1102
+aS'The Hurting'
+p1103
+aS'The Prisoner'
+p1104
+aS'The Way You Are'
+p1105
+aS'The Working Hour'
+p1106
+aS'Until I Drown'
+p1107
+aS'War Of Attrition'
+p1108
+aS'Watch Me Bleed'
+p1109
+aS'When In Love With A Blind Man'
+p1110
+aS'Who Killed Tangerine'
+p1111
+aS'Who You Are'
+p1112
+aS'Wino'
+p1113
+aS'Woman In Chains'
+p1114
+aS'Year Of The Knife'
+p1115
+asS'Naked Eyes'
+p1116
+(lp1117
+S'A Very Hard Act To Follow'
+p1118
+aS'Always Something There To Remind Me'
+p1119
+aS'Communication Without Sound'
+p1120
+aS'Could Be'
+p1121
+aS'Cry Baby Cry'
+p1122
+aS'Emotion In Motion'
+p1123
+aS'Eyes Of A Child'
+p1124
+aS'Flag Of Convenience'
+p1125
+aS'Flying Solo'
+p1126
+aS'Fortune And Fame'
+p1127
+aS'I Could Show You How'
+p1128
+aS"I'd Do Anything"
+p1129
+aS"If I Can't Make You Mine"
+p1130
+aS"I'm A Believer"
+p1131
+aS'Impossible Dream'
+p1132
+aS'Low Life'
+p1133
+aS'Man Out Of Time'
+p1134
+aS'Me I See In You'
+p1135
+aS'New Hearts'
+p1136
+aS'Promises Promises'
+p1137
+aS'Rocket Man'
+p1138
+aS'Sacrifice'
+p1139
+aS'Sad Lisa'
+p1140
+aS'The Time Is Now'
+p1141
+aS'The World In Which We Love'
+p1142
+aS'Victims Of Fact'
+p1143
+aS'Voices In My Head'
+p1144
+aS'(What) In The Name Of Love'
+p1145
+aS'When The Lights Go Out'
+p1146
+aS"You're Gonna Make Me Lonesome When You Go"
+p1147
+asS'Pet Shop Boys'
+p1148
+(lp1149
+S'A Different Point Of View'
+p1150
+aS'A Face Like That'
+p1151
+aS'A Man Could Get Arrested'
+p1152
+aS'A New Life'
+p1153
+aS'A Red Letter Day'
+p1154
+aS'Absolutely Fabulous (Rollo Our Tribe Tongue-In-Cheek Mix)'
+p1155
+aS'After All (The Odessa Staircase)'
+p1156
+aS'All Over The World'
+p1157
+aS'Always'
+p1158
+aS'Always On My Mind'
+p1159
+aS'Axis'
+p1160
+aS'Beautiful People'
+p1161
+aS'Before'
+p1162
+aS'Being Boring'
+p1163
+aS"Bet She's Not Your Girlfriend"
+p1164
+aS'Between Two Islands'
+p1165
+aS'Birthday Boy'
+p1166
+aS'Black Tie White Noise'
+p1167
+aS'Bolshy'
+p1168
+aS'Boy Strange'
+p1169
+aS'Break 4 Love'
+p1170
+aS'Breathing Space'
+p1171
+aS'Building A Wall'
+p1172
+aS'Can You Forgive Her?'
+p1173
+aS'Can You Forgive Her? (Rollo Dub)'
+p1174
+aS'Casanova In Hell'
+p1175
+aS'Closer To Heaven'
+p1176
+aS'Closer To Heaven 2'
+p1177
+aS'Confidential'
+p1178
+aS'Decadence'
+p1179
+aS'Did You See Me Coming?'
+p1180
+aS'Discoteca'
+p1181
+aS'Dj Culture'
+p1182
+aS'Do I Have To?'
+p1183
+aS'Domino Dancing'
+p1184
+aS'Don Juan'
+p1185
+aS'Dreaming Of The Queen'
+p1186
+aS'E-Mail'
+p1187
+aS'Ego Music'
+p1188
+aS'Electricity'
+p1189
+aS'Euroboy'
+p1190
+aS'Everything Means Something'
+p1191
+aS'Flamboyant'
+p1192
+aS'Fluorescent'
+p1193
+aS'Footsteps'
+p1194
+aS'For Your Own Good'
+p1195
+aS'Forever In Love'
+p1196
+aS'Friendly Fire'
+p1197
+aS'Girls And Boys'
+p1198
+aS"Girls Don't Cry"
+p1199
+aS'Give It A Go'
+p1200
+aS'Go West'
+p1201
+aS'Happiness Is An Option'
+p1202
+aS'Heart'
+p1203
+aS'Here'
+p1204
+aS'Hey, Headmaster'
+p1205
+aS'Hit Music'
+p1206
+aS'Hold On'
+p1207
+aS'Home And Dry'
+p1208
+aS'How Can You Expect To Be Taken Seriously?'
+p1209
+aS"How I Learned To Hate Rock 'n' Roll"
+p1210
+aS"I Didn't Get Where I Am Today"
+p1211
+aVI Don't Know What You Want But I Can't\u2026
+p1212
+aS'I Get Along'
+p1213
+aS'I Get Excited'
+p1214
+aS'I Made My Excuses And Left'
+p1215
+aS'I Want A Dog'
+p1216
+aS'I Want A Lover'
+p1217
+aS'I Want To Wake Up'
+p1218
+aS"I Wouldn't Normally Do This Kind Of Thing"
+p1219
+aS'If Looks Could Kill'
+p1220
+aS'If Love Were All'
+p1221
+aS"I'm Not Scared"
+p1222
+aS"I'm With Stupid"
+p1223
+aS'In Denial'
+p1224
+aS'In Private (Stuart Crichton Club Mix) (feat. Elton John)'
+p1225
+aS'In The Night'
+p1226
+aS'In The Night (1995)'
+p1227
+aS'Indefinite Leave To Remain'
+p1228
+aS'Inside A Dream'
+p1229
+aS'Integral'
+p1230
+aS'Invisible'
+p1231
+aS'It Always Comes As A Surprise'
+p1232
+aS"It Couldn't Happen Here"
+p1233
+aS"It Doesn't Often Snow At Christmas"
+p1234
+aS'It Must Be Obvious'
+p1235
+aS"It's A Sin"
+p1236
+aS"It's Alright"
+p1237
+aS'Jack The Lad'
+p1238
+aS'Jealousy'
+p1239
+aS'King Of Rome'
+p1240
+aS"King's Cross"
+p1241
+aS'Later Tonight'
+p1242
+aS'Leaving'
+p1243
+aS'Left To My Own Devices'
+p1244
+aS'Legacy'
+p1245
+aS'Liberation'
+p1246
+aS'London'
+p1247
+aS'Losing My Mind'
+p1248
+aS'Love Comes Quickly'
+p1249
+aS'Love Etc.'
+p1250
+aS'Love Is A Bourgeois Construct'
+p1251
+aS'Love Is A Catastrophe'
+p1252
+aS'Luna Park'
+p1253
+aS'Memory Of The Future'
+p1254
+aS'Metamorphosis'
+p1255
+aS'Minimal'
+p1256
+aS'Miracles'
+p1257
+aS'Miserablism'
+p1258
+aS'More Than A Dream'
+p1259
+aS'Music For Boys'
+p1260
+aS'My Head Is Spinning'
+p1261
+aS'My October Symphony'
+p1262
+aS'Nervously'
+p1263
+aS'New York City Boy'
+p1264
+aS'No Time For Tears'
+p1265
+aS'Numb'
+p1266
+aS'One And One Make Five'
+p1267
+aS'One In A Million'
+p1268
+aS'One More Chance'
+p1269
+aS'One Of The Crowd'
+p1270
+aS'One Thing Leads To Another'
+p1271
+aS'Only The Wind'
+p1272
+aS'Opportunities'
+p1273
+aS'Pandemonium'
+p1274
+aS'Paninaro'
+p1275
+aS"Paninaro '95"
+p1276
+aS'Paris City Boy'
+p1277
+aS'Positive Role Model'
+p1278
+aS'Postscript'
+p1279
+aS'Psychological'
+p1280
+aS'Radiophonic'
+p1281
+aS'Rent'
+p1282
+aS'Requiem In Denim And Leopardskin'
+p1283
+aS'Saturday Night Forever'
+p1284
+aS'Screaming'
+p1285
+aS"Se A Vida E'"
+p1286
+aS'Searching For The Face Of Jesus'
+p1287
+aS'Send Me An Angel'
+p1288
+aS'Sexa Northerner'
+p1289
+aS'Shameless'
+p1290
+aS'Shopping'
+p1291
+aS'Shouting In The Evening'
+p1292
+aS'Silver Age'
+p1293
+aS'Single'
+p1294
+aS'So Hard'
+p1295
+aS'So Sorry I Said (demo For Liza)'
+p1296
+aS'Some Speculation'
+p1297
+aS"Somebody Else's Business"
+p1298
+aS'Somewhere'
+p1299
+aS'Suburbia'
+p1300
+aS"That's My Impression"
+p1301
+aS'The End Of The World'
+p1302
+aS'The Last To Die'
+p1303
+aS'The Man Who Has Everything'
+p1304
+aS'The Night I Fell In Love'
+p1305
+aS'The Only One'
+p1306
+aS'The Samurai In Autumn'
+p1307
+aS'The Sodom And Gomorrah Show'
+p1308
+aS'The Sound Of The Atom Splitting'
+p1309
+aS'The Survivors'
+p1310
+aS'The Theatre'
+p1311
+aS'The Way It Used To Be'
+p1312
+aS'This Must Be The Place I Waited Years To Leave'
+p1313
+aS'This Used To Be The Future'
+p1314
+aS'Thursday'
+p1315
+aS'Time On My Hands'
+p1316
+aS'To Face The Truth'
+p1317
+aS'To Speak Is A Sin'
+p1318
+aS'To Step Aside'
+p1319
+aS'Together'
+p1320
+aS'Tonight Is Forever'
+p1321
+aS'Too Many People'
+p1322
+aS"Try It (I'm In Love With A Married Man)"
+p1323
+aS'Twentieth Century'
+p1324
+aS'Two Divided By Zero'
+p1325
+aS'Up Against It'
+p1326
+aS'Vampires'
+p1327
+aS'Violence'
+p1328
+aS'Viva La Vida'
+p1329
+aS'Vocal'
+p1330
+aS'Vulnerable'
+p1331
+aS'Was It Worth It?'
+p1332
+aS'Was That What It Was?'
+p1333
+aS'We All Feel Better In The Dark'
+p1334
+aS'We Came From Outer Space'
+p1335
+aS"We're All Criminals Now"
+p1336
+aS"We're The Pet Shop Boys"
+p1337
+aS'West End Girls'
+p1338
+aS'What Have I Done To Deserve This?'
+p1339
+aS'What Keeps Mankind Alive?'
+p1340
+aS'Where The Streets Have No Name'
+p1341
+aS"Why Don't We Live Together?"
+p1342
+aS'Winner'
+p1343
+aS'Yesterday, When I Was Mad'
+p1344
+aS'Yesterday, When I Was Mad (Junior Vasquez Fabulous Dub) (Disco 2)'
+p1345
+aS'You Choose'
+p1346
+aS'You Know Where You Went Wrong'
+p1347
+aS"You Only Tell Me You Love Me When You're Drunk"
+p1348
+aS'Young Offender'
+p1349
+asS'Dexys Midnight Runners'
+p1350
+(lp1351
+S'Come On Eileen'
+p1352
+aS'Dance Stance'
+p1353
+aS'Geno'
+p1354
+aS"I'll Show You"
+p1355
+aS'Jackie Wilson Said'
+p1356
+aS"Let's Make This Precious"
+p1357
+aS'Liars A To E'
+p1358
+aS'Old'
+p1359
+aS'Plan B'
+p1360
+aS'The Celtic Soul Brothers'
+p1361
+aS'The Occasional Flicker'
+p1362
+aS'The Waltz'
+p1363
+aS'There, There, My Dear'
+p1364
+aS'Until I Believe In My Soul'
+p1365
+asS'Thompson Twins'
+p1366
+(lp1367
+S'A Product Of...'
+p1368
+aS'All Fall Out'
+p1369
+aS'Another Fantasy'
+p1370
+aS'Anything Is Good Enough'
+p1371
+aS'Big Trash'
+p1372
+aS'Blind'
+p1373
+aS'Bombers In The Sky'
+p1374
+aS'Bouncing'
+p1375
+aS'Breakaway'
+p1376
+aS'Bush Baby'
+p1377
+aS'Come Inside'
+p1378
+aS'Could Be Her... Could Be You'
+p1379
+aS'Crazy Dog'
+p1380
+aS'Dancing In Your Shoes'
+p1381
+aS'Day After Day'
+p1382
+aS"Dirty Summer's Day"
+p1383
+aS'Doctor ! Doctor !'
+p1384
+aS"Don't Go Away"
+p1385
+aS"Don't Mess With Doctor Dream"
+p1386
+aS"Emperor's Clothes"
+p1387
+aS'Flesh And Blood'
+p1388
+aS'Flower Girl'
+p1389
+aS'Follow Your Heart'
+p1390
+aS"Fool's Gold"
+p1391
+aS'Future Days'
+p1392
+aS'Get That Love'
+p1393
+aS'Gold Fever'
+p1394
+aS'Good Gosh'
+p1395
+aS'Groove On'
+p1396
+aS'Hold Me Now'
+p1397
+aS'If You Were Here'
+p1398
+aS'In The Name Of Love'
+p1399
+aS'Judy Do'
+p1400
+aS'King For A Day'
+p1401
+aS'Lay Your Hands On Me'
+p1402
+aS'Lies'
+p1403
+aS'Living In Europe'
+p1404
+aS'Long Goodbye'
+p1405
+aS'Love Is The Law'
+p1406
+aS'Love Jungle'
+p1407
+aS'Love On Your Side'
+p1408
+aS'Lucky Day'
+p1409
+aS'My Funky Valentine'
+p1410
+aS'No Peace For The Wicked'
+p1411
+aS'Nothing In Common'
+p1412
+aS'Oumma Aularesso (Animal Laugh)'
+p1413
+aS'Perfect Day'
+p1414
+aS'Perfect Game'
+p1415
+aS'Politics'
+p1416
+aS'Queen Of The U.S.A.'
+p1417
+aS'Revolution'
+p1418
+aS'Rock This Boat'
+p1419
+aS'Roll Over'
+p1420
+aS'Runaway'
+p1421
+aS"Salvador Dali's Car"
+p1422
+aS'Savage Moon'
+p1423
+aS'Shake It Down'
+p1424
+aS'Sister Of Mercy'
+p1425
+aS'Still Waters'
+p1426
+aS'Storm On The Sea'
+p1427
+aS'Strange Jane'
+p1428
+aS'Sugar Daddy'
+p1429
+aS'Tears'
+p1430
+aS'The Gap'
+p1431
+aS'The Invisible Man'
+p1432
+aS'The Saint'
+p1433
+aS"This Girl's On Fire"
+p1434
+aS'Tok Tok'
+p1435
+aS'T.V. On'
+p1436
+aS'Twentieth Century'
+p1437
+aS'Vendredi Saint'
+p1438
+aS'Watching'
+p1439
+aS'Who Can Stop The Rain'
+p1440
+aS'Wild'
+p1441
+aS'Wind It Up'
+p1442
+aS'You Take Me Up'
+p1443
+asS'Fastway'
+p1444
+(lp1445
+S'777'
+p1446
+aS'All I Need Is Your Love'
+p1447
+aS'Another Day'
+p1448
+aS"Easy Livin'"
+p1449
+aS'Feel Me, Touch Me (Do Anything You Want)'
+p1450
+aS'Give It All You Got'
+p1451
+aS'Give It Some Action'
+p1452
+aS'Go Beat Crazy'
+p1453
+aS'Heft!'
+p1454
+aS'Number One'
+p1455
+aS'Revolution'
+p1456
+aS'Say What You Will'
+p1457
+aS'Tear Down The Walls'
+p1458
+aS'The Stranger'
+p1459
+aS'Trick Or Treat'
+p1460
+aS'We Become One'
+p1461
+aS"You Got Me Runnin'"
+p1462
+asS'Ultravox'
+p1463
+(lp1464
+S'A Friend I Call Desire'
+p1465
+aS'Accent On Youth'
+p1466
+aS'All Fall Down'
+p1467
+aS'All Stood Still'
+p1468
+aS'Artificial Life'
+p1469
+aS'Blue Light'
+p1470
+aS'Brilliant'
+p1471
+aS"Can't Stay Long"
+p1472
+aS'Cut And Run'
+p1473
+aS'Dancin With Tears In My Eyes'
+p1474
+aS'Dangerous Rhythm'
+p1475
+aS'Dislocation'
+p1476
+aS'Distant Smile'
+p1477
+aS'Dreams?'
+p1478
+aS'Fear In The Western World'
+p1479
+aS'Flow'
+p1480
+aS'Frozen Ones'
+p1481
+aS'Heart Of The Country'
+p1482
+aS'Hiroshima Mon Amour'
+p1483
+aS'Hymn'
+p1484
+aS'I Am Alive'
+p1485
+aS'I Remember (Death In The Afternoon)'
+p1486
+aS'I Want To Be A Machine'
+p1487
+aS'Just For A Moment'
+p1488
+aS'Lament'
+p1489
+aS"Life At Rainbow's End"
+p1490
+aS"Love's Great Adventure"
+p1491
+aS'Man Of Two Worlds'
+p1492
+aS'Man Who Dies Every Day'
+p1493
+aS'Maximum Acceleration'
+p1494
+aS'Mine For Life'
+p1495
+aS'Mr X'
+p1496
+aS'New Europeans'
+p1497
+aS'No Turning Back'
+p1498
+aS'One Small Day'
+p1499
+aS'Passing Strangers'
+p1500
+aS'Passionate Reply'
+p1501
+aS'Paths And Angles'
+p1502
+aS'Private Lives'
+p1503
+aS'Quiet Man'
+p1504
+aS'Rage In Eden'
+p1505
+aS'Reap The Wild Wind'
+p1506
+aS'Revelation'
+p1507
+aS'Rock Wrok'
+p1508
+aS'Saturday Night In The City Of The Dead'
+p1509
+aS'Seranade'
+p1510
+aS'Sleepwalk'
+p1511
+aS'Slip Away'
+p1512
+aS'Slow Motion'
+p1513
+aS'Some Of Them'
+p1514
+aS"Someone Else's Clothes"
+p1515
+aS'Stranger Within'
+p1516
+aS'The Ascent'
+p1517
+aS'The Closer I Get To You'
+p1518
+aS'The Lonely Hunter'
+p1519
+aS'The Song (We Go)'
+p1520
+aS'(The) Thin Wall'
+p1521
+aS'The Voice'
+p1522
+aS'True Believer'
+p1523
+aS'Vienna'
+p1524
+aS'Visions In Blue'
+p1525
+aS'Waiting'
+p1526
+aS'We Came To Dance'
+p1527
+aS'We Stand Alone'
+p1528
+aS'Western Promise'
+p1529
+aS'When The Scream Subsides'
+p1530
+aS'When The Time Comes'
+p1531
+aS'When You Walk Through Me'
+p1532
+aS"While I'm Still Alive"
+p1533
+aS'White China'
+p1534
+aS'Wide Boys'
+p1535
+aS'Wild, The Beautiful And The Damned'
+p1536
+aS'Your Name (Has Slipped My Mind Again)'
+p1537
+asS'Adam and the Ants'
+p1538
+(lp1539
+S'1969 Again'
+p1540
+aS'5 Guns West'
+p1541
+aS'Alien'
+p1542
+aS'All Girl Action'
+p1543
+aS'Amazon'
+p1544
+aS'Angel'
+p1545
+aS'Anger Inc.'
+p1546
+aS'Animals And Men'
+p1547
+aS'Ant Rap'
+p1548
+aS'Antmusic'
+p1549
+aS'A.N.T.S.'
+p1550
+aS'Ants Invasion'
+p1551
+aS'Apollo 9'
+p1552
+aS'B-Side Baby'
+p1553
+aS'Baby, Let Me Scream At You'
+p1554
+aS'Beat My Guest'
+p1555
+aS'Beautiful Dream'
+p1556
+aS'Brain Candy'
+p1557
+aS'Bright Lights Black Leather'
+p1558
+aS'Bullshit'
+p1559
+aS'Cajun Twisters'
+p1560
+aS'Call Me Sausage'
+p1561
+aS"Can't Set Rules About Love"
+p1562
+aS'Cartrouble'
+p1563
+aS'Cartrouble (Part 1)'
+p1564
+aS'Catholic Day'
+p1565
+aS'Charge Of The Heavy Brigade'
+p1566
+aS"Christian D'or"
+p1567
+aS'Cleopatra'
+p1568
+aS'Cool Zombie'
+p1569
+aS'Crackpot History And The Right To Lie'
+p1570
+aS'Cradle Your Hatred'
+p1571
+aS'Day I Met God'
+p1572
+aS'Desperate But Not Serious'
+p1573
+aS'Deutscher Girls'
+p1574
+aS'Digital Tenderness'
+p1575
+aS'Dog Eat Dog'
+p1576
+aS"Don't Be Square"
+p1577
+aS"Don't Be Square (Be There)"
+p1578
+aS"Don't Knock It"
+p1579
+aS'Fall In'
+p1580
+aS'Family Of Noise'
+p1581
+aS'Fat Fun'
+p1582
+aS'Feed Me To The Lions'
+p1583
+aS'Friend Or Foe'
+p1584
+aS'Friends'
+p1585
+aS'Goes Around'
+p1586
+aS'Goody Two Shoes'
+p1587
+aS'Gotta Be A Sin'
+p1588
+aS'Greta-X'
+p1589
+aS'Hampstead'
+p1590
+aS'Hard Men, Tough Blokes'
+p1591
+aS'Headgear'
+p1592
+aS'Hello, I Love You'
+p1593
+aS"Hell's Eight Acres"
+p1594
+aS'Here Comes The Grump'
+p1595
+aS'Human Bondage Den'
+p1596
+aS'If You Keep On'
+p1597
+aS'Image Of Yourself'
+p1598
+aS"It Doesn't Matter"
+p1599
+aS'Jolly Roger'
+p1600
+aS'Juanito The Bandito'
+p1601
+aS'Kick'
+p1602
+aS'Killer In The Home'
+p1603
+aS'Kings Of The Wild Frontier'
+p1604
+aS'Kiss The Drummer'
+p1605
+aS'Lady'
+p1606
+aS'Libertine'
+p1607
+aS'Little Devil'
+p1608
+aS'Los Rancheros'
+p1609
+aS'Made Of Money'
+p1610
+aS'Making History'
+p1611
+aS'Manners & Physique'
+p1612
+aS"Marrying The Gunner's Daughter"
+p1613
+aS'Mile High Club'
+p1614
+aS'Miss Thing'
+p1615
+aS'Mohair Locker Room Pin-Up Boys'
+p1616
+aS'Montreal'
+p1617
+aS'Mowhok'
+p1618
+aS'Navel To Neck'
+p1619
+aS'Never Trust A Man'
+p1620
+aS'Nine Plan Failed'
+p1621
+aS'No Zap'
+p1622
+aS'Obsession'
+p1623
+aS'P. O. E.'
+p1624
+aS'Persuasion'
+p1625
+aS'Physical'
+p1626
+aS'Picasso Visita El Planeta De Los Simios'
+p1627
+aS'Piccadilly'
+p1628
+aS'Place In The Country'
+p1629
+aS'Plastic Surgery'
+p1630
+aS'Playboy'
+p1631
+aS'Press Darlings'
+p1632
+aS'Prince Charming'
+p1633
+aS'Puerto Rican'
+p1634
+aS'Punkyoungirl'
+p1635
+aS"Puss'n Boots"
+p1636
+aS'Razor Keen'
+p1637
+aS'Red Scab'
+p1638
+aS'Rip Down'
+p1639
+aS'Room At The Top'
+p1640
+aS'Rough Stuff'
+p1641
+aS'Scorpio Rising'
+p1642
+aS'Scorpios'
+p1643
+aS'Seems To Me'
+p1644
+aS'S.E.X.'
+p1645
+aS'Shrink'
+p1646
+aS'Something Girls'
+p1647
+aS'Spanish Games'
+p1648
+aS'Stand And Deliver'
+p1649
+aS'Strip'
+p1650
+aS'Survival Of The Fetish'
+p1651
+aS'Tabletalk'
+p1652
+aS'That Voodoo'
+p1653
+aS'The Idea'
+p1654
+aS'The Magnificent Five'
+p1655
+aS'Try This For Sighs'
+p1656
+aS'U.S.S.A.'
+p1657
+aS'Vampires'
+p1658
+aS'Vanity'
+p1659
+aS'Very Long Ride'
+p1660
+aS'Vince Taylor'
+p1661
+aS'Vive Le Rock'
+p1662
+aS"What's Going On"
+p1663
+aS'Whip In My Valise'
+p1664
+aS'Why Do Girls Love Horses'
+p1665
+aS'Wonderful'
+p1666
+aS"Won't Take That Talk"
+p1667
+aS'Yin   Yang'
+p1668
+aS'Young Dumb And Full Of It'
+p1669
+aS'Young Parisians'
+p1670
+aS'Yours, Yours, Yours'
+p1671
+aS'Zerox'
+p1672
+aS'1969 Again'
+p1673
+aS'5 Guns West'
+p1674
+aS'Alien'
+p1675
+aS'All Girl Action'
+p1676
+aS'Amazon'
+p1677
+aS'Angel'
+p1678
+aS'Anger Inc.'
+p1679
+aS'Animals And Men'
+p1680
+aS'Ant Rap'
+p1681
+aS'Antmusic'
+p1682
+aS'A.N.T.S.'
+p1683
+aS'Ants Invasion'
+p1684
+aS'Apollo 9'
+p1685
+aS'B-Side Baby'
+p1686
+aS'Baby, Let Me Scream At You'
+p1687
+aS'Beat My Guest'
+p1688
+aS'Beautiful Dream'
+p1689
+aS'Brain Candy'
+p1690
+aS'Bright Lights Black Leather'
+p1691
+aS'Bullshit'
+p1692
+aS'Cajun Twisters'
+p1693
+aS'Call Me Sausage'
+p1694
+aS"Can't Set Rules About Love"
+p1695
+aS'Cartrouble'
+p1696
+aS'Cartrouble (Part 1)'
+p1697
+aS'Catholic Day'
+p1698
+aS'Charge Of The Heavy Brigade'
+p1699
+aS"Christian D'or"
+p1700
+aS'Cleopatra'
+p1701
+aS'Cool Zombie'
+p1702
+aS'Crackpot History And The Right To Lie'
+p1703
+aS'Cradle Your Hatred'
+p1704
+aS'Day I Met God'
+p1705
+aS'Desperate But Not Serious'
+p1706
+aS'Deutscher Girls'
+p1707
+aS'Digital Tenderness'
+p1708
+aS'Dog Eat Dog'
+p1709
+aS"Don't Be Square"
+p1710
+aS"Don't Be Square (Be There)"
+p1711
+aS"Don't Knock It"
+p1712
+aS'Fall In'
+p1713
+aS'Family Of Noise'
+p1714
+aS'Fat Fun'
+p1715
+aS'Feed Me To The Lions'
+p1716
+aS'Friend Or Foe'
+p1717
+aS'Friends'
+p1718
+aS'Goes Around'
+p1719
+aS'Goody Two Shoes'
+p1720
+aS'Gotta Be A Sin'
+p1721
+aS'Greta-X'
+p1722
+aS'Hampstead'
+p1723
+aS'Hard Men, Tough Blokes'
+p1724
+aS'Headgear'
+p1725
+aS'Hello, I Love You'
+p1726
+aS"Hell's Eight Acres"
+p1727
+aS'Here Comes The Grump'
+p1728
+aS'Human Bondage Den'
+p1729
+aS'If You Keep On'
+p1730
+aS'Image Of Yourself'
+p1731
+aS"It Doesn't Matter"
+p1732
+aS'Jolly Roger'
+p1733
+aS'Juanito The Bandito'
+p1734
+aS'Kick'
+p1735
+aS'Killer In The Home'
+p1736
+aS'Kings Of The Wild Frontier'
+p1737
+aS'Kiss The Drummer'
+p1738
+aS'Lady'
+p1739
+aS'Libertine'
+p1740
+aS'Little Devil'
+p1741
+aS'Los Rancheros'
+p1742
+aS'Made Of Money'
+p1743
+aS'Making History'
+p1744
+aS'Manners & Physique'
+p1745
+aS"Marrying The Gunner's Daughter"
+p1746
+aS'Mile High Club'
+p1747
+aS'Miss Thing'
+p1748
+aS'Mohair Locker Room Pin-Up Boys'
+p1749
+aS'Montreal'
+p1750
+aS'Mowhok'
+p1751
+aS'Navel To Neck'
+p1752
+aS'Never Trust A Man'
+p1753
+aS'Nine Plan Failed'
+p1754
+aS'No Zap'
+p1755
+aS'Obsession'
+p1756
+aS'P. O. E.'
+p1757
+aS'Persuasion'
+p1758
+aS'Physical'
+p1759
+aS'Picasso Visita El Planeta De Los Simios'
+p1760
+aS'Piccadilly'
+p1761
+aS'Place In The Country'
+p1762
+aS'Plastic Surgery'
+p1763
+aS'Playboy'
+p1764
+aS'Press Darlings'
+p1765
+aS'Prince Charming'
+p1766
+aS'Puerto Rican'
+p1767
+aS'Punkyoungirl'
+p1768
+aS"Puss'n Boots"
+p1769
+aS'Razor Keen'
+p1770
+aS'Red Scab'
+p1771
+aS'Rip Down'
+p1772
+aS'Room At The Top'
+p1773
+aS'Rough Stuff'
+p1774
+aS'Scorpio Rising'
+p1775
+aS'Scorpios'
+p1776
+aS'Seems To Me'
+p1777
+aS'S.E.X.'
+p1778
+aS'Shrink'
+p1779
+aS'Something Girls'
+p1780
+aS'Spanish Games'
+p1781
+aS'Stand And Deliver'
+p1782
+aS'Strip'
+p1783
+aS'Survival Of The Fetish'
+p1784
+aS'Tabletalk'
+p1785
+aS'That Voodoo'
+p1786
+aS'The Idea'
+p1787
+aS'The Magnificent Five'
+p1788
+aS'Try This For Sighs'
+p1789
+aS'U.S.S.A.'
+p1790
+aS'Vampires'
+p1791
+aS'Vanity'
+p1792
+aS'Very Long Ride'
+p1793
+aS'Vince Taylor'
+p1794
+aS'Vive Le Rock'
+p1795
+aS"What's Going On"
+p1796
+aS'Whip In My Valise'
+p1797
+aS'Why Do Girls Love Horses'
+p1798
+aS'Wonderful'
+p1799
+aS"Won't Take That Talk"
+p1800
+aS'Yin   Yang'
+p1801
+aS'Young Dumb And Full Of It'
+p1802
+aS'Young Parisians'
+p1803
+aS'Yours, Yours, Yours'
+p1804
+aS'Zerox'
+p1805
+asS'Wham!'
+p1806
+(lp1807
+S'A Different Corner'
+p1808
+aS'Bad Boys'
+p1809
+aS'Battlestations'
+p1810
+aS'Blue'
+p1811
+aS'Careless Whisper'
+p1812
+aS'Club Fantastic Megamix'
+p1813
+aS'Club Tropicana'
+p1814
+aS'Come On!'
+p1815
+aS'Credit Card Baby'
+p1816
+aS'Everything She Wants'
+p1817
+aS'Freedom'
+p1818
+aS'Heartbeat'
+p1819
+aS'If You Were There'
+p1820
+aS"I'm Your Man"
+p1821
+aS"It Wasn't Me! (Eastenders, By Me!)"
+p1822
+aS'Last Christmas'
+p1823
+aS'Like A Baby'
+p1824
+aS'Love Machine'
+p1825
+aS'Nothing Looks The Same In The Light'
+p1826
+aS'Ray Of Sunshine'
+p1827
+aS'The Edge Of Heaven'
+p1828
+aS'Wake Me Up'
+p1829
+aS'Wake Me Up Before You Go-Go'
+p1830
+aS'Wham! Rap'
+p1831
+aS'Wham! Rap 86'
+p1832
+aS'Where Did Your Heart Go'
+p1833
+aS'Young Guns'
+p1834
+asS'Squeeze'
+p1835
+(lp1836
+S'853-5937'
+p1837
+aS'A Moving Story'
+p1838
+aS'Action Speaks Faster'
+p1839
+aS"Ain't It Sad"
+p1840
+aS'Annie Get Your Gun'
+p1841
+aS'Another Nail In My Heart'
+p1842
+aS'Bang Bang'
+p1843
+aS'Big Beng'
+p1844
+aS'Black Coffee In Bed'
+p1845
+aS'Blood And Guts'
+p1846
+aS'Bonkers'
+p1847
+aS'Break My Heart'
+p1848
+aS'By Your Side'
+p1849
+aS'Can Of Worms'
+p1850
+aS'Christmas Day'
+p1851
+aS'Cigarette Of A Single Man'
+p1852
+aS'Cold Shoulder'
+p1853
+aS'Cool For Cats'
+p1854
+aS'Crying In My Sleep'
+p1855
+aS"Cupid's Toy"
+p1856
+aS'Daphne'
+p1857
+aS'Domino'
+p1858
+aS'Donkey Talk'
+p1859
+aS'Dr. Jazz'
+p1860
+aS'Electric Trains'
+p1861
+aS'Elephant Girl'
+p1862
+aS'Everything In The World'
+p1863
+aS'F-Hole'
+p1864
+aS'Farfisa Beat'
+p1865
+aS'Fingertips'
+p1866
+aS'First Thing Wrong'
+p1867
+aS'Footprints'
+p1868
+aS'Funny How It Goes'
+p1869
+aS'Get Smart'
+p1870
+aS'Gone To The Dogs'
+p1871
+aS'Goodbye Girl'
+p1872
+aS'Got To Me'
+p1873
+aS'Great Escape'
+p1874
+aS'Grouch Of The Day'
+p1875
+aS'Hard To Find'
+p1876
+aS'Heartbreak'
+p1877
+aS'Heartbreaking World'
+p1878
+aS'Heaven'
+p1879
+aS'Heaven Knows'
+p1880
+aS'Here Comes That Feeling'
+p1881
+aS'Hesitation'
+p1882
+aS'His House Her Home'
+p1883
+aS'Hits Of The Year'
+p1884
+aS'Hop, Skip & Jump'
+p1885
+aS'Hope Fell Down'
+p1886
+aS'Hourglass'
+p1887
+aS'House Of Love'
+p1888
+aS"I Can't Get Up Anymore"
+p1889
+aS"I Can't Hold On"
+p1890
+aS'I Learnt How To Pray'
+p1891
+aS'I Must Go'
+p1892
+aS"I Think I'm Go Go"
+p1893
+aS'I Want You'
+p1894
+aS"I Won't Ever Go Drinking Again (?)"
+p1895
+aS"If I Didn't Love You"
+p1896
+aS"If It's Love"
+p1897
+aS'Images Of Loving'
+p1898
+aS'In Quintessence'
+p1899
+aS'In The Morning'
+p1900
+aS"In Today's Room"
+p1901
+aS'Is It Too Late'
+p1902
+aS'Is That Love?'
+p1903
+aS"It's Not Cricket"
+p1904
+aS"It's Over"
+p1905
+aS"It's So Dirty"
+p1906
+aS"I've Returned"
+p1907
+aS'Jolly Comes Home'
+p1908
+aS'King George Street'
+p1909
+aS'Labelled With Love'
+p1910
+aS'Last Time Forever'
+p1911
+aS'Letting Go'
+p1912
+aS'Little King'
+p1913
+aS'Long Face'
+p1914
+aS'Lost For Words'
+p1915
+aS'Love Circles'
+p1916
+aS"Love's A Four Letter Word"
+p1917
+aVLoveâ??s Crashing Waves
+p1918
+aS'Loving You Tonight'
+p1919
+aS'Maidstone'
+p1920
+aS'Man For All Seasons'
+p1921
+aS'Melody Motel'
+p1922
+aS'Messed Around'
+p1923
+aS'Misadventure'
+p1924
+aS'Model'
+p1925
+aS'Mumbo Jumbo'
+p1926
+aS'Night Nurse'
+p1927
+aS'No Place Like Home'
+p1928
+aS'On My Mind Tonight'
+p1929
+aS'Onto The Dance Floor'
+p1930
+aS'Out Of Control'
+p1931
+aS'Out Of Touch'
+p1932
+aS'Peyton Place'
+p1933
+aS'Piccadilly'
+p1934
+aS'Picking Up The Pieces'
+p1935
+aS'Pinocchio'
+p1936
+aS'Play On'
+p1937
+aS'Points Of View'
+p1938
+aS'Pulling Mussels'
+p1939
+aS'Remember What'
+p1940
+aS'Revue'
+p1941
+aS'Rose I Said'
+p1942
+aS'Satisfied'
+p1943
+aS'Separate Beds'
+p1944
+aS"She Doesn't Have To Shave"
+p1945
+aS'Short Break'
+p1946
+aS'Slap And Tickle'
+p1947
+aS'Slaughtered, Gutted & Heartbroken'
+p1948
+aS'Sleeping With A Friend'
+p1949
+aS'Slightly Drunk'
+p1950
+aS'Some Americans'
+p1951
+aS'Some Fantastic Place'
+p1952
+aS"Someone Else's Bell"
+p1953
+aS"Someone Else's Heart"
+p1954
+aS'Sound Asleep'
+p1955
+aS'Spanish Guitar'
+p1956
+aS'Splitting Into Three'
+p1957
+aS'Squabs On Forty Fab'
+p1958
+aS'Stranger Than The Stranger On The Shore'
+p1959
+aS'Striking Matches'
+p1960
+aS'Strong In Reason'
+p1961
+aS'Sunday Street'
+p1962
+aS"Take Me I'm Yours"
+p1963
+aS'Talk To Him'
+p1964
+aS'Temptation For Love'
+p1965
+aS'Tempted'
+p1966
+aS'The Apple Tree'
+p1967
+aS'The Call'
+p1968
+aS'The Day I Get Home'
+p1969
+aS'The Elephant Ride'
+p1970
+aS'The Fortnight Saga'
+p1971
+aS'The Prisoner'
+p1972
+aS'The Truth'
+p1973
+aS'The Very First Dance'
+p1974
+aS'The Waiting Game'
+p1975
+aS'There At The Top'
+p1976
+aS'There Is A Voice'
+p1977
+aS"There's No Tomorrow"
+p1978
+aS'Third Rail'
+p1979
+aS'This Summer'
+p1980
+aS'To Be A Dad'
+p1981
+aS'Tongue Like A Knife'
+p1982
+aS'Touching Me, Touching You'
+p1983
+aS'Tough Love'
+p1984
+aS'True Colours'
+p1985
+aS'Trust'
+p1986
+aS'Trust Me To Open My Mouth'
+p1987
+aS'Up The Junction'
+p1988
+aS'Vanity Fair'
+p1989
+aS'Vicky Verky'
+p1990
+aS'Wagon Train'
+p1991
+aS'Walk A Straight Line'
+p1992
+aS'Walk Away'
+p1993
+aS'What The Butler Saw'
+p1994
+aS"What's Wrong With This Picture?"
+p1995
+aS'When Love Goes To Sleep'
+p1996
+aS'When The Hangover Strikes'
+p1997
+aS'Who Are You?'
+p1998
+aS"Who's That?"
+p1999
+aS'Wicked And Cruel'
+p2000
+aS'Within These Walls Of Without You'
+p2001
+aS'Without You Here'
+p2002
+aS"Woman's World"
+p2003
+aS'Wrong Side Of The Moon'
+p2004
+aVYou Canâ??t Hurt The Girl
+p2005
+asS'Haircut One Hundred'
+p2006
+(lp2007
+sS'The Human League'
+p2008
+(lp2009
+S'A Doorway'
+p2010
+aS'All I Ever Wanted'
+p2011
+aS'Almost Medieval'
+p2012
+aS'Are You Ever Coming Back'
+p2013
+aS'Austerity/girl One'
+p2014
+aS'Being Boiled'
+p2015
+aS'Betrayed'
+p2016
+aS'Blind Youth'
+p2017
+aS'Boys And Girls'
+p2018
+aS'Circus Of Death'
+p2019
+aS'Crow And A Baby'
+p2020
+aS'Cruel Young Lover'
+p2021
+aS'Darkness'
+p2022
+aS'Do Or Die'
+p2023
+aS'Dont You Know I Want You'
+p2024
+aS'Dont You Want Me'
+p2025
+aS'Dreams Of Leaving'
+p2026
+aS'Egomaniac'
+p2027
+aS'Empire State Human'
+p2028
+aS'Filling Up With Heaven'
+p2029
+aS'Get It Right This Time'
+p2030
+aS'Heart Like A Wheel'
+p2031
+aS'Houseful Of Nothing'
+p2032
+aS'Human'
+p2033
+aS'I Am The Law'
+p2034
+aS"I Don't Depend On You"
+p2035
+aS'I Love You Too Much'
+p2036
+aS'I Need Your Loving'
+p2037
+aS"I'm Coming Back"
+p2038
+aS'Jam'
+p2039
+aS'(Keep Feeling) Fascination'
+p2040
+aS'(Keep Feeling) Fascination - Improvisation'
+p2041
+aS'Kiss The Future'
+p2042
+aS'Lets Get Together Again'
+p2043
+aS'Life Kills'
+p2044
+aS'Life On Your Own'
+p2045
+aS'Louise'
+p2046
+aS'Love Action'
+p2047
+aS'Love Is All That Matters'
+p2048
+aS'Love Me Madly'
+p2049
+aS'Love On The Run'
+p2050
+aS'Marianne'
+p2051
+aS'Mirror Man'
+p2052
+aS'Mister Moon And Mister Sun'
+p2053
+aS'Money'
+p2054
+aS"Morale...You've Lost That Loving Feeling"
+p2055
+aS'Never Again'
+p2056
+aS'Never Give Your Heary'
+p2057
+aS'Never Let Me Go'
+p2058
+aS'One Man In My Heart'
+p2059
+aS'Only After Dark'
+p2060
+aS'Open Your Heart'
+p2061
+aS'Party'
+p2062
+aS'Rebound'
+p2063
+aVRock Me Again And Again And Again And Again\u2026
+p2064
+aS"Rock'n'roll / Nightclubbing"
+p2065
+aS'Seconds'
+p2066
+aS'Shameless'
+p2067
+aS'sky'
+p2068
+aS'So Hurt'
+p2069
+aS'Soundtrack To A Generation'
+p2070
+aS'Stay With Me Tonight'
+p2071
+aS'Swang'
+p2072
+aS'Tell Me When'
+p2073
+aS'The Black Hit Of Space'
+p2074
+aS'The Lebanon'
+p2075
+aS'The Path Of Least Resistance'
+p2076
+aS'The Real Thing'
+p2077
+aS'The Sign'
+p2078
+aS'The Snake'
+p2079
+aS'The Sound Of The Crowd'
+p2080
+aS'The Stars Are Going Out'
+p2081
+aS'The Things That Dreams Are Made Of'
+p2082
+aS'The Touchables'
+p2083
+aS'The Word Before Last'
+p2084
+aS'The World Tonight'
+p2085
+aS'These Are The Days'
+p2086
+aS'Together In Electric Dreams'
+p2087
+aS'Words'
+p2088
+aS'Wxjl Tonight'
+p2089
+aS'You Remind Me Of Gold'
+p2090
+aS'Zero As A Limit'
+p2091
+asS'ABC'
+p2092
+(lp2093
+S'15 Storey Halo'
+p2094
+aS'4 Ever 2 Gether'
+p2095
+aS'A To Z'
+p2096
+aS'Aj Bok'
+p2097
+aS'All Of My Heart'
+p2098
+aS'All That Matters'
+p2099
+aS'Answered Prayer'
+p2100
+aS'Ark Angel'
+p2101
+aS'Ask A Thousand Times'
+p2102
+aS'Bad Blood'
+p2103
+aS'Be Near Me'
+p2104
+aS'Between You And Me'
+p2105
+aS'Bite The Hand'
+p2106
+aS'Blame'
+p2107
+aS'By Default By Design'
+p2108
+aS'Chicago (abridged)'
+p2109
+aS'Date Stamp'
+p2110
+aS'Faraway'
+p2111
+aS'Fear Of The World'
+p2112
+aS'Heaven Knows'
+p2113
+aS'Hey Citizen'
+p2114
+aS'How To Be A Millionaire'
+p2115
+aS"If I Ever Thought You'd Be Lonely"
+p2116
+aS"I'm In Love With You"
+p2117
+aS'Jealous Lover'
+p2118
+aS'King Money'
+p2119
+aS'King Without A Crown'
+p2120
+aS'Kiss Me Goodbye'
+p2121
+aS'Light Years'
+p2122
+aS'Love Conquers All'
+p2123
+aS"Love Is It's Own Reward"
+p2124
+aS"Love's A Dangerous Language"
+p2125
+aS'Many Happy Returns'
+p2126
+aS'Never More Than Now'
+p2127
+aS'North'
+p2128
+aS'Ocean Blue'
+p2129
+aS'One Better World'
+p2130
+aS'One Day'
+p2131
+aS'Only The Best Will Do'
+p2132
+aS'Paper Thin'
+p2133
+aS'Poison Arrow'
+p2134
+aS'Prayer By Default'
+p2135
+aS'Rage And Then Regret'
+p2136
+aS'Rhinestone Cowboy'
+p2137
+aS'Rolling Sevens'
+p2138
+aS'Satori'
+p2139
+aS'Say It'
+p2140
+aS'Seven Day Weekend'
+p2141
+aS'Show Me'
+p2142
+aS'Skyscraping'
+p2143
+aS'So Hip It Hurts'
+p2144
+aS'S.O.S.'
+p2145
+aS'Spellbound'
+p2146
+aS'Stranger Things'
+p2147
+aS'Tears Are Not Enough'
+p2148
+aS'That Was Then But This Is Now'
+p2149
+aS'The Greatest Love Of All'
+p2150
+aS'The Look Of Love'
+p2151
+aS'The Night You Murdered Love'
+p2152
+aS'The Power Of Persuasion'
+p2153
+aS'The Real Thing'
+p2154
+aS'Think Again'
+p2155
+aS'This Must Be Magic'
+p2156
+aS'Thunderball'
+p2157
+aS'Tower Of London'
+p2158
+aS'United Kingdom'
+p2159
+aS'Unlock The Secrets Of Your Heart'
+p2160
+aS'Unzip'
+p2161
+aS"Valentine's Day"
+p2162
+aS'Vanity Kills'
+p2163
+aS'Viva Love'
+p2164
+aS'Volare'
+p2165
+aS'Welcome To The Real World'
+p2166
+aS"What's Good About Goodbye?"
+p2167
+aS'When Smokey Sings'
+p2168
+aS'Where Is The Heaven'
+p2169
+aS'Who Can I Turn To?'
+p2170
+asS'Billy Idol'
+p2171
+(lp2172
+S'Adam In Chains'
+p2173
+aS'All Summer Single'
+p2174
+aS'Auld Lang Syne'
+p2175
+aS'Baby Talk'
+p2176
+aS'Beyond Belief'
+p2177
+aS'Bitter Pill'
+p2178
+aS'Blue Christmas'
+p2179
+aS'Blue Highway'
+p2180
+aS'Body Snatcher'
+p2181
+aS'Buried Alive'
+p2182
+aS"Can't Break Me Down"
+p2183
+aS'Catch My Fall'
+p2184
+aS'Cherie'
+p2185
+aS'Christmas Love'
+p2186
+aS'Come On, Come On'
+p2187
+aS'Concrete Kingdom'
+p2188
+aS'Cradle Of Love'
+p2189
+aS'Crank Call'
+p2190
+aS'Cry'
+p2191
+aS'Dancing With Myself'
+p2192
+aS'Daytime Drama'
+p2193
+aS'Dead On Arrival'
+p2194
+aS"Don't Need A Gun"
+p2195
+aS"Don't You (Forget About Me)"
+p2196
+aS'Endless Sleep'
+p2197
+aS'English Dream'
+p2198
+aS'Evil Eye'
+p2199
+aS'Eyes Without A Face'
+p2200
+aS'Fatal Charm'
+p2201
+aS'Flesh For Fantasy'
+p2202
+aS'Fridays Angels'
+p2203
+aS'From The Heart'
+p2204
+aS'Frosty The Snowman'
+p2205
+aS'God Rest Ye, Merry Gentlemen'
+p2206
+aS'Happy Holiday'
+p2207
+aS'Here Comes Santa Claus'
+p2208
+aS'Heroin'
+p2209
+aS'Hole In The Wall'
+p2210
+aS'Hot In The City'
+p2211
+aS'Into The Night'
+p2212
+aS"It's So Cruel"
+p2213
+aS'Jingle Bell Rock'
+p2214
+aS'John Wayne'
+p2215
+aS'King Rocker'
+p2216
+aS'Kiss Me Deadly'
+p2217
+aS'Kleenex'
+p2218
+aS'L.A. Woman'
+p2219
+aS'Lady Do Or Die'
+p2220
+aS'Let It Snow'
+p2221
+aS'Listen'
+p2222
+aS'Love Calling'
+p2223
+aS'Love Labours On'
+p2224
+aS'Love Like Fire'
+p2225
+aS'Love Unchained'
+p2226
+aS'Man For All Seasons'
+p2227
+aS'Mark Of Caine'
+p2228
+aS'Merry Christmas Baby'
+p2229
+aS'Mony Mony'
+p2230
+aS'Mony Mony Live'
+p2231
+aS'Mother Dawn'
+p2232
+aS"Motorbikin'"
+p2233
+aS'Neuromancer'
+p2234
+aS'Night Of The Cadillacs'
+p2235
+aS"Nobody's Business"
+p2236
+aS'OH CHRISTMAS TREE'
+p2237
+aS'One Night, One Chance'
+p2238
+aS'Plastic Jesus'
+p2239
+aS'Power Junkie'
+p2240
+aS'Prodigal Blues'
+p2241
+aS'Promises Promises'
+p2242
+aS'Pumping On Steel'
+p2243
+aS'Rat Race'
+p2244
+aS'Ready Steady Go'
+p2245
+aS'Rebel Yell'
+p2246
+aS"Romeo's Waiting"
+p2247
+aS'Run Rudolph Run'
+p2248
+aS'Running With The Boss Sound'
+p2249
+aS'Santa Claus Is Back In Town'
+p2250
+aS'Scream'
+p2251
+aS"Shakin' All Over"
+p2252
+aS'Shangrila'
+p2253
+aS'Sherri'
+p2254
+aS'Shock To The System'
+p2255
+aS'Shooting Stars'
+p2256
+aS'Silent Night'
+p2257
+aS'Silver Bells'
+p2258
+aS'Soul Standing By'
+p2259
+aS'Speed'
+p2260
+aS'Stand In The Shadows'
+p2261
+aS'Summer Running'
+p2262
+aS'Super Overdrive'
+p2263
+aS'Sweet Sixteen'
+p2264
+aS'The Dead Next Door'
+p2265
+aS'The Loveless'
+p2266
+aS'The Prime Of Kenny Silvers - Part 1 2'
+p2267
+aS'The Right Way'
+p2268
+aS'Then The Night Comes'
+p2269
+aS'To Be A Lover'
+p2270
+aS'Tomorrow People'
+p2271
+aS'Too Personal'
+p2272
+aS'Trouble With The Sweet Stuff'
+p2273
+aS'Untouchables'
+p2274
+aS'Valley Of The Dolls'
+p2275
+aS'Venus'
+p2276
+aS'Wasteland'
+p2277
+aS'White Christmas'
+p2278
+aS'White Wedding'
+p2279
+aS'White Wedding (Part 1)'
+p2280
+aS'Winter Wonderland'
+p2281
+aS"World Comin' Down"
+p2282
+aS'Worlds Forgotten Boy'
+p2283
+aS"Yellin' At The Xmas Tree"
+p2284
+aS'Your Generation'
+p2285
+aS'Youth Youth Youth'
+p2286
+asS'Nick Lowe'
+p2287
+(lp2288
+S'12 Step Program'
+p2289
+aS'14 Days'
+p2290
+aS'36 Inches'
+p2291
+aS'A Man In Love'
+p2292
+aS'All Men Are Liars'
+p2293
+aS'Checkout Time'
+p2294
+aS'Cold Grey Light Of Dawn'
+p2295
+aS'Cruel To Be Kind'
+p2296
+aS'Drive-Thru Man'
+p2297
+aS'Endless Sleep'
+p2298
+aS'Half A Boy & Half A Man'
+p2299
+aS'Halfway To Paradise'
+p2300
+aS'House For Sale'
+p2301
+aS'I Knew The Bride (When She Used To Rock And Roll)'
+p2302
+aS'I Live On A Battlefield'
+p2303
+aS'I Love The Sound Of Breaking Glass'
+p2304
+aS"I'll Be There"
+p2305
+aS"Lover Don't Go"
+p2306
+aS'Only A Fool Breaks His Own Heart'
+p2307
+aS'Rocky Road'
+p2308
+aS'Sensitive Man'
+p2309
+aS'Shelley My Love'
+p2310
+aS"She's Got Soul"
+p2311
+aS'Somebody Cares For Me'
+p2312
+aS'Soulful Wind'
+p2313
+aS'The Beast In Me'
+p2314
+aS'Trail Of Tears'
+p2315
+aS'True Love Travels On A Gravel Road'
+p2316
+aS'When I Write The Book'
+p2317
+aS"Where's My Everything?"
+p2318
+aS'Withered On The Vine'
+p2319
+aS'Without Love'
+p2320
+aS'You Got The Look I Like'
+p2321
+aS'You Make Me'
+p2322
+asS'Bow Wow Wow'
+p2323
+(lp2324
+S'Aphrodisiac'
+p2325
+aS'Baby, Oh No'
+p2326
+aS'Basketball'
+p2327
+aS'Bow Wow Wow'
+p2328
+aS'Boyz'
+p2329
+aS'C30, C60, C90, Go!'
+p2330
+aS'Chihuahua'
+p2331
+aS'Cowboy'
+p2332
+aS'Do You Wanna Hold Me'
+p2333
+aS'Elimination Dancing'
+p2334
+aS'Fools Rush In'
+p2335
+aS'Ghetto Girls'
+p2336
+aS'Go Wild In The Country'
+p2337
+aS'Goly! Goly! Go Buddy!'
+p2338
+aS'I Want Candy'
+p2339
+aS"(I'm A) Tv Savage"
+p2340
+aS'Jungle Boy'
+p2341
+aS'King Kong'
+p2342
+aS'Lonesome Tonight'
+p2343
+aS'Louis Quatorze'
+p2344
+aS'Love Me'
+p2345
+aS'Love, Peace & Harmony'
+p2346
+aS'Mario (Your Own Way To Paradise)'
+p2347
+aS'Mile High Club'
+p2348
+aS'My Baby'
+p2349
+aS'Prince Of Darkness'
+p2350
+aS'Rikki Dee'
+p2351
+aS'Roustabout'
+p2352
+aS'See Jungle (Jungle Boy)'
+p2353
+aS'The Future'
+p2354
+aS'The Man Mountain'
+p2355
+aS'Tommy Tucker'
+p2356
+aS"What's The Time (Hey Buddy)"
+p2357
+asS'Spandau Ballet'
+p2358
+(lp2359
+S'A Matter Of Time'
+p2360
+aS'Always In The Back Of My Mind'
+p2361
+aS'Be Free With Your Love'
+p2362
+aS'Big Feeling'
+p2363
+aS'Chant No 1'
+p2364
+aS'Code Of Love'
+p2365
+aS'Coffee Club'
+p2366
+aS'Communication'
+p2367
+aS'Confused'
+p2368
+aS'Crashed Into Love'
+p2369
+aS'Cross The Line'
+p2370
+aS'Empty Spaces'
+p2371
+aS'Fight For Ourselves'
+p2372
+aS'Foundation'
+p2373
+aS'Glow'
+p2374
+aS'Gold'
+p2375
+aS'Handful Of Dust'
+p2376
+aS'Heaven Is A Secret'
+p2377
+aS'Highly Strung'
+p2378
+aS'How Many Lies ?'
+p2379
+aS"I'll Fly For You"
+p2380
+aS'Innocence And Science'
+p2381
+aS'Instinction'
+p2382
+aS'Lifeline'
+p2383
+aS'Man In Chains'
+p2384
+aS'Mandolin'
+p2385
+aS'Missionary'
+p2386
+aS'Motivator'
+p2387
+aS'Musclebound'
+p2388
+aS'Nature Of The Beast'
+p2389
+aS'Only When You Leave'
+p2390
+aS'Paint Me Down'
+p2391
+aS'Pharaoh'
+p2392
+aS'Pleasure'
+p2393
+aS'Raw'
+p2394
+aS'Reformation'
+p2395
+aS'Revenge For Love'
+p2396
+aS'Round And Round'
+p2397
+aS'She Loved Like Diamond'
+p2398
+aS'Snakes And Lovers'
+p2399
+aS'Swept'
+p2400
+aS'The Freeze'
+p2401
+aS'Through The Barricades'
+p2402
+aS'To Cut A Long Story Short'
+p2403
+aS'Toys'
+p2404
+aS'True'
+p2405
+aS'Virgin'
+p2406
+aS'Windy Town'
+p2407
+aS'With The Pride'
+p2408
+asS'Heaven 17'
+p2409
+(lp2410
+S'An Electronic Prayer'
+p2411
+aS"And That's No Lie"
+p2412
+aS'Another Big Idea'
+p2413
+aS'Are Everything'
+p2414
+aS'Bigger Than America'
+p2415
+aS'Can You Hear Me ?'
+p2416
+aS'Come Live With Me'
+p2417
+aS'Contenders'
+p2418
+aS'Crushed By The Wheels Of Industry'
+p2419
+aS'Dangerous'
+p2420
+aS'Designing Heaven'
+p2421
+aS'Dive'
+p2422
+aS'Do I Believe ?'
+p2423
+aS"Don't Stop For No-One"
+p2424
+aS'Fascist Groove Thang'
+p2425
+aS'Five Minutes To Midnight'
+p2426
+aS'Freak!'
+p2427
+aS'Geisha Boys And Temple Girls'
+p2428
+aS'Giving Up'
+p2429
+aS'I Set You Free'
+p2430
+aS'If I Were You'
+p2431
+aS'Key To The World'
+p2432
+aS'Lady Ice & Mr Hex'
+p2433
+aS'Let Me Go'
+p2434
+aS"Let's All Make A Bomb"
+p2435
+aS'Look At Me'
+p2436
+aS'Maybe Forever'
+p2437
+aS'Move Out'
+p2438
+aS'Penthouse And Pavement'
+p2439
+aS'Play To Win'
+p2440
+aS'Reputation'
+p2441
+aS'Responsibility'
+p2442
+aS'Resurrection Man'
+p2443
+aS'Shame Is On The Rocks'
+p2444
+aS'Somebody'
+p2445
+aS'Song With No Name'
+p2446
+aS'Soul Warfare'
+p2447
+aS'Sunset Now'
+p2448
+aS'Temptation'
+p2449
+aS'The Ballad Of Go-Go Brown'
+p2450
+aS'The Best Kept Secret'
+p2451
+aS'The Big Dipper'
+p2452
+aS'The Foolish Thing To Do'
+p2453
+aS'The Height Of The Fighting'
+p2454
+aS'The Last Seven Days'
+p2455
+aS"The Skin I'm In"
+p2456
+aS'Theres No Stoppin To Us'
+p2457
+aS'This Is Mine'
+p2458
+aS'Trouble'
+p2459
+aS'We Blame Love'
+p2460
+aS'We Live So Fast'
+p2461
+aS"We're Going To Live For A Very Long Time"
+p2462
+aS"Who'll Stop The Rain"
+p2463
+asS'Duran Duran'
+p2464
+(lp2465
+S'911 Is A Joke'
+p2466
+aS'A Matter Of Feeling'
+p2467
+aS'A View To A Kill'
+p2468
+aS'All She Wants Is'
+p2469
+aS'All You Need Is Now'
+p2470
+aS'American Science'
+p2471
+aS'Anyone Out There'
+p2472
+aS'Astronaut'
+p2473
+aS'Ball And Chain'
+p2474
+aS'Ball Of Confusion'
+p2475
+aS'Be My Icon'
+p2476
+aS'Beautiful Colours'
+p2477
+aS'Bedroom Toys'
+p2478
+aS'Before the Rain'
+p2479
+aS'Being Followed'
+p2480
+aS'Big Bang Generation'
+p2481
+aS'Big Thing'
+p2482
+aS'Blame the Machines'
+p2483
+aS'Bomb'
+p2484
+aS"Box Full O' Honey"
+p2485
+aS'Breath After Breath'
+p2486
+aS'Buried In The Sand'
+p2487
+aS'Burning The Ground'
+p2488
+aS'Can You Deal With It?'
+p2489
+aS'Careless Memories'
+p2490
+aS'Chains'
+p2491
+aS'Come Undone'
+p2492
+aS'Communication'
+p2493
+aS'Cracks In The Pavement'
+p2494
+aS'Crystal Ship'
+p2495
+aS'Decadance'
+p2496
+aS'Diamond Dogs'
+p2497
+aS'Dirty Great Monster'
+p2498
+aS'Do You Believe In Shame?'
+p2499
+aS'Down Town'
+p2500
+aS'Dreamboy'
+p2501
+aS'Drive By'
+p2502
+aS'Drowning Man'
+p2503
+aS'Drug'
+p2504
+aS'Edge Of America'
+p2505
+aS'El Diablo'
+p2506
+aS'Election Day'
+p2507
+aS'Electric Barbarella'
+p2508
+aS'Fallen Angel'
+p2509
+aS'Falling Down'
+p2510
+aS'Fame'
+p2511
+aS'Faster Than Light'
+p2512
+aS'Femme Fatale'
+p2513
+aS'Finest Hour'
+p2514
+aS'First Impression'
+p2515
+aS'Follow In My Footsteps'
+p2516
+aS'Friends Of Mine'
+p2517
+aS'Get It On'
+p2518
+aS'Girl Panic'
+p2519
+aS'Girls On Film'
+p2520
+aS'Go To Zero'
+p2521
+aS'God'
+p2522
+aS'Goodbye Is Forever'
+p2523
+aS'Grey Lady Of The Sea'
+p2524
+aS'Hallucinating Elvis'
+p2525
+aS'Hold Back The Rain'
+p2526
+aS'Hold Me'
+p2527
+aS'Hothead'
+p2528
+aS'Hungry Like The Wolf'
+p2529
+aS'I Believe / All I Need To Know'
+p2530
+aS"I Don't Want Your Love"
+p2531
+aS'I Take The Dice'
+p2532
+aS'I Wanna Take You Higher'
+p2533
+aS'Is There Something I Should Know?'
+p2534
+aS'Keep Me In The Dark'
+p2535
+aS'Khanada'
+p2536
+aS'Lady Ice'
+p2537
+aS'Lady Xanax'
+p2538
+aS'Land'
+p2539
+aS'Last Chance On The Stairway'
+p2540
+aS'Last Day On Earth'
+p2541
+aS'Last Man Standing'
+p2542
+aS'Late Bar'
+p2543
+aS'Lava Lamp'
+p2544
+aS'Lay Lady Lay'
+p2545
+aS'Leave A Light On'
+p2546
+aS'Liberty'
+p2547
+aS'Like An Angel'
+p2548
+aS'Lonely Business'
+p2549
+aS'Lonely In Your Nightmare'
+p2550
+aS'Lonely Tonight'
+p2551
+aS'Love Voodoo'
+p2552
+aS'Magic Bus'
+p2553
+aS'Make Me Smile'
+p2554
+aS'Mars Meets Venus'
+p2555
+aS'Meet El Presidente'
+p2556
+aS'Michael'
+p2557
+aS'Midnight Sun'
+p2558
+aS'Missing'
+p2559
+aS'My Antarctica'
+p2560
+aS'My Own Way'
+p2561
+aS'New Moon On Monday'
+p2562
+aS'New Religion'
+p2563
+aS'Nice'
+p2564
+aS'Nightboat'
+p2565
+aS'Nite Runner'
+p2566
+aS'None Of The Above'
+p2567
+aS'Notorious'
+p2568
+aS'Of Crime And Passion'
+p2569
+aS'One Of Those Days'
+p2570
+aS'Ordinary World'
+p2571
+aS'Out Of My Mind'
+p2572
+aS'Palomino'
+p2573
+aS'Perfect Day'
+p2574
+aS'Planet Earth'
+p2575
+aS'Plastic Girl'
+p2576
+aS'Playing With Uranium'
+p2577
+aS'Point Of No Return'
+p2578
+aS'Pop Trash Movie'
+p2579
+aS'Pressure Off'
+p2580
+aS'Pretty Ones'
+p2581
+aS'Proposition'
+p2582
+aS'Read My Lips'
+p2583
+aS'Rebel Rebel'
+p2584
+aS'Red Carpet Massacre'
+p2585
+aS'Rio'
+p2586
+aS'Runway Runaway'
+p2587
+aS'Safe'
+p2588
+aS'Salt In The Rainbow'
+p2589
+aS'Save A Prayer'
+p2590
+aS'Say The Word'
+p2591
+aS'Secret Oktober'
+p2592
+aS'Serious'
+p2593
+aS'Seven And The Ragged Tiger'
+p2594
+aS'Shadows On Your Side'
+p2595
+aS'Shelter'
+p2596
+aS"She's Too Much"
+p2597
+aS'Shotgun'
+p2598
+aS'Silva Halo'
+p2599
+aS'Sin Of The City'
+p2600
+aS'Sinner Or Saint'
+p2601
+aS'Skin Divers'
+p2602
+aS'Skin Trade'
+p2603
+aS'So Long Suicide'
+p2604
+aS'So Misled'
+p2605
+aS'Some Like It Hot'
+p2606
+aS'Someone Else Not Me'
+p2607
+aS'Sound Of Thunder'
+p2608
+aS'Starting To Remember'
+p2609
+aS'Still Breathing'
+p2610
+aS'Still In Your Heart'
+p2611
+aS'Stop Dead'
+p2612
+aS'Success'
+p2613
+aS'Taste The Summer'
+p2614
+aS'Tel Aviv'
+p2615
+aS'Tempted'
+p2616
+aS'Thank You'
+p2617
+aS'The Chauffeur'
+p2618
+aS'The Flame'
+p2619
+aS'The Man Who Stole A Leopard'
+p2620
+aS'The Needle And The Damage Done'
+p2621
+aS'The Promise'
+p2622
+aS'The Reflex'
+p2623
+aS'The Seventh Stranger'
+p2624
+aS"The Sun Doesn't Shine Forever"
+p2625
+aS'The Valley'
+p2626
+aS'This Is How A Road Gets Made'
+p2627
+aS'Time For Temptation'
+p2628
+aS'To The Shore'
+p2629
+aS'To Whom It May Concern'
+p2630
+aS'Too Late Marlene'
+p2631
+aS'Too Much Information'
+p2632
+aS'Tv Vs. Radio'
+p2633
+aS'Umf'
+p2634
+aS'Undergoing Treatment'
+p2635
+aS'Union Of The Snake'
+p2636
+aS'Venice Drowning'
+p2637
+aS'Vertigo'
+p2638
+aS'Vertigo (Do The Demolition)'
+p2639
+aS'Violence Of Summer'
+p2640
+aS'Virus'
+p2641
+aS'Want You More!'
+p2642
+aS'Watching The Detectives'
+p2643
+aS'Water Babies'
+p2644
+aS'We Need You'
+p2645
+aS'What Happens Tomorrow'
+p2646
+aS'White Lines'
+p2647
+aS'Who Do You Think You Are?'
+p2648
+aS'Wild Boys'
+p2649
+aS'Winter Marches On'
+p2650
+aS'Yo Bad Azizi'
+p2651
+aS'Zoom In'
+p2652
+asS'Howard Jones'
+p2653
+(lp2654
+S'All I Want'
+p2655
+aS'Always Asking Questions'
+p2656
+aS'ANGELS AND LOVERS'
+p2657
+aS'Another Chance'
+p2658
+aS'Assault And Battery'
+p2659
+aS'Automaton'
+p2660
+aS'Back In Your Life'
+p2661
+aS'Black & White'
+p2662
+aS'Blue'
+p2663
+aS'Bounce Right Back'
+p2664
+aS'Brutality Of Fact'
+p2665
+aS'Celebrate'
+p2666
+aS'Change The Man'
+p2667
+aS'City Song'
+p2668
+aS'Collective Heartbeat'
+p2669
+aS'Conditioning'
+p2670
+aS"Cookin' In The Kitchen"
+p2671
+aS'Cross That Line'
+p2672
+aS'Dig This Well Deep'
+p2673
+aS"Don't Always Look At The Rain"
+p2674
+aS"Don't Get Me Wrong"
+p2675
+aS"Don't Put These Curses On Me"
+p2676
+aS"Don't Want To Fight Anymore"
+p2677
+aS'Dream Into Action'
+p2678
+aS'Elegy'
+p2679
+aS'Equality'
+p2680
+aS'Everlasting Love'
+p2681
+aS'Everything'
+p2682
+aS'Exodus'
+p2683
+aS"Fallin' Away"
+p2684
+aS'Fight On'
+p2685
+aS'For You, See Me'
+p2686
+aS'Fresh Air Waltz'
+p2687
+aS'Give Me Strength'
+p2688
+aS'Good Luck, Bad Luck'
+p2689
+aS'Guardians Of The Breath'
+p2690
+aS'Gun Turned On The World'
+p2691
+aS'Hide And Seek'
+p2692
+aS"Human's Lib"
+p2693
+aS'Hunger For The Flesh'
+p2694
+aS'Hunt The Self'
+p2695
+aS'I Must Go'
+p2696
+aS'I Remember'
+p2697
+aS'If You Love'
+p2698
+aS'I.g.y.'
+p2699
+aS'Is There A Difference?'
+p2700
+aS"It Just Doesn't Matter"
+p2701
+aS"I've Said Too Much"
+p2702
+aS'Just Look At You Now'
+p2703
+aS"Kev's Song"
+p2704
+aS'Last Supper'
+p2705
+aS'Law Of The Jungle'
+p2706
+aS'Learning How To Love'
+p2707
+aS'Left No Evidence'
+p2708
+aS'Let It Flow'
+p2709
+aS'Let Me Be The First To Know'
+p2710
+aS'Let The People Have Their Say'
+p2711
+aS'Let The Spirit Carry Me'
+p2712
+aS'Life In One Day'
+p2713
+aS'Lift Me Up'
+p2714
+aS'Like To Get To Know You Well'
+p2715
+aS'Little Bit Of Snow'
+p2716
+aS'Look Mama'
+p2717
+aS'Love Is A Good Thing'
+p2718
+aS"Love's Never Wasted"
+p2719
+aS'Modern Man'
+p2720
+aS'Natural'
+p2721
+aS'Never Say Bye'
+p2722
+aS'New Song'
+p2723
+aS'No One Is To Blame'
+p2724
+aS'Not One Of The Lonely Tonight'
+p2725
+aS'Nothing To Fear'
+p2726
+aS'One Last Try'
+p2727
+aS'Over & Above'
+p2728
+aS'Pearl In The Shell'
+p2729
+aS'Power Of The Media'
+p2730
+aS'Powerhouse'
+p2731
+aS'Respected'
+p2732
+aS'Revolution Of The Heart'
+p2733
+aS'Road To Cairo'
+p2734
+aS'Roll Right Up'
+p2735
+aS'Rubber Morals'
+p2736
+aS'Shine Through'
+p2737
+aS'Show Me'
+p2738
+aS'Sleep My Angel'
+p2739
+aS'Someone You Need'
+p2740
+aS'Specialty'
+p2741
+aS'Spectrum'
+p2742
+aS'Step Into These Shoes'
+p2743
+aS'Stir It Up'
+p2744
+aS'Tears To Tell'
+p2745
+aS'The Balance Of Love'
+p2746
+aS'The Presence Of Other'
+p2747
+aS'The Prisoner'
+p2748
+aS'The Voices Are Back'
+p2749
+aS'Things Can Only Get Better'
+p2750
+aS'Those Who Move Clouds'
+p2751
+aS'Tomorrow Is Now'
+p2752
+aS'Two Souls'
+p2753
+aS'Wanders To You'
+p2754
+aS'We Make The Weather'
+p2755
+aS'Wedding Song'
+p2756
+aS'What Can I Say?'
+p2757
+aS'What Is Love?'
+p2758
+aS'Where Are We Going?'
+p2759
+aS'Why Look For The Key'
+p2760
+aS'Will You Still Be There?'
+p2761
+aS'You Are Beautiful To Me'
+p2762
+aS"You Can Say It's All Over"
+p2763
+aS"You Know I Love You... Don't You?"
+p2764
+aS'You Say'
+p2765
+aS"You're The Buddha"
+p2766
+asS'Frankie Goes to Hollywood'
+p2767
+(lp2768
+S'Black Night White Light'
+p2769
+aS'Born To Run'
+p2770
+aS'Delirious'
+p2771
+aS"Don't Loose What's Left"
+p2772
+aS'Ferry Cross The Mersey'
+p2773
+aS"For Heaven's Sake"
+p2774
+aS'Fury'
+p2775
+aS'Get It On'
+p2776
+aS'Happy Hi'
+p2777
+aS'Is Anybody Out There ?'
+p2778
+aS'Kill The Pain'
+p2779
+aS'Kiss'
+p2780
+aS'Krisco Kisses'
+p2781
+aS'Lunar Bay'
+p2782
+aS'Maximum Joy'
+p2783
+aS'One Night In Bangkok'
+p2784
+aS'Our Silver Turns To Gold'
+p2785
+aS'Rage Hard'
+p2786
+aS'Relax'
+p2787
+aS'Roadhouse Blues'
+p2788
+aS'San Jose'
+p2789
+aS'Suffragette City'
+p2790
+aS'(Tag)'
+p2791
+aS'The Only Star In Heaven'
+p2792
+aS'The Power Of Love'
+p2793
+aS'The Waves'
+p2794
+aS'The World Is My Oyster'
+p2795
+aS'Two Tribes'
+p2796
+aS'Two Tribes (Annihilation)'
+p2797
+aS"Two Tribes 'cowboys And Indians'"
+p2798
+aS'War'
+p2799
+aS'War (Hidden)'
+p2800
+aS'Warriors Of The Wasteland'
+p2801
+aS'Watching The Wildlife'
+p2802
+aS'Welcome To The Pleasuredome'
+p2803
+aS'Wish (The Lads Were Here)'
+p2804
+asS'The Fixx'
+p2805
+(lp2806
+S'A Letter To Both Sides'
+p2807
+aS'All Is Fair'
+p2808
+aS'Anyone Else'
+p2809
+aS'Are We Ourselves?'
+p2810
+aS'Brave'
+p2811
+aS'Built For The Future'
+p2812
+aS'Calm Animals'
+p2813
+aS'Cameras In Paris'
+p2814
+aS'Camphor'
+p2815
+aS"Can't Finish"
+p2816
+aS'Changing'
+p2817
+aS'Chase The Fire'
+p2818
+aS'Climb The Hill'
+p2819
+aS'Crucified'
+p2820
+aS'Deeper And Deeper'
+p2821
+aS"Don't Be Scared"
+p2822
+aS'Driven Out'
+p2823
+aS'Facing The Wind'
+p2824
+aS'Fatal Shore'
+p2825
+aS'Going Without'
+p2826
+aS'Gypsy Feet'
+p2827
+aS'How Much Is Enough'
+p2828
+aS'I Live'
+p2829
+aS'I Will'
+p2830
+aS"I'm Life"
+p2831
+aS'Is That It?'
+p2832
+aS'Less Cities More Moving People'
+p2833
+aS"Life's What's Killing Me"
+p2834
+aS'Liner'
+p2835
+aS'Lost In Battle Overseas'
+p2836
+aS'Lost Planes'
+p2837
+aS'No Hollywood Ending'
+p2838
+aS'No One Has To Cry'
+p2839
+aS'One Thing Leads To Another'
+p2840
+aS'Opinions'
+p2841
+aS'Outside'
+p2842
+aS'Phantom Living'
+p2843
+aS'Precious Stone'
+p2844
+aS'Red Skies'
+p2845
+aS'Roger And Out'
+p2846
+aS'Running'
+p2847
+aS'Saved By Zero'
+p2848
+aS'Secret Separation'
+p2849
+aS'Shred Of Evidence'
+p2850
+aS'Shut It Out'
+p2851
+aS'Shuttered Room'
+p2852
+aS'Sign Of Fire'
+p2853
+aS'Some People'
+p2854
+aS'Stand Or Fall'
+p2855
+aS'Still Around'
+p2856
+aS"Straight 'Round The Bend"
+p2857
+aS'Sunshine In The Shade'
+p2858
+aS'Taking The Long Way Home'
+p2859
+aS'The Flow'
+p2860
+aS'The Fool'
+p2861
+aS'The Strain'
+p2862
+aS'Treasure It'
+p2863
+aS'Walkabout'
+p2864
+aS'Want That Life'
+p2865
+aS"We Don't Own The World"
+p2866
+aS'Wish'
+p2867
+aS'Woman On A Train'
+p2868
+aS'World Weary'
+p2869
+asS'Def Leppard'
+p2870
+(lp2871
+S'10538 Overture'
+p2872
+aS'10X Bigger Than Love'
+p2873
+aS'20Th Century Boy'
+p2874
+aS'21St Century Sha La La La Girl'
+p2875
+aS'Action'
+p2876
+aS'Action! Not Words'
+p2877
+aS'All I Want Is Everything'
+p2878
+aS'All Night'
+p2879
+aS'Animal'
+p2880
+aS'Another Hit And Run'
+p2881
+aS'Answer To The Master'
+p2882
+aS'Armageddon It'
+p2883
+aS'Back In Your Face'
+p2884
+aS'Bad Actress'
+p2885
+aS'Beyond The Temple'
+p2886
+aS"Billy's Got A Gun"
+p2887
+aS'Blood Runs Cold'
+p2888
+aS'Breathe A Sigh'
+p2889
+aS"Bringin' On The Heartbreak"
+p2890
+aS'Burnout'
+p2891
+aS"Can't Keep Away From The Flame"
+p2892
+aS"C'mon C'mon"
+p2893
+aS'Come Undone'
+p2894
+aS"Comin' Under Fire"
+p2895
+aS'Cruise Control'
+p2896
+aS'Cry'
+p2897
+aS'Day After Day'
+p2898
+aS'Deliver Me'
+p2899
+aS'Demolition Man'
+p2900
+aS'Desert Song'
+p2901
+aS'Die Hard The Hunter'
+p2902
+aS"Don't Believe A Word"
+p2903
+aS"Don't Shoot Shotgun"
+p2904
+aS'Drive-In Saturday'
+p2905
+aS'Elected'
+p2906
+aS'Everyday'
+p2907
+aS'Excitable'
+p2908
+aS"Foolin'"
+p2909
+aS'Four Letter Word'
+p2910
+aS'Fractured Love'
+p2911
+aS'From The Inside'
+p2912
+aS'Gift Of Flesh'
+p2913
+aS'Gimme A Job'
+p2914
+aS'Girl Like You'
+p2915
+aS"Glad I'm Alive"
+p2916
+aS'Go'
+p2917
+aS'Gods Of War'
+p2918
+aS'Good Morning Freedom'
+p2919
+aS'Goodbye'
+p2920
+aS'Gotta Let It Go'
+p2921
+aS'Gravity'
+p2922
+aS'Guilty'
+p2923
+aS'Hallucinate'
+p2924
+aS'Hanging On The Telephone'
+p2925
+aS'Have You Ever Needed Someone So Bad'
+p2926
+aS'Heat Street'
+p2927
+aS'Heaven Is'
+p2928
+aS'Hell Raiser'
+p2929
+aS'Hello America'
+p2930
+aS"He's Gonna Step On You Again"
+p2931
+aS"High 'n' Dry"
+p2932
+aS'Hysteria'
+p2933
+aS'I Am Your Child'
+p2934
+aS'I Wanna Be Your Hero'
+p2935
+aS'I Wanna Touch You'
+p2936
+aS'Immortal'
+p2937
+aS'It Could Be You'
+p2938
+aS"It Don't Matter"
+p2939
+aS"It's Only Love"
+p2940
+aS'Kings Of Obivion'
+p2941
+aS'Kings Of The World'
+p2942
+aS'Kiss The Day'
+p2943
+aS'Lady Strange'
+p2944
+aS'Let It Go'
+p2945
+aS'Let Me Be The One'
+p2946
+aS"Let's Get Rocked"
+p2947
+aS'Little Bit Of Love'
+p2948
+aS'Little Wing'
+p2949
+aS'Long, Long Way To Go'
+p2950
+aS'Love'
+p2951
+aS'Love & Affection'
+p2952
+aS'Love And Affection'
+p2953
+aS'Love Bites'
+p2954
+aS"Love Don't Lie"
+p2955
+aS'Make Love Like A Man'
+p2956
+aS'Me And My Wine'
+p2957
+aS'Medicine Man'
+p2958
+aS'Mirror, Mirror (Look Into My Eyes)'
+p2959
+aS'Miss You In A Heartbeat'
+p2960
+aS'Misty Dreamer'
+p2961
+aS'Move With Me Slowly'
+p2962
+aS'Nine Lives'
+p2963
+aS'No Matter What'
+p2964
+aS'No No No'
+p2965
+aS'Now'
+p2966
+aS"Now I'm Here"
+p2967
+aS'On Through The Night'
+p2968
+aS'Only After Dark'
+p2969
+aS'Only The Good Die Young'
+p2970
+aS'Overture'
+p2971
+aS'Paper Sun'
+p2972
+aS'Pearl Of Euphoria'
+p2973
+aS'Personal Property'
+p2974
+aS'Photograph'
+p2975
+aS'Pour Some Sugar On Me'
+p2976
+aS'Promises'
+p2977
+aS'Rebel Rebel'
+p2978
+aS'Release Me'
+p2979
+aS'Ride Into The Sun'
+p2980
+aS'Ring Of Fire'
+p2981
+aS'Rock Brigade'
+p2982
+aS'Rock Of Ages'
+p2983
+aS'Rock On'
+p2984
+aS'Rock! Rock! Till You Drop'
+p2985
+aS'Rocket'
+p2986
+aS'Rocks Off'
+p2987
+aS'Run Riot'
+p2988
+aS'Satellite'
+p2989
+aS'Scar'
+p2990
+aS'See The Light'
+p2991
+aS"She's Too Tough"
+p2992
+aS'Slang'
+p2993
+aS'Song & Emotion'
+p2994
+aS'Sorrow Is A Woman'
+p2995
+aS'Stagefright'
+p2996
+aS'Stand Up'
+p2997
+aS'Stay With Me'
+p2998
+aS'Street Life'
+p2999
+aS'Tear It Down'
+p3000
+aS"The Golden Age Of Rock 'n' Roll"
+p3001
+aS'To Be Alive'
+p3002
+aS'Tomorrow'
+p3003
+aS'Tonight'
+p3004
+aS'Too Late For Love'
+p3005
+aS'Torn To Shreds'
+p3006
+aS'Travelling Band'
+p3007
+aS'Truth?'
+p3008
+aS'Turn To Dust'
+p3009
+aS'Two Steps Behind'
+p3010
+aS'Unbelievable'
+p3011
+aS'Undefeated'
+p3012
+aS'Under My Wheels'
+p3013
+aS'Warchild'
+p3014
+aS'Wasted'
+p3015
+aS'Waterloo Sunset'
+p3016
+aS'When Love And Hate Collide'
+p3017
+aS'When Saturday Comes'
+p3018
+aS'When The Walls Came Tumbling Down'
+p3019
+aS'Where Does Love Go When It Dies'
+p3020
+aS'White Lightning'
+p3021
+aS'Who Do You Love'
+p3022
+aS'Women'
+p3023
+aS'Work It Out'
+p3024
+aS'Worlds Collide'
+p3025
+aS"You Can't Always Get What You Want"
+p3026
+aS"You Got Me Runnin'"
+p3027
+aS"You're So Beautiful"
+p3028
+aS'Ziggy Stardust'
+p3029
+asS'After the Fire'
+p3030
+(lp3031
+S'Dancing In The Shadows'
+p3032
+aS'Der Kommissar'
+p3033
+aS'Laser Love'
+p3034
+aS'One Rule For You'
+p3035
+asS'The Pretenders'
+p3036
+(lp3037
+S'Have Yourself A Merry Little Christmas'
+p3038
+aS'2000 Miles'
+p3039
+aS'977'
+p3040
+aS'All My Dreams'
+p3041
+aS'Almost Perfect'
+p3042
+aS'Angel Of The Morning'
+p3043
+aS"Baby's Breath"
+p3044
+aS'Back On The Chain Gang'
+p3045
+aS'Bad Boys Get Spanked'
+p3046
+aS'Biker'
+p3047
+aS'Birds Of Paradise'
+p3048
+aS'Boots Of Chinese Plastic'
+p3049
+aS'Brass In Pocket'
+p3050
+aS'Break Up The Concrete'
+p3051
+aS'Chill Factor'
+p3052
+aS'Clean Up Woman'
+p3053
+aS'Complex Person'
+p3054
+aS'Criminal'
+p3055
+aS'Cuban Slide'
+p3056
+aS'Dance!'
+p3057
+aS'Day After Day'
+p3058
+aS"Don't Get Me Wrong"
+p3059
+aS'Downtown'
+p3060
+aS'Dragway 42'
+p3061
+aS"Every Mother's Son"
+p3062
+aS'Fools Must Die'
+p3063
+aS'Forever Young'
+p3064
+aS'From The Heart Down'
+p3065
+aS'Good Bye'
+p3066
+aS'Have Yourself A Merry Little Christmas'
+p3067
+aS'Hold A Candle To This'
+p3068
+aS'Hollywood Perfume'
+p3069
+aS'How Much Did You Get For Your Soul?'
+p3070
+aS'Human'
+p3071
+aS'Hymn To Her'
+p3072
+aS'I Go To Sleep'
+p3073
+aS'I Got You Babe'
+p3074
+aS'I Hurt You'
+p3075
+aS'I Remember You'
+p3076
+aS'I Should Of'
+p3077
+aS'If There Was A Man'
+p3078
+aS"I'll Stand By You"
+p3079
+aS"I'm A Mother"
+p3080
+aS"I'm Not In Love"
+p3081
+aS'Jealous Dogs'
+p3082
+aS'Kid'
+p3083
+aS'Kinda Nice, I Like It.'
+p3084
+aS'Legalise Me'
+p3085
+aS"Let's Make A Pact"
+p3086
+aS'Lie To Me'
+p3087
+aS'Light Of The Moon'
+p3088
+aS'Louie Louie'
+p3089
+aS'Love Colours'
+p3090
+aS'Lovers Of Today'
+p3091
+aS'Loving You Is All I Know'
+p3092
+aS'Message Of Love'
+p3093
+aS'Middle Of The Road'
+p3094
+aS'Middle Of The Road V.1'
+p3095
+aS'Money Talk'
+p3096
+aS'My Baby'
+p3097
+aS'My City Was Gone'
+p3098
+aS'Mystery Achievement'
+p3099
+aS'Nails In The Road'
+p3100
+aS'Never Do That'
+p3101
+aS'Night In My Veins'
+p3102
+aS'No Guarantee'
+p3103
+aS'Nobody Loves Me (Like My Baby)'
+p3104
+aS'Nothing Breaks Like A Heart'
+p3105
+aS'One More Time'
+p3106
+aS'Pack It Up'
+p3107
+aS'Popstar'
+p3108
+aS'Precious'
+p3109
+aS'Private Life'
+p3110
+aS'Rabo De Nube'
+p3111
+aS'Rebel Rock Me'
+p3112
+aS'Revolution'
+p3113
+aS'Room Full Of Mirrors'
+p3114
+aS'Samurai'
+p3115
+aS'Saving Grace'
+p3116
+aS'Sense Of Purpose'
+p3117
+aS'Show Me'
+p3118
+aS'Stop Your Sobbing'
+p3119
+aS'Talk Of The Town'
+p3120
+aS'Tattooed Love Boys'
+p3121
+aS'Tequila'
+p3122
+aS'The Adultress'
+p3123
+aS'The English Roses'
+p3124
+aS'The Losing'
+p3125
+aS'The Phone Call'
+p3126
+aS'The Wait'
+p3127
+aS'Thin Line Between Love And Hate'
+p3128
+aS'Thumbelina'
+p3129
+aS'Time'
+p3130
+aS'Time The Avenger'
+p3131
+aS'Tradition Of Love'
+p3132
+aS'Up The Neck'
+p3133
+aS'Walk Like A Panther'
+p3134
+aS'Waste Not Want Not'
+p3135
+aS'Watching The Clothes'
+p3136
+aS'When I Change My Life'
+p3137
+aS'When Will I See You?'
+p3138
+aS'When You Say Nothing At All'
+p3139
+aS"Who's Who"
+p3140
+aS"You Didn't Have To"
+p3141
+aS'You Know Who Your Friends Are'
+p3142
+asS'U2'
+p3143
+(lp3144
+S"11 O'clock Tick Tock"
+p3145
+aS'40'
+p3146
+aS'A Celebration'
+p3147
+aS'A Day Without Me'
+p3148
+aS'A Different Kind Of Blue'
+p3149
+aS'A Man And A Woman'
+p3150
+aS'A Room At The Heartbreak Hotel'
+p3151
+aS'A Sort Of Homecoming'
+p3152
+aS'Acrobat'
+p3153
+aS'Alex Descends Into Hell For A Bottle Of Milk/Korova 1'
+p3154
+aS'All Along The Watchtower'
+p3155
+aS'All Because Of You'
+p3156
+aS'All I Want Is You'
+p3157
+aS'Always'
+p3158
+aS'Always Forever Now'
+p3159
+aS'An Cat Dubh'
+p3160
+aS'Angel Of Harlem'
+p3161
+aS'Another Day'
+p3162
+aS'Another Time, Another Place'
+p3163
+aS'Are You Gonna Wait Forever?'
+p3164
+aS'Babyface'
+p3165
+aS'Bad'
+p3166
+aS'Be There'
+p3167
+aS'Beat On The Brat'
+p3168
+aS'Beautiful Day'
+p3169
+aS'Big Girls Are Best'
+p3170
+aS'Blow Your House Down'
+p3171
+aS'Boy Falls From The Sky'
+p3172
+aS'Boy-Girl'
+p3173
+aS'Breathe'
+p3174
+aS'Bullet The Blue Sky'
+p3175
+aS'California'
+p3176
+aS'Cedars Of Lebanon'
+p3177
+aS'Cedarwood Road'
+p3178
+aS'Christmas'
+p3179
+aS'City Of Blinding Lights'
+p3180
+aS'Corpse'
+p3181
+aS'Crumbs From Your Table'
+p3182
+aS"Daddy's Gonna Pay For Your Crashed Car"
+p3183
+aS"Dancin' Shoes"
+p3184
+aS'Dancing Barefoot'
+p3185
+aS'Dancing Queen [Live]'
+p3186
+aS'Daydream Believer'
+p3187
+aS'Deep In The Heart'
+p3188
+aS'Desire'
+p3189
+aS'Dirty Day'
+p3190
+aS'Discotheque'
+p3191
+aS'Do You Feel Loved?'
+p3192
+aS'Doctor Doctor'
+p3193
+aS'Dreaming With Tears In My Eyes'
+p3194
+aS'Drowning Man'
+p3195
+aS'Electrical Storm'
+p3196
+aS'Elevation'
+p3197
+aS'Elvis Ate America'
+p3198
+aS'Elvis Presley And America'
+p3199
+aS'Even Better Than The Real Thing'
+p3200
+aS'Everlasting Love'
+p3201
+aS'Every Breaking Wave'
+p3202
+aS'Exit'
+p3203
+aS'Falling At Your Feet'
+p3204
+aS'Fast Cars'
+p3205
+aS'Fez - Being Born'
+p3206
+aS'Fire'
+p3207
+aS'Fortunate Son'
+p3208
+aS'Freedom For My People'
+p3209
+aS'Get On Your Boots'
+p3210
+aS'Glastonbury'
+p3211
+aS'Gloria'
+p3212
+aS'God Part Ii'
+p3213
+aS'Gone'
+p3214
+aS'Grace'
+p3215
+aS'Hallelujah'
+p3216
+aS'Hallelujah  (Here She Comes)'
+p3217
+aS'Happiness Is A Warm Gun (The Gun Mix)'
+p3218
+aS'Hawkmoon 269'
+p3219
+aS'Heartland'
+p3220
+aS'Heaven And Hell'
+p3221
+aS'Helter Skelter'
+p3222
+aS'Here Comes The Sunset/Chances Away'
+p3223
+aS'Heroine'
+p3224
+aS'Hold Me, Thrill Me, Kiss Me'
+p3225
+aS'Holy Joe'
+p3226
+aS'I Fall Down'
+p3227
+aS'I Feel Free'
+p3228
+aS"I Still Haven't Found What I'm Looking For"
+p3229
+aS'I Threw A Brick Through A Window'
+p3230
+aS'I Will Follow'
+p3231
+aS'If God Will Send His Angels'
+p3232
+aS'If You Wear That Velvet Dress'
+p3233
+aS"I'll Go Crazy If I Don't Go Crazy Tonight"
+p3234
+aS"I'm Not Your Baby"
+p3235
+aS'In A Lifetime'
+p3236
+aS'In A Little While'
+p3237
+aS"In God's Country"
+p3238
+aS'In The Name Of The Father'
+p3239
+aS'Indian Summer Sky'
+p3240
+aS'Inside Out'
+p3241
+aS'Instant Karma'
+p3242
+aS'Into The Heart'
+p3243
+aS'Invisible'
+p3244
+aS'Iris'
+p3245
+aS'Is That All'
+p3246
+aS'Ito Okashi'
+p3247
+aS"I've Got You Under My Skin"
+p3248
+aS'Jesus Christ'
+p3249
+aS'Kite'
+p3250
+aS"Knockin' On Heaven's Door"
+p3251
+aS'Lady With The Spinning Head'
+p3252
+aS'Last Night On Earth'
+p3253
+aS'Laughing In The Face Of Love/So Cruel'
+p3254
+aS'Lemon'
+p3255
+aS'Like A Song'
+p3256
+aS'Lost On A Silent Planet'
+p3257
+aS'Love And Peace Or Else'
+p3258
+aS'Love Comes Tumbling'
+p3259
+aS'Love Is Blindness'
+p3260
+aS'Love Rescue Me'
+p3261
+aS'Luminous Times'
+p3262
+aS'Magnificent'
+p3263
+aS'Mercy'
+p3264
+aS'Miami'
+p3265
+aS'Miracle Drug'
+p3266
+aS'Miss Sarajevo'
+p3267
+aS'Mlk'
+p3268
+aS'Mofo'
+p3269
+aS'Moment of Surrender'
+p3270
+aS'Mothers Of The Disappeared'
+p3271
+aS'Mysterious Ways'
+p3272
+aS"New Year's Day"
+p3273
+aS'New York'
+p3274
+aS'Night And Day'
+p3275
+aS'No Line On The Horizon'
+p3276
+aS"No Man's Land"
+p3277
+aS'North And South Of The River'
+p3278
+aS'North Star'
+p3279
+aS'Numb'
+p3280
+aS'October'
+p3281
+aS'One'
+p3282
+aS'One Minute Warning'
+p3283
+aS'One Step Closer'
+p3284
+aS'One Tree Hill'
+p3285
+aS'Ordinary Love'
+p3286
+aS'Original Of The Species'
+p3287
+aS'Out Of Control'
+p3288
+aS'Outro'
+p3289
+aS'Paint It Black'
+p3290
+aS'Party Girl'
+p3291
+aS'Peace On Earth'
+p3292
+aS'Please'
+p3293
+aS'Pop Muzik'
+p3294
+aS'Pride'
+p3295
+aS'Promenade'
+p3296
+aS'Raised By Wolves'
+p3297
+aS'Red Hill Mining Town'
+p3298
+aS'Red Light'
+p3299
+aS'Rejoice'
+p3300
+aS'Ride Your Wild Horses'
+p3301
+aS'Running To Stand Still'
+p3302
+aS'Salome'
+p3303
+aS'Satellite Of Love'
+p3304
+aS'Seconds'
+p3305
+aS'Shadows And Tall Trees'
+p3306
+aS"She's A Mystery To Me"
+p3307
+aS'Silver And Gold'
+p3308
+aS'Sleep Like A Baby Tonight'
+p3309
+aS'Slow Dancing'
+p3310
+aS'Slug'
+p3311
+aS'So Cruel'
+p3312
+aS'Some Days Are Better Than Others'
+p3313
+aS"Sometimes You Can't Make It On Your Own"
+p3314
+aS'Song For Someone'
+p3315
+aS'Spanish Eyes'
+p3316
+aS'Springhill Mining Disaster'
+p3317
+aS'Stand By Me'
+p3318
+aS'Stand Up Comedy'
+p3319
+aS'Staring At The Sun'
+p3320
+aS'Stateless'
+p3321
+aS'Stay'
+p3322
+aS'Stories For Boys'
+p3323
+aS'Stranger In A Strange Land'
+p3324
+aS'Street Mission'
+p3325
+aS'Stuck In A Moment'
+p3326
+aS'Summer Rain'
+p3327
+aS'Sunday Bloody Sunday'
+p3328
+aS'Surrender'
+p3329
+aS'Sweet Baby Jane'
+p3330
+aS'Take Today'
+p3331
+aS'The Dream Is Over'
+p3332
+aS'The Electric Co.'
+p3333
+aS'The First Time'
+p3334
+aS'The Fly'
+p3335
+aS'The Fool'
+p3336
+aS'The Ground Beneath Her Feet'
+p3337
+aS'The Hands That Built America'
+p3338
+aS'The Miracle'
+p3339
+aS'The Ocean'
+p3340
+aS'The Playboy Mansion'
+p3341
+aS'The Refugee'
+p3342
+aS'The Saints Are Coming'
+p3343
+aS'The Star Spangled Banner'
+p3344
+asS'A Flock of Seagulls'
+p3345
+(lp3346
+S'Better Better'
+p3347
+aS"Burnin' Up"
+p3348
+aS'Committed'
+p3349
+aS"Don't Ask Me"
+p3350
+aS'Electric'
+p3351
+aS'End'
+p3352
+aS'European'
+p3353
+aS'Heart Of Steel'
+p3354
+aS'Heartbeat Like A Drum'
+p3355
+aS'Hot Tonight'
+p3356
+aS'I Ran'
+p3357
+aS'Living In Heaven'
+p3358
+aS'Magic'
+p3359
+aS'Man Made'
+p3360
+aS'Messages'
+p3361
+aS'Modern Love Is Automatic'
+p3362
+aS'Never Again'
+p3363
+aS'Nightmares'
+p3364
+aS'Ordinary Man'
+p3365
+aS'Over My Head'
+p3366
+aS'Over The Border'
+p3367
+aS'Rainfall'
+p3368
+aS'Remember David'
+p3369
+aS'Say You Love Me'
+p3370
+aS'Setting Sun'
+p3371
+aS'Space Age Love Song'
+p3372
+aS'Standing In The Doorway'
+p3373
+aS'Story Of A Young Heart'
+p3374
+aS'Suicide Day'
+p3375
+aS'Talking'
+p3376
+aS'Telecommunication'
+p3377
+aS'The Fall'
+p3378
+aS'The More You Live, The More You Love'
+p3379
+aS'The Traveller'
+p3380
+aS'Transfer Affection'
+p3381
+aS'Walking In The Garden'
+p3382
+aS'What Am I Supposed To Do'
+p3383
+aS'Whole Lot Of Loving'
+p3384
+aS"Who's That Girl"
+p3385
+aS'Windows'
+p3386
+aS'Wishing'
+p3387
+aS'You Can Run'
+p3388
+aS"You're Mine"
+p3389
+asS'The English Beat'
+p3390
+(lp3391
+S'A Dream Home In New Zealand'
+p3392
+aS'Ackee 1 2 3'
+p3393
+aS'All Out To Get You'
+p3394
+aS'Best Friend'
+p3395
+aS'Big Shot'
+p3396
+aS"Can't Get Used To Losing You"
+p3397
+aS'Cheated'
+p3398
+aS'Click Click'
+p3399
+aS'Drowning'
+p3400
+aS'End Of The Party'
+p3401
+aS'Get-A-Job'
+p3402
+aS"Hands Off She's Mine"
+p3403
+aS'Hit It'
+p3404
+aS'I Am Your Flag'
+p3405
+aS'I Confess'
+p3406
+aS'Jackpot'
+p3407
+aS'Jeanette'
+p3408
+aS'Mirror In The Bathroom'
+p3409
+aS'Monkey Murders'
+p3410
+aS'Noise In This World'
+p3411
+aS'Over And Over'
+p3412
+aS'Pato And Roger Ago Talk'
+p3413
+aS'Ranking Full Stop'
+p3414
+aS'Rotating Head'
+p3415
+aS'Rough Rider'
+p3416
+aS'Save It For Later'
+p3417
+aS"She's Going"
+p3418
+aS'Sole Salvation'
+p3419
+aS'Sorry'
+p3420
+aS'Spar Wid Me'
+p3421
+aS'Stand Down Margaret'
+p3422
+aS'Sugar And Stress'
+p3423
+aS'Tears Of A Clown'
+p3424
+aS'The Doors Of Your Heart'
+p3425
+aS'The Limits We Set'
+p3426
+aS'Too Nice To Talk To'
+p3427
+aS'Twist And Crawl'
+p3428
+aS'Two Swords'
+p3429
+aS'Walk Away'
+p3430
+aS"What's Your Best Thing?"
+p3431
+aS'Whine & Grind/stand Down Margaret'
+p3432
+aS'Spar Wid Me'
+p3433
+asS'Iron Maiden'
+p3434
+(lp3435
+S'22, Acacia Avenue'
+p3436
+aS'2 Am'
+p3437
+aS'2 Minutes To Midnight'
+p3438
+aS'Aces High'
+p3439
+aS'Afraid To Shoot Strangers'
+p3440
+aS'Age Of Innocence'
+p3441
+aS'Alexander The Great'
+p3442
+aS'All In Your Mind'
+p3443
+aS'Another Life'
+p3444
+aS'Back In The Village'
+p3445
+aS'Be Quick Or Be Dead'
+p3446
+aS'Black Bart Blues'
+p3447
+aS'Blood Brothers'
+p3448
+aS"Blood On The World's Hands"
+p3449
+aS'Brave New World'
+p3450
+aS'Brighter Than A Thousand Suns'
+p3451
+aS'Bring Your Daughter To The Slaughter'
+p3452
+aS'Burning Ambition'
+p3453
+aS'Can I Play With Madness'
+p3454
+aS'Caught Somewhere In Time'
+p3455
+aS'Chains Of Misery'
+p3456
+aS'Charlotte The Harlot'
+p3457
+aS'Chevrolet'
+p3458
+aS"Childhood's End"
+p3459
+aS'Children Of The Damned'
+p3460
+aS'Churchill Speech'
+p3461
+aS'Coming Home'
+p3462
+aS'Communication Breakdown'
+p3463
+aS'Como Estais Amigos'
+p3464
+aS'Cross-Eyed Mary'
+p3465
+aS'Dance Of Death'
+p3466
+aS'Deja Vu'
+p3467
+aS'Die With Your Boots On'
+p3468
+aS'Different World'
+p3469
+aS'Doctor, Doctor'
+p3470
+aS"Don't Look To The Eyes Of A Stranger"
+p3471
+aS'Dream Of Mirrors'
+p3472
+aS'Drifter'
+p3473
+aS'El Dorado'
+p3474
+aS'Face In The Sand'
+p3475
+aS'Fates Warning'
+p3476
+aS'Fear Is The Key'
+p3477
+aS'Fear Of The Dark'
+p3478
+aS'Flash Of The Blade'
+p3479
+aS'Flight Of Icarus'
+p3480
+aS'For The Greater Good Of God'
+p3481
+aS'Fortunes Of War'
+p3482
+aS'From Here To Eternity'
+p3483
+aS'Futureal'
+p3484
+aS'Gangland'
+p3485
+aS'Gates Of Tomorrow'
+p3486
+aS'Genghis Khan'
+p3487
+aS'Ghost Of The Navigator'
+p3488
+aS'Hallowed Be Thy Name'
+p3489
+aS'Heaven Can Wait'
+p3490
+aS'Holy Smoke'
+p3491
+aS'Hooks In You'
+p3492
+aS"I Can't See My Feeling"
+p3493
+aS'I Live My Way'
+p3494
+aS"I'm A Mover"
+p3495
+aS'Infinite Dreams'
+p3496
+aS'Innocent Exile'
+p3497
+aS'Intro'
+p3498
+aS'Invaders'
+p3499
+aS'Invasion'
+p3500
+aS'Iron Maiden'
+p3501
+aS"I've Got The Fire!"
+p3502
+aS'Journeyman'
+p3503
+aS'Juanita'
+p3504
+aS'Judas Be My Guide'
+p3505
+aS'Judgement Day'
+p3506
+aS'Judgement Of Heaven'
+p3507
+aS'Justice Of The Peace'
+p3508
+aS'Kill Me Ce Soir'
+p3509
+aS'Killers'
+p3510
+aS'King Of Twilight'
+p3511
+aS'Lightning Strikes Twice'
+p3512
+aS'Listen With Nicko! Part I'
+p3513
+aS'Listen With Nicko ! Part VIII'
+p3514
+aS'Look For The Truth'
+p3515
+aS'Lord Of Light'
+p3516
+aS'Lord Of The Flies'
+p3517
+aS'Man On The Edge'
+p3518
+aS'Massacre'
+p3519
+aS"Mission From 'Arry"
+p3520
+aS'Montsegur'
+p3521
+aS'Moonchild'
+p3522
+aS'More Tea Vicar'
+p3523
+aS'Mother Of Mercy'
+p3524
+aS'Mother Russia'
+p3525
+aS'Murders In The Rue Morgue'
+p3526
+aS'My Generation'
+p3527
+aS'New Frontier'
+p3528
+aS'No More Lies'
+p3529
+aS'No Prayer For The Dying'
+p3530
+aS'Nodding Donkey Blues'
+p3531
+aS'Only The Good Die Young'
+p3532
+aS'Out Of The Shadows'
+p3533
+aS'Out Of The Silent Planet'
+p3534
+aS'Paschendale'
+p3535
+aS'Pass The Jam'
+p3536
+aS'Phantom Of The Opera'
+p3537
+aS'Powerslave'
+p3538
+aS'Prodigal Son'
+p3539
+aS'Prowler'
+p3540
+aS"Prowler '88"
+p3541
+aS'Public Enema Number One'
+p3542
+aS'Purgatory'
+p3543
+aS'Quest For Fire'
+p3544
+aS"Rainbow's Gold"
+p3545
+aS'Rainmaker'
+p3546
+aS'Reach Out'
+p3547
+aS'Remember Tomorrow'
+p3548
+aS'Revelations'
+p3549
+aS'Rime Of The Ancient Mariner'
+p3550
+aS'Road To Hell'
+p3551
+aS'Run Silent, Run Deep'
+p3552
+aS'Run To The Hills'
+p3553
+aS'Running Free'
+p3554
+aS'Running Free - Live'
+p3555
+aS'Sanctuary'
+p3556
+aS'Sea Of Madness'
+p3557
+aS'Seventh Son Of A Seventh Son'
+p3558
+aS'Sheriff Of Huddersfield'
+p3559
+aS"She's Gone"
+p3560
+aS'Sign Of The Cross'
+p3561
+aS'Space Station No 5'
+p3562
+aS'Speed Of Light'
+p3563
+aS'Still Life'
+p3564
+aS'Strange World'
+p3565
+aS'Stranger In A Strange Land'
+p3566
+aS'Sun And Steel'
+p3567
+aS'Tailgunner'
+p3568
+aS'That Girl'
+p3569
+aS'The Aftermath'
+p3570
+aS'The Angel And The Gambler'
+p3571
+aS'The Apparition'
+p3572
+aS'The Assassin'
+p3573
+aS'The Clairvoyant'
+p3574
+aS'The Clansman'
+p3575
+aS'The Duelists'
+p3576
+aS'The Edge Of Darkness'
+p3577
+aS'The Educated Fool'
+p3578
+aS'The Evil That Men Do'
+p3579
+aS'The Fallen Angel'
+p3580
+aS'The Fugitive'
+p3581
+aS'The Legacy'
+p3582
+aS'The Loneliness Of The Long Distance Runner'
+p3583
+aS'The Longest Day'
+p3584
+aS'The Mercenary'
+p3585
+aS'The Nomad'
+p3586
+aS'The Number Of The Beast'
+p3587
+aS'The Pilgrim'
+p3588
+aS'The Prisoner'
+p3589
+aS'The Prophecy'
+p3590
+aS'The Reincarnation Of Benjamin Breeg'
+p3591
+aS'The Thin Line Between Love And Hate'
+p3592
+aS'The Trooper'
+p3593
+aS'The Unbeliever'
+p3594
+aS'The Wicker Man'
+p3595
+aS"These Colours Don't Run"
+p3596
+aS'To Tame A Land'
+p3597
+aS'Total Eclipse'
+p3598
+aS'Tush'
+p3599
+aS'Twilight Zone'
+p3600
+aS'Virus'
+p3601
+aS'Wasted Years'
+p3602
+aS'Wasting Love'
+p3603
+aS'We Kill Everything'
+p3604
+aS'Weekend Warrior'
+p3605
+aS'When The Wild Wind Blows'
+p3606
+aS'When Two Worlds Collide'
+p3607
+aS'Where Eagles Dare'
+p3608
+aS'Wildest Dreams'
+p3609
+aS'Women In Uniform'
+p3610
+aS'Wrathchild'
+p3611
+asS'Madness'
+p3612
+(lp3613
+S'4 Am'
+p3614
+aS'All I Knew'
+p3615
+aS'Animal Farm'
+p3616
+aS'Are You Coming With Me'
+p3617
+aS'Baggy Trousers'
+p3618
+aS'Bed And Breakfast Man'
+p3619
+aS'Behind The 8 Ball'
+p3620
+aS'Believe Me'
+p3621
+aS'Benny Bullfrog'
+p3622
+aS'Blue Skinned Beast'
+p3623
+aS'Brand New Beat'
+p3624
+aS'Burning The Boats'
+p3625
+aS'Call Me'
+p3626
+aS'Calling Cards'
+p3627
+aS'Cardiac Arrest'
+p3628
+aS'Chipmunks Are Go !'
+p3629
+aS'Close Escape'
+p3630
+aS'Coldest Day'
+p3631
+aS'Crying Shame'
+p3632
+aS'Day On The Town'
+p3633
+aS'Deceives The Eye'
+p3634
+aS'Disappear'
+p3635
+aS'Dont Look Back'
+p3636
+aS'Dont Quote Me On That'
+p3637
+aS'Drip Fed Fred'
+p3638
+aS'Driving In My Car'
+p3639
+aS'Elysium'
+p3640
+aS'Embarrassment'
+p3641
+aS'Ernie'
+p3642
+aS'Fireball Xl5'
+p3643
+aS'Give Me A Reason'
+p3644
+aS'Going To The Top'
+p3645
+aS'Grey Day'
+p3646
+aS'Guns'
+p3647
+aS'House Of Fun'
+p3648
+aS"If I Didn't Care"
+p3649
+aS"If You Think There's Something"
+p3650
+aS"I'll Compete"
+p3651
+aS'In The City'
+p3652
+aS'In The Middle Of The Night'
+p3653
+aS'In The Rain'
+p3654
+aS'Inanity Over Christmas'
+p3655
+aS'It Must Be Love'
+p3656
+aS'Jennie'
+p3657
+aS'Johnny The Horse'
+p3658
+aS'Keep Moving'
+p3659
+aS'Land Of Hope And Glory'
+p3660
+aS'Lovestruck'
+p3661
+aS'Mad Not Mad'
+p3662
+aS'Madness'
+p3663
+aS'Madness (Is All In The Mind)'
+p3664
+aS'March Of The Gherkins'
+p3665
+aS'Memories'
+p3666
+aS'Michael Caine'
+p3667
+aS'Missing You'
+p3668
+aS'Mistakes'
+p3669
+aS'Mr Speaker Gets The Word'
+p3670
+aS'Mrs Hutchinson'
+p3671
+aS"Mummy's Boy"
+p3672
+aS'My Girl'
+p3673
+aS'Never Ask Twice Aka Airplane'
+p3674
+aS'New Delhi'
+p3675
+aS'Night Boat To Cairo'
+p3676
+aS'No Money'
+p3677
+aS'Not Home Today'
+p3678
+aS'On The Beat Pete'
+p3679
+aS'One Better Day'
+p3680
+aS'One Step Beyond'
+p3681
+aS"One's Second Thoughtlessness"
+p3682
+aS'Our House'
+p3683
+aS'Overdone'
+p3684
+aS'Pac-A-Mac'
+p3685
+aS'Perfect Place'
+p3686
+aS'Please Dont Go'
+p3687
+aS'Primrose Hill'
+p3688
+aS'Promises Promises'
+p3689
+aS'Prospects'
+p3690
+aS'Razor Blade Alley'
+p3691
+aS'Remembering All So Clear'
+p3692
+aS'Rise And Fall'
+p3693
+aS"Rockin' In Ab"
+p3694
+aS'Samantha'
+p3695
+aS'Sarah'
+p3696
+aS'Saturday Night Sunday Morning'
+p3697
+aS'Seven Year Scratch'
+p3698
+aS'Shadow Of Fear'
+p3699
+aS'Shadow On My House'
+p3700
+aS'Shut Up'
+p3701
+aS'Sign Of The Times'
+p3702
+aS'Solid Gone'
+p3703
+aS'Stepping Into Line'
+p3704
+aS'Sunday Morning'
+p3705
+aS'Sweetest Girl'
+p3706
+aS'Take It Or Leave It'
+p3707
+aS"Tarzan's Nuts"
+p3708
+aS"Tears You Can't Hide"
+p3709
+aS'That Face'
+p3710
+aS'Thats The Way To Do It'
+p3711
+aS'The Communicator'
+p3712
+aS'The Harder They Come'
+p3713
+aS'The Prince'
+p3714
+aS'The Sun And The Rain'
+p3715
+aS'The Wizard'
+p3716
+aS'The Young And The Old'
+p3717
+aS'Time'
+p3718
+aS'Time For Tea'
+p3719
+aS'Tiptoes'
+p3720
+aS'Tommorows Dream'
+p3721
+aS"Tomorrow's (just Another Day)"
+p3722
+aS'Turning Blue'
+p3723
+aS'Un Paso Adelante'
+p3724
+aS'Uncle Sam'
+p3725
+aS'Victoria Gardens'
+p3726
+aS'(waiting For) The Ghost Train'
+p3727
+aS'Waltz Into Mischief'
+p3728
+aS'When Dawn Arrives'
+p3729
+aS'White Heat'
+p3730
+aS'Wings Of A Dove'
+p3731
+aS'Wonderful'
+p3732
+aS'Yesterdays Men'
+p3733
+aS'You Said'
+p3734
+asS'Visage'
+p3735
+(lp3736
+S'Again We Love'
+p3737
+aS'Anvil (Night Club School)'
+p3738
+aS'Beat Boy'
+p3739
+aS'Blocks On Blocks'
+p3740
+aS'Can You Hear Me'
+p3741
+aS'Casualty'
+p3742
+aS"Damned Don't Cry"
+p3743
+aS'Fade To Grey'
+p3744
+aS"I'm Still Searching"
+p3745
+aS'In The Year 2525'
+p3746
+aS"Look What They've Done"
+p3747
+aS'Love Glove'
+p3748
+aS'Malpaso Man'
+p3749
+aS'Mind Of A Toy'
+p3750
+aS'Move Up'
+p3751
+aS'Night Train'
+p3752
+aS'Only The Good Die Young'
+p3753
+aS'Pleasure Boys'
+p3754
+aS'Questions'
+p3755
+aS'Tar'
+p3756
+aS'The Horseman'
+p3757
+aS'The Promise'
+p3758
+aS'Visa-Age'
+p3759
+aS'Visage'
+p3760
+aS'We Move'
+p3761
+aS'Whispers'
+p3762
+aS"Yesterday's Shadows"
+p3763
+asS'The Specials'
+p3764
+(lp3765
+S'A Message To You Rudy'
+p3766
+aS'Blank Expression'
+p3767
+aS'Concrete Jungle'
+p3768
+aS'(Dawning Of) A New Era'
+p3769
+aS'Do Nothing'
+p3770
+aS'Do The Dog'
+p3771
+aS"Doesn't Make It Alright"
+p3772
+aS"Enjoy Yourself (It's Later Than You Think)"
+p3773
+aS'Friday Night, Saturday Morning'
+p3774
+aS'Gangsters'
+p3775
+aS'Ghost Town'
+p3776
+aS'Guns Of Navarone'
+p3777
+aS'Hey Little Ritch Girl'
+p3778
+aS"I Can't Stand It"
+p3779
+aS'International Jet Set'
+p3780
+aS"It's Up To You"
+p3781
+aS'Man At C&A'
+p3782
+aS'Monkey Man'
+p3783
+aS'Nelson Mandela'
+p3784
+aS'Nite Klub'
+p3785
+aS"Pearl's Cafe"
+p3786
+aS'Racist Friend'
+p3787
+aS'Rat Race'
+p3788
+aS'Rude Boys Outta Jail'
+p3789
+aS"Sock It To 'Em J.B."
+p3790
+aS'Stereotypes (Stereotypes Part 2)'
+p3791
+aS'Stupid Marriage'
+p3792
+aS'Too Hot'
+p3793
+aS'Too Much Too Young'
+p3794
+aS'War Crimes'
+p3795
+aS'What I Like Most About You Is Your Girlfriend'
+p3796
+aS'Why'
+p3797
+aS"You're Wondering Now"
+p3798
+aS'A Message To You Rudy'
+p3799
+aS'Blank Expression'
+p3800
+aS'Concrete Jungle'
+p3801
+aS'(Dawning Of) A New Era'
+p3802
+aS'Do Nothing'
+p3803
+aS'Do The Dog'
+p3804
+aS"Doesn't Make It Alright"
+p3805
+aS"Enjoy Yourself (It's Later Than You Think)"
+p3806
+aS'Friday Night, Saturday Morning'
+p3807
+aS'Gangsters'
+p3808
+aS'Ghost Town'
+p3809
+aS'Guns Of Navarone'
+p3810
+aS'Hey Little Ritch Girl'
+p3811
+aS"I Can't Stand It"
+p3812
+aS'International Jet Set'
+p3813
+aS"It's Up To You"
+p3814
+aS'Man At C&A'
+p3815
+aS'Monkey Man'
+p3816
+aS'Nelson Mandela'
+p3817
+aS'Nite Klub'
+p3818
+aS"Pearl's Cafe"
+p3819
+aS'Racist Friend'
+p3820
+aS'Rat Race'
+p3821
+aS'Rude Boys Outta Jail'
+p3822
+aS"Sock It To 'Em J.B."
+p3823
+aS'Stereotypes (Stereotypes Part 2)'
+p3824
+aS'Stupid Marriage'
+p3825
+aS'Too Hot'
+p3826
+aS'Too Much Too Young'
+p3827
+aS'War Crimes'
+p3828
+aS'What I Like Most About You Is Your Girlfriend'
+p3829
+aS'Why'
+p3830
+aS"You're Wondering Now"
+p3831
+asS'Kajagoogoo'
+p3832
+(lp3833
+S'Afraid Of You'
+p3834
+aS'Big Apple'
+p3835
+aS'Charm Of A Gun'
+p3836
+aS'Do I'
+p3837
+aS'Ergonomics'
+p3838
+aS'Frayo'
+p3839
+aS'Hang On Now'
+p3840
+aS'Islands'
+p3841
+aS'Kajagoogoo'
+p3842
+aS'Lies And Promises'
+p3843
+aS'Magician Man'
+p3844
+aS'Melting The Ice Away'
+p3845
+aS'On A Plane'
+p3846
+aS'Ooh To Be Ah'
+p3847
+aS'Rivers'
+p3848
+aS"Shouldn't Do That"
+p3849
+aS'Sit Down & Shut Up'
+p3850
+aS"The Lion's Mouth"
+p3851
+aS'The Power To Forgive'
+p3852
+aS'This Car Is Fast'
+p3853
+aS'To Shy'
+p3854
+aS'Turn Your Back On Me'
+p3855
+aS'White Feathers'
+p3856
+aS'You Really Take My Breath Away'
+p3857
+asS'The Alarm'
+p3858
+(lp3859
+S'Absolute Reality.'
+p3860
+aS'Across The Border'
+p3861
+aS'Black Sun'
+p3862
+aS'Blaze Of Glory'
+p3863
+aS'Breaking Point'
+p3864
+aS'Change I'
+p3865
+aS'Change Ii'
+p3866
+aS'Corridors Of Power'
+p3867
+aS'Dawn Chorus'
+p3868
+aS'Declaration'
+p3869
+aS'Deeside'
+p3870
+aS"Devolution Workin' Man Blues"
+p3871
+aS'Eye Of The Hurricane'
+p3872
+aS'Father To Son'
+p3873
+aS'For Freedom'
+p3874
+aS'God Save Sombody'
+p3875
+aS'Hallowed Ground'
+p3876
+aS'Happy Christmas (War Is Over)'
+p3877
+aS'Happy Xmas (War Is Over)'
+p3878
+aS'Hardland'
+p3879
+aS'Hell Or Highwater'
+p3880
+aS'How The Mighty Fall'
+p3881
+aS'Howling Wind'
+p3882
+aS'Knife Edge'
+p3883
+aS'Lead Me Through The Darkness'
+p3884
+aS'Let The River Run Its Course'
+p3885
+aS"Love Don't Come Easy"
+p3886
+aS'Marching On'
+p3887
+aS'Moments In Time'
+p3888
+aS'New South Wales'
+p3889
+aS'Newtown Jericho'
+p3890
+aS'No Frontiers'
+p3891
+aS'One Step Closer To Home'
+p3892
+aS'Only Love Can Set Me Free'
+p3893
+aS'Only The Thunder'
+p3894
+aS'Permanence In Change'
+p3895
+aS'Presence Of Love'
+p3896
+aS'Prison Without Prison Bars'
+p3897
+aS'Rain In The Summertime.'
+p3898
+aS'Raw'
+p3899
+aS'Reason 41'
+p3900
+aS'Rescue Me'
+p3901
+aS'Rivers To Cross'
+p3902
+aS"Rockin' In The Freeworld"
+p3903
+aS'Save Your Crying'
+p3904
+aS'Scarlet'
+p3905
+aS'Shelter'
+p3906
+aS'Shout To The Devil'
+p3907
+aS'Sixty Eight Guns'
+p3908
+aS'Sold Me Down The River'
+p3909
+aS'Spirit Of 76.'
+p3910
+aS'Strength.'
+p3911
+aS'Tell Me'
+p3912
+aS'The Day The Ravens Left The Tower'
+p3913
+aS'The Deceiver'
+p3914
+aS'The Rock'
+p3915
+aS'The Stand'
+p3916
+aS'The Stand (Prophecy)'
+p3917
+aS'The Wind Blows Away My Words'
+p3918
+aS'Third Light'
+p3919
+aS'Unsafe Building'
+p3920
+aS'Up For Murder'
+p3921
+aS'Walk Forever By My Side.'
+p3922
+aS'We Are The Light'
+p3923
+aS'Where A Town Once Stood'
+p3924
+aS'Where Were You Hiding When The Storm Broke?'
+p3925
+aS'Wonderful World'
+p3926
+asS'Bananarama'
+p3927
+(lp3928
+S'A Trick Of The Night'
+p3929
+aS'Aie A Mwana'
+p3930
+aS"Ain't No Cure"
+p3931
+aS'Another Lover'
+p3932
+aS'Bad For Me'
+p3933
+aS'Boom'
+p3934
+aS'Boy Trouble'
+p3935
+aS'Cairo'
+p3936
+aS'Careless Whisper'
+p3937
+aS'Cheers Then'
+p3938
+aS'Come Back'
+p3939
+aS'Cruel Summer'
+p3940
+aS'Cut Above The Rest'
+p3941
+aS'Dance With A Stranger'
+p3942
+aS'Do Not Disturb'
+p3943
+aS"Do They Know It's Christmas ?"
+p3944
+aS'Doctor Love'
+p3945
+aS"Don'T Step On My Groove"
+p3946
+aS"Don't Throw It All Away"
+p3947
+aS"Dont't Stop Me Now"
+p3948
+aS'Dream Baby'
+p3949
+aS'Ecstasy'
+p3950
+aS'Every Shade Of Blue'
+p3951
+aS'Feel For You'
+p3952
+aS'Frequency'
+p3953
+aS'Ghost'
+p3954
+aS'Girl About Town'
+p3955
+aS'Give In To Me'
+p3956
+aS'Give It All Up For Love'
+p3957
+aS'Gotta Thing For You'
+p3958
+aS'Heartless'
+p3959
+aS'Help!'
+p3960
+aS"He's Got Tact"
+p3961
+aS'Hey Young London'
+p3962
+aS'Hooked On Love'
+p3963
+aS"I Can't Help It"
+p3964
+aS'I Could Be Persuaded'
+p3965
+aS"I Don't Care"
+p3966
+aS'I Found Love [*]'
+p3967
+aS'I Heard A Rumour'
+p3968
+aS'I Love The Way'
+p3969
+aS'I Want You Back'
+p3970
+aS'Iko Iko'
+p3971
+aS'In A Perfect World'
+p3972
+aS'Is She Good To You'
+p3973
+aS'Is Your Love Strong Enough?'
+p3974
+aS"It Ain't What You Do"
+p3975
+aS'Keep Your Hands To Yourself'
+p3976
+aS'King Of The Jungle'
+p3977
+aS'Last Thing On My Mind'
+p3978
+aS'Let It Be'
+p3979
+aS'Let Me Love You One More Time'
+p3980
+aS'Long Train Running'
+p3981
+aS'Look On The Floor'
+p3982
+aS'Love In The First Degree'
+p3983
+aS'Love, Leave, Forget'
+p3984
+aS'Love, Truth And Honesty'
+p3985
+aS'Maybe The Next Time'
+p3986
+aS'Megalomaniac'
+p3987
+aS'Michael Row The Boat Ashore'
+p3988
+aS'Middle Of Nowhere'
+p3989
+aS'More, More More'
+p3990
+aS'More Than Physical'
+p3991
+aS'Move In My Direction'
+p3992
+aS"Movin' On"
+p3993
+aS'Mr. Sleaze'
+p3994
+aS'Na Na Hey Hey'
+p3995
+aS'Nathan Jones'
+p3996
+aS'No Feelings'
+p3997
+aS'Nothing Lasts Forever'
+p3998
+aS'Only Time Will Tell'
+p3999
+aS'Only Your Love'
+p4000
+aS'Outta Sight'
+p4001
+aS'Preacher Man'
+p4002
+aS'Promised Land'
+p4003
+aS'Prove Your Love'
+p4004
+aS'Ready Or Not'
+p4005
+aS'Really Saying Something'
+p4006
+aS'Rhythm Of Life'
+p4007
+aS"Riskin' A Romance"
+p4008
+aS"Robert De Niro's Waiting"
+p4009
+aS'Rules Of Attraction'
+p4010
+aS'Scarlett'
+p4011
+aS'Shy Boy'
+p4012
+aS'Solid Gold, Easy Action'
+p4013
+aS'Some Girls'
+p4014
+aS'Starz'
+p4015
+aS"State I'm In"
+p4016
+aS'Strike It Rich'
+p4017
+aS'Take Me Away'
+p4018
+aS'Take Me To Your Heart'
+p4019
+aS'Tell Tale Signs'
+p4020
+aS'Tempus Fugit Mix'
+p4021
+aS'The Wild Life'
+p4022
+aS"Through A Child's Eye"
+p4023
+aS"Through A Child's Eyes"
+p4024
+aS'Tripping On Your Love'
+p4025
+aS'True Confessions'
+p4026
+aS'U R My Baby'
+p4027
+aS'Venus'
+p4028
+aS'Wake Up And Love Me'
+p4029
+aS'Waterfall'
+p4030
+aS'Waterloo'
+p4031
+aS'What Colour R The Skies Where U Live'
+p4032
+aS'What You Gonna Do'
+p4033
+aS'White Train'
+p4034
+aS'Wish You Were Hear'
+p4035
+aS'You And I'
+p4036
+aS'You Are Not Me'
+p4037
+aS'You Give Love A Bad Name'
+p4038
+aS"You'll Never Know What It Means"
+p4039
+aS'Young At Heart'
+p4040
+aS'Your Love Is Like A Drug'
+p4041
+aS'Your Love It Tastes So Sweet'
+p4042
+aS"You're Never Satisfied"
+p4043
+aS"You've Really Got Something"
+p4044
+asS'Eddy Grant'
+p4045
+(lp4046
+S'Baby Come Back'
+p4047
+aS'Boys In The Street'
+p4048
+aS"Can't Get Enough Of You"
+p4049
+aS'Do You Feel My Love'
+p4050
+aS'Electric Avenue'
+p4051
+aS'Gimme Hope Jo Anna'
+p4052
+aS"I Don't Wanna Dance"
+p4053
+aS'I Love You'
+p4054
+aS'Romancing The Stone'
+p4055
+aS"Till I Can't Take Love No More"
+p4056
+aS'Walking On Sunshine'
+p4057
+aS'War Party'
+p4058
+asS'Eurythmics'
+p4059
+(lp4060
+S'17 Again'
+p4061
+aS'A Cat With A Tale'
+p4062
+aS'A Little Of You'
+p4063
+aS'A Whiter Shade Of Pale'
+p4064
+aS'ABC (Freeform)'
+p4065
+aS'Adrian'
+p4066
+aS'All The Young'
+p4067
+aS'Angel'
+p4068
+aS'Anything But Strong'
+p4069
+aS'Aqua'
+p4070
+aS'Awol'
+p4071
+aS"Baby's Gonna Cry"
+p4072
+aS'Beautiful Child'
+p4073
+aS'Beethoven'
+p4074
+aS'Belinda'
+p4075
+aS'Better To Have Lost In Love'
+p4076
+aS'Brand New Day'
+p4077
+aS'Caveman Head'
+p4078
+aS'Chelsea Lovers'
+p4079
+aS'Cold'
+p4080
+aS'Conditional Soul'
+p4081
+aS'Cool Blue'
+p4082
+aS'Crazy Sister'
+p4083
+aS'Crown Of Madness'
+p4084
+aS'Damien Save Me'
+p4085
+aS'Diamond Avenue'
+p4086
+aS'Do You Want To Break Up?'
+p4087
+aS"Don't Ask Me Why"
+p4088
+aS"Don't Let It Bring You Down"
+p4089
+aS'Doubleplusgood'
+p4090
+aS'Downtown Lights'
+p4091
+aS'English Summer'
+p4092
+aS'Even The Bad Times (were Good Times)'
+p4093
+aS'Fade Away'
+p4094
+aS'Fashion Bomb'
+p4095
+aS'Fools Paradise'
+p4096
+aS'For The Love Of Big Brother'
+p4097
+aS'Forever'
+p4098
+aS'Good For Nothing'
+p4099
+aS'Greetings From The Gutter'
+p4100
+aS'Happy To Be Here'
+p4101
+aS'Heart Of Stone'
+p4102
+aS'Heaven'
+p4103
+aS'Heaven And Earth'
+p4104
+aS'Hello I Love You'
+p4105
+aS'Here Comes That Sinking Feeling'
+p4106
+aS'Here Comes The Rain Again'
+p4107
+aS'Here She Comes'
+p4108
+aS'Here We Go Again'
+p4109
+aS"Hey Johnny (it's You)"
+p4110
+aS'Honest'
+p4111
+aS'How Long?'
+p4112
+aS"I Can't Get Next To You"
+p4113
+aS'I Could Give You'
+p4114
+aS'I Love You Like A Ball And Chain'
+p4115
+aS'I Need A Man'
+p4116
+aS'I Need You'
+p4117
+aS'I Remember You'
+p4118
+aS'I Saved The World Today'
+p4119
+aS'I Want It All'
+p4120
+aS"I'm Always Touched By Your Presence Dear"
+p4121
+aS'In This Town'
+p4122
+aS"It's Alright"
+p4123
+aS"It's Alright (Baby's Coming Back)"
+p4124
+aS"I've Got A Life"
+p4125
+aS"I've Got A Lover"
+p4126
+aS"I've Got An Angel"
+p4127
+aS"I've Tried Everything"
+p4128
+aS'Jack Of All Trades'
+p4129
+aS'Jack Talking'
+p4130
+aS"J'aime Les Filles"
+p4131
+aS'Jealousy'
+p4132
+aS'Jennifer'
+p4133
+aS'Julia'
+p4134
+aS'Keep Young And Beautiful'
+p4135
+aS'Kinky Sweetheart'
+p4136
+aS'Leaving This Earth (again)'
+p4137
+aS'Legend In My Living Room'
+p4138
+aS"Let's Go!"
+p4139
+aS'Lifted'
+p4140
+aS'Little Bird'
+p4141
+aS'Love Is A Stranger'
+p4142
+aS'Love Shines'
+p4143
+aS'Love Song For A Vampire'
+p4144
+aS'Missionary Man'
+p4145
+aS"Money Can't Buy"
+p4146
+aS'My Place'
+p4147
+aS'My True Love'
+p4148
+aS'Never Gonna Cry Again'
+p4149
+aS'No Fear No Hate No Pain No Broken Hearts'
+p4150
+aS"No More I Love You's"
+p4151
+aS'Nothing Alas Alack'
+p4152
+aS'Oh No, Not You Again'
+p4153
+aS'On Fire'
+p4154
+aS'One Step Nearer The Edge'
+p4155
+aS'Out Of Reach'
+p4156
+aS'Paint A Rumour'
+p4157
+aS'Party Town'
+p4158
+aS'Peace Is Just A Word'
+p4159
+aS'Possessed'
+p4160
+aS'Power To The Meek'
+p4161
+aS'Precious'
+p4162
+aS'Primitive'
+p4163
+aS'Put The Blame On Me'
+p4164
+aS'Regrets'
+p4165
+aS'Revenge'
+p4166
+aS'Revival'
+p4167
+aS'Right By Your Side'
+p4168
+aS'Royal Infirmary'
+p4169
+aS'R.u. Satisfied'
+p4170
+aS'Savage'
+p4171
+aS'Sexcrime'
+p4172
+aS'Shame'
+p4173
+aS'She'
+p4174
+aS"She's Alright"
+p4175
+aS"She's Invisible Now"
+p4176
+aS'Sing-Sing'
+p4177
+aS"Sisters Are Doin' It For Themselves"
+p4178
+aS'Somebody Told Me'
+p4179
+aS'Something So Right'
+p4180
+aS'Spiritual Love'
+p4181
+aS"St. Valentine's Day"
+p4182
+aS'Stars On Sunday'
+p4183
+aS'Stay By Me'
+p4184
+aS'Step By Step'
+p4185
+aS'Sweet Dreams'
+p4186
+aS'Sylvia'
+p4187
+aS'Take Me For What I Am'
+p4188
+aS'Take Me To The River'
+p4189
+aS'Take Me To Your Heart'
+p4190
+aS'Take Your Pain Away'
+p4191
+aS'The Day It Rained Forever'
+p4192
+aS"The Devil's Just Been Using You"
+p4193
+aS'The First Cut'
+p4194
+aS'The King And Queen Of America'
+p4195
+aS'The Last Time'
+p4196
+aS'The Miracle Of Love'
+p4197
+aS'The Thought Of You'
+p4198
+aS'The Trouble With Lovers'
+p4199
+aS'The Walk'
+p4200
+aS'There Must Be An Angel'
+p4201
+aS'Thin Line Between Love And Hate'
+p4202
+aS'This City Never Sleeps'
+p4203
+aS'This Is The House'
+p4204
+aS'This Little Town'
+p4205
+aS'Thorn In My Side'
+p4206
+aS'Train In Vain'
+p4207
+aS'Waiting In Vain'
+p4208
+aS'Walk Into The Wind'
+p4209
+aS'Walking On Broken Glass'
+p4210
+aS'Was It Just Another Love Affair?'
+p4211
+aS'We Two Are One'
+p4212
+aS'When The Day Goes Down'
+p4213
+aS'When Tomorrow Comes'
+p4214
+aS'Whole Wide World'
+p4215
+aS"Who's That Girl?"
+p4216
+aS'Why'
+p4217
+aS'Wide Eyed Girl'
+p4218
+aS'Winter Wonderland'
+p4219
+aS'Wise Guy'
+p4220
+aS'Would I Lie To You?'
+p4221
+aS'Wrap It Up'
+p4222
+aS'You Have Placed A Chill In My Heart'
+p4223
+aS'You Hurt Me'
+p4224
+aS'You Talk A Lot'
+p4225
+aS'Your Time Will Come'
+p4226
+aS"You're Lost (forever)"
+p4227
+asS'Culture Club'
+p4228
+(lp4229
+S'Black Comedy'
+p4230
+aS'Black Money'
+p4231
+aS'Bow Down Mister (A Small Portion 2B Polite Mix)'
+p4232
+aS"Boy Boy (I'm The Boy)"
+p4233
+aS'Changing Every Day'
+p4234
+aS'Church Of The Poison Mind'
+p4235
+aS'Cold Shoulder'
+p4236
+aS'Colour By Numbers'
+p4237
+aS'Come Clean'
+p4238
+aS'Confidence Trick'
+p4239
+aS'Crime Time'
+p4240
+aS'Crystal Blue Persuasion'
+p4241
+aS'Dangerous Man'
+p4242
+aS'Do You Really Want To Hurt Me'
+p4243
+aS"Don't Cry"
+p4244
+aS"Don't Go Down That Street"
+p4245
+aS"Don't Talk About It"
+p4246
+aS'Everything I Own'
+p4247
+aS'Fat Cat'
+p4248
+aS'From Luxury To Heartache'
+p4249
+aS'Funtime'
+p4250
+aS'Generations Of Love'
+p4251
+aS'God Thank You Woman'
+p4252
+aS'Gusto Blusto'
+p4253
+aS"Heaven's Children"
+p4254
+aS'Hello Goodbye'
+p4255
+aS'Hiroshima'
+p4256
+aS"How D'ya Keep Your Credibility?"
+p4257
+aS'I Just Wanna Be Loved'
+p4258
+aS'I Pray'
+p4259
+aS"I'll Tumble 4 Ya"
+p4260
+aS"I'm Afraid Of Me"
+p4261
+aS'Is There Cream In This Soup? (Demo)'
+p4262
+aS"It's A Miracle"
+p4263
+aS'Karma Chameleon'
+p4264
+aS'Kissing 2 Be Clever (Demo)'
+p4265
+aS'Less Than Perfect'
+p4266
+aS'Lions Roar (Demo)'
+p4267
+aS'Love Hurts'
+p4268
+aS'Love Is Cold'
+p4269
+aS'Love Is Love'
+p4270
+aS'Love Twist'
+p4271
+aS'Man Shake'
+p4272
+aS'Mannequin'
+p4273
+aS"Maybe I'm A Fool"
+p4274
+aS'Melting Pot'
+p4275
+aS'Mirror'
+p4276
+aS'Miss Me Blind'
+p4277
+aS'Mistake No. 3'
+p4278
+aS'Mister Man'
+p4279
+aS'Move Away'
+p4280
+aS'Mystery Boy'
+p4281
+aS'Next 2 You (Demo)'
+p4282
+aS'Put It Down (Demo)'
+p4283
+aS'Reasons'
+p4284
+aS'Run, Run, Run (Demo)'
+p4285
+aS'See Thru'
+p4286
+aS'Sexuality'
+p4287
+aS'Sign Language'
+p4288
+aS'Stand Down (Demo)'
+p4289
+aS'Starman'
+p4290
+aS'Stormkeeper'
+p4291
+aS'Strange Voodoo'
+p4292
+aS'Sweet Toxic Love (Deliverance Mix)'
+p4293
+aS'Take Control'
+p4294
+aS"That's The Way"
+p4295
+aS'The Crying Game'
+p4296
+aS'The Dive'
+p4297
+aS'The Dream'
+p4298
+aS'The Medal Song'
+p4299
+aS'The War Song'
+p4300
+aS'Time'
+p4301
+aS'Too Bad'
+p4302
+aS'Truth Behind Her Smile'
+p4303
+aS'Unfortunate Thing'
+p4304
+aS'Victims'
+p4305
+aS'Weep For The Child'
+p4306
+aS'What Do You Want'
+p4307
+aS'White Boy'
+p4308
+aS"White Boys Can't Control It"
+p4309
+aS'Work On Me Baby'
+p4310
+aS"You Know I'm Not Crazy"
+p4311
+aS'Your Kisses Are Charity'
+p4312
+asS'Joy Division'
+p4313
+(lp4314
+S'A Means To An End'
+p4315
+aS'At A Later Date'
+p4316
+aS'Atmosphere'
+p4317
+aS'Atrocity Exhibition'
+p4318
+aS'Autosuggestion'
+p4319
+aS'Candidate'
+p4320
+aS'Ceremony'
+p4321
+aS'Colony'
+p4322
+aS'Day Of The Lords'
+p4323
+aS'Dead Souls'
+p4324
+aS'Decades'
+p4325
+aS'Digital'
+p4326
+aS'Disorder'
+p4327
+aS'Exercise One'
+p4328
+aS'Failures'
+p4329
+aS'From Safety To Where.... ?'
+p4330
+aS'Glass'
+p4331
+aS'Gutz'
+p4332
+aS'Heart And Soul'
+p4333
+aS'I Remember Nothing'
+p4334
+aS'Ice Age'
+p4335
+aS'In A Lonely Place'
+p4336
+aS'Inside The Line'
+p4337
+aS'Insight'
+p4338
+aS'Interzone'
+p4339
+aS'Isolation'
+p4340
+aS'Komakino'
+p4341
+aS'Leaders Of Men'
+p4342
+aS'Love Will Tear Us Apart'
+p4343
+aS'New Dawn Fades'
+p4344
+aS'No Love Lost'
+p4345
+aS'Novelty'
+p4346
+aS'Passover'
+p4347
+aS'Shadowplay'
+p4348
+aS"She's Lost Control"
+p4349
+aS'Sister Ray'
+p4350
+aS'Something Must Break'
+p4351
+aS'The Drawback'
+p4352
+aS'The Eternal'
+p4353
+aS'The Kill'
+p4354
+aS'The Kill (1977)'
+p4355
+aS'The Only Mistake'
+p4356
+aS'The Sound Of Music'
+p4357
+aS'These Days'
+p4358
+aS'Transmission'
+p4359
+aS'Twenty-Four Hours'
+p4360
+aS'Walked In Line'
+p4361
+aS'Warsaw'
+p4362
+aS'Wilderness'
+p4363
+aS"You're No Good For Me"
+p4364
+asS'Gary Numan'
+p4365
+(lp4366
+S'1999'
+p4367
+aS'A Child With The Ghost'
+p4368
+aS'A Dream Of Siam'
+p4369
+aS'A Game Called Echo'
+p4370
+aS'A Prayer For The Unborn'
+p4371
+aS'A Question Of Faith'
+p4372
+aS'A Subway Called You'
+p4373
+aS'Absolution'
+p4374
+aS'All Across The Nation'
+p4375
+aS'America'
+p4376
+aS'An Alien Cure'
+p4377
+aS'Ancients'
+p4378
+aS"Are 'friends' Electric?"
+p4379
+aS'Are You Real?'
+p4380
+aS'Basic J'
+p4381
+aS'Before You Hate It'
+p4382
+aS'Berserker'
+p4383
+aS'Big Noise Transmission'
+p4384
+aS'Bleed'
+p4385
+aS'Blind'
+p4386
+aS'Blue Eyes'
+p4387
+aS'Bombers'
+p4388
+aS'Boys Like Me'
+p4389
+aS'Call Out The Dogs'
+p4390
+aS'Cars'
+p4391
+aS'Change Your Mind'
+p4392
+aS'Check It'
+p4393
+aS'Cold Warning'
+p4394
+aS'Complex'
+p4395
+aS'Confession'
+p4396
+aS'Conversation'
+p4397
+aS'Crash'
+p4398
+aS'Crazier'
+p4399
+aS'Creatures'
+p4400
+aS'Critics'
+p4401
+aS'Cry'
+p4402
+aS'Cry Clock Said'
+p4403
+aS'Dance'
+p4404
+aS'Dark'
+p4405
+aS'Dark Sunday'
+p4406
+aS'Dead Heaven'
+p4407
+aS'Dead Sun Rising'
+p4408
+aS'Deadliner'
+p4409
+aS'Devious'
+p4410
+aS'Devotion'
+p4411
+aS'Do You Need The Service?'
+p4412
+aS'Dominion Day'
+p4413
+aS"Don't Be A Dummy"
+p4414
+aS"Don't Call My Name"
+p4415
+aS'Down In The Park'
+p4416
+aS'Dream Killer'
+p4417
+aS'Emotion'
+p4418
+aS'Empty Bed, Empty Heart'
+p4419
+aS'Engineers'
+p4420
+aS'Everyday I Die'
+p4421
+aS'Exhibition'
+p4422
+aS'Exile'
+p4423
+aS'Face To Face'
+p4424
+aS'Films'
+p4425
+aS'Fold'
+p4426
+aS'For The Rest Of My Life'
+p4427
+aS'Found You Now'
+p4428
+aS'Friends'
+p4429
+aS'From Russia Infected'
+p4430
+aS'Generator'
+p4431
+aS'God Only Knows'
+p4432
+aS'Halo'
+p4433
+aS'Haunted'
+p4434
+aS'Here Am I'
+p4435
+aS'Hunger'
+p4436
+aS'I Am Dust'
+p4437
+aS'I Am Render'
+p4438
+aS'I, Assassin'
+p4439
+aS"I Can't Breathe"
+p4440
+aS"I Can't Stop"
+p4441
+aS'I Die: You Die'
+p4442
+aS"I Don't Believe"
+p4443
+aS'I Dream Of Wires'
+p4444
+aS'I Still Remember'
+p4445
+aS'Ice'
+p4446
+aS'Icehouse'
+p4447
+aS"I'm An Agent"
+p4448
+aS"I'm On Automatic"
+p4449
+aS'In A Dark Place'
+p4450
+aS'In A Glass House'
+p4451
+aS'Innocence Bleeding'
+p4452
+aS'It Must Have Been Years'
+p4453
+aS'Jagged'
+p4454
+aS'Jo The Waiter'
+p4455
+aS'Like A Refugee'
+p4456
+aS'Listen To My Voice'
+p4457
+aS'Listen To The Sirens'
+p4458
+aS'Little Invitro'
+p4459
+aS'London Times'
+p4460
+aS'Love Is Like Clock Law'
+p4461
+aS'Love Isolation'
+p4462
+aS'Love Like A Ghost'
+p4463
+aS'Love & Napalm'
+p4464
+aS'Love Needs No Disguise'
+p4465
+aS'M. E.'
+p4466
+aS'Machine And Soul'
+p4467
+aS'Magic'
+p4468
+aS'Me! I Disconnect From You'
+p4469
+aS'Mean Street'
+p4470
+aS'Melt'
+p4471
+aS'Metal'
+p4472
+aS'Miracles'
+p4473
+aS'Moral'
+p4474
+aS'Music For Chameleons'
+p4475
+aS'My Breathing'
+p4476
+aS"My Brother's Time"
+p4477
+aS'My Car Slides'
+p4478
+aS'My Centurion'
+p4479
+aS'My Dying Machine'
+p4480
+aS'My Jesus'
+p4481
+aS'My Love Is A Liquid'
+p4482
+aS'My Shadow In Vain'
+p4483
+aS'Nameless And Forgotten'
+p4484
+aS'New Anger'
+p4485
+aS'New Thing From London Town'
+p4486
+aS'Night Talk'
+p4487
+aS'No More Lies'
+p4488
+aS'Noise Noise'
+p4489
+aS'Not The Love We Dream Of'
+p4490
+aS'Observer'
+p4491
+aS'O.d. Receiver'
+p4492
+aS"Oh! Didn't I Say"
+p4493
+aS'On Broadway'
+p4494
+aS'One Perfect Lie'
+p4495
+aS'Only A Downstat'
+p4496
+aS'Outland'
+p4497
+aS'Play Like God'
+p4498
+aS'Please Push No More'
+p4499
+aS'Poetry And Power'
+p4500
+aS'Praying To The Aliens'
+p4501
+aS'Pressure'
+p4502
+aS'Prophecy'
+p4503
+aS'Pure'
+p4504
+aS'Radio Heart'
+p4505
+aS'Remember I Was Vapour'
+p4506
+aS'Remind Me To Smile'
+p4507
+aS'Replicas'
+p4508
+aS'Respect'
+p4509
+aS'Rip'
+p4510
+aS'Rip It Up'
+p4511
+aS'Rumour'
+p4512
+aS'Scanner'
+p4513
+aS'Scar'
+p4514
+aS"She's Got Claws"
+p4515
+aS'Sister Surprise'
+p4516
+aS'Sleep By Windows'
+p4517
+aS'Slowcar To China'
+p4518
+aS"Something's In The House"
+p4519
+aS'Stories'
+p4520
+aS'Stormtrooper In Drag'
+p4521
+aS'Strange Charm'
+p4522
+aS'Telekon'
+p4523
+aS"That's Too Bad"
+p4524
+aS"The 1930's Rust"
+p4525
+aS'The Aircrash Bureau'
+p4526
+aS'The Angel Wars'
+p4527
+aS'The Crazies'
+p4528
+aS'The Dream Police'
+p4529
+aS'The Fall'
+p4530
+aS'The God Film'
+p4531
+aS'The Image Is'
+p4532
+aS'The Joy Circuit'
+p4533
+aS'The Life Machine'
+p4534
+aS'The Machine'
+p4535
+aS'The Machman'
+p4536
+aS'The Monday Troop'
+p4537
+aS'The Need'
+p4538
+aS'The Pleasure Skin'
+p4539
+aS'The Seed Of A Lie'
+p4540
+aS'The Tick Tock Man'
+p4541
+aS'This Is Emotion'
+p4542
+aS'This Is Love'
+p4543
+aS'This Is My House'
+p4544
+aS'This Is My Life'
+p4545
+aS'This Is New Love'
+p4546
+aS'This Wreckage'
+p4547
+aS'Thoughts No. 2'
+p4548
+aS'Time To Die'
+p4549
+aS'Torn'
+p4550
+aS'Tracks'
+p4551
+aS'Tread Careful'
+p4552
+aS'Tricks'
+p4553
+aS'Turn Off The World'
+p4554
+aS'U Got The Look'
+p4555
+aS'Voix'
+p4556
+aS'Walking With Shadows'
+p4557
+aS'War Songs'
+p4558
+aS'Warriors'
+p4559
+aS'We Are Glass'
+p4560
+aS'We Are So Fragile'
+p4561
+aS'We Have A Technical'
+p4562
+aS'We Need It'
+p4563
+aS'We Take Mystery'
+p4564
+aS'Welcome To Love'
+p4565
+aS'When The Sky Bleeds, He Will Come'
+p4566
+as.

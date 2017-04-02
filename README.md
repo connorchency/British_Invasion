@@ -5,11 +5,16 @@ Text Mining project on songs by British Invasions artists (mid-60s, 80s) and the
 ├── Artist_Data_Scraping.py
 ├── Artists_Data_Scaping.ipynb
 ├── Data
+│   ├── BI_Song_List.pkl
 │   ├── List_of_British_Invasion_artists.csv
 │   ├── List_of_Second_British_Invasion_artists.csv
-|   ├── Songs_by_British_Invasion_artists.csv
-|   └── Songs_by_Second_British_Invasion_artists.csv
+│   ├── SBI_Song_List.pkl
+│   ├── Songs_by_British_Invasion_artists.csv
+│   └── Songs_by_Second_British_Invasion_artists.csv
+├── Fetch_Song_List.ipynb
+├── Matching_Songs_and_Lyrics_with_Lists_of_Artists.ipynb
 ├── README.md
+├── _config.yml
 └── requirements.txt
 ```
 Primary Data: Kaggle

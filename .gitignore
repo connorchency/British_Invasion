@@ -1,5 +1,6 @@
 .ipynb_checkpoints
 .ipynb_checkpoints/
+.DS_Store
 
 Data/lyrics.csv
 Data/songdata.csv

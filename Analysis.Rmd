@@ -1,0 +1,16 @@
+---
+title: "TAD Final Project"
+output: pdf_document
+---
+
+## Read Data
+
+```{r, warning=FALSE}
+library(readr)
+BI2_lyrics <- read_csv("~/Documents/NYU/Text-as-Data/British_Invasion/Data/BI2_lyrics.csv",
+col_types = cols(X1 = col_skip()))
+
+BI1_lyrics <- read_csv("~/Documents/NYU/Text-as-Data/British_Invasion/Data/BI1_lyrics.csv",
+col_types = cols(X1 = col_skip()))
+```
+

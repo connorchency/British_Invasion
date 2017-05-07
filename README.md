@@ -37,6 +37,3 @@ Text Mining project on songs by British Invasions artists (mid-60s, 80s) and the
 
 
 ```
-Primary Data: Kaggle
-[380,000+ lyrics from MetroLyrics](https://www.kaggle.com/gyani95/380000-lyrics-from-metrolyrics)
-[Lyrics for 55000+ songs in English from LyricsFreak](https://www.kaggle.com/mousehead/songlyrics)

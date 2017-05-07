@@ -2,11 +2,12 @@
 Text Mining project on songs by British Invasions artists (mid-60s, 80s) and their peers.
 ```
 .
-├── Artist_Data_Scraping.py
-├── Artists_Data_Scaping.ipynb
 ├── Data
+│   ├── 1964_1969_Billboard_Charts.csv
+│   ├── BI1_lyrics.csv
 │   ├── BI1_lyrics.pkl
 │   ├── BI1_lyrics_df.pkl
+│   ├── BI2_lyrics.csv
 │   ├── BI2_lyrics.pkl
 │   ├── BI2_lyrics_df.pkl
 │   ├── BI_Song_List.pkl
@@ -15,13 +16,25 @@ Text Mining project on songs by British Invasions artists (mid-60s, 80s) and the
 │   ├── SBI_Song_List.pkl
 │   ├── Songs_by_British_Invasion_artists.csv
 │   └── Songs_by_Second_British_Invasion_artists.csv
-├── Dict2DataFrame.ipynb
-├── Fetch_All_Lyrics.ipynb
-├── Fetch_Song_List.ipynb
-├── Matching_Songs_and_Lyrics_with_Lists_of_Artists.ipynb
+├── Preprocessing
+│   ├── Analysis.Rmd
+│   ├── Analysis.pdf
+│   ├── Artist_Agg_Song.csv
+│   ├── BI.csv
+│   ├── Clean.R
+│   ├── Dict2DataFrame.ipynb
+│   ├── Matching_Songs_and_Lyrics_with_Lists_of_Artists.ipynb
+│   └── pkl_to_csv.ipynb
 ├── README.md
+├── Scraping
+│   ├── Artist_Data_Scraping.py
+│   ├── Artists_Data_Scaping.ipynb
+│   ├── Fetch_1964_1969_Billboard_Charts.ipynb
+│   ├── Fetch_All_Lyrics.ipynb
+│   └── Fetch_Song_List.ipynb
 ├── _config.yml
 └── requirements.txt
+
 
 ```
 Primary Data: Kaggle

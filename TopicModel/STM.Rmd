@@ -1,0 +1,108 @@
+---
+title: "R Notebook"
+output: html_notebook
+---
+```{r}
+library(quanteda)
+library(tidytext)
+library(topicmodels)
+library(ldatuning)
+library(stringi)
+library(stm)
+```
+
+```{r}
+BI = read.csv("~/Documents/text_project/British_Invasion/Preprocessing/BI.csv", stringsAsFactors = FALSE)
+sum(table(BI$Artist)>5)
+dim(table(BI$Artist))
+```
+
+```{r}
+artist_list = as.data.frame(table(BI$Artist))
+colnames(artist_list) = c('Artist', 'Number')
+final_list = artist_list[artist_list$Number>5,]$Artist
+```
+
+```{r}
+custom_stopword = read.table('~/Documents/text_project/stopwords.txt', stringsAsFactors = FALSE)
+BI_new = BI[BI$Artist %in% final_list, ]
+BI_new$Label = as.factor(BI_new$Label)
+BI_new$Artist = as.factor(BI_new$Artist)
+corpus_gt<-textProcessor(documents=BI_new$Lyrics,
+                         metadata = BI_new[,c("Artist","Label","Lyrics")],
+                         language='english',
+                         customstopwords = as.vector(as.character(custom_stopword)))
+corpus_out <- prepDocuments(corpus_gt$documents,
+                     corpus_gt$vocab,
+                     corpus_gt$meta,
+                     lower.thresh=5)
+```
+
+```{r}
+library(Rtsne)
+library(geometry)
+stm_mod <- stm(corpus_out$documents, corpus_out$vocab, prevalence = ~Label+Artist, data = corpus_out$meta, init.type ='Spectral', K = 0)
+```
+
+
+
+```{r}
+stm::labelTopics(stm_mod)
+```
+
+
+
+
+
+```{r}
+stm_10 <- stm(corpus_out$documents, corpus_out$vocab, prevalence = ~Label+Artist, data = corpus_out$meta, init.type ='Spectral', K = 10)
+```
+
+
+```{r}
+stm::labelTopics(stm_10)
+
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+```{r}
+for(i in 1:7){
+stm::cloud(stm_mod, topic = 1)
+}
+```
+
+
+```{r}
+# A plot that summarizes the topics by what words occur most commonly in them
+plot(stm_mod,type="labels")
+plot(stm_mod, type = 'summary', text.cex = 0.5)
+```
+
+
+```{r}
+
+prep<-estimateEffect(1:7 ~ Label , stm_mod, meta=corpus_out$meta)
+plot(prep, "Label", model=stm_mod,
+     method="difference",cov.value1="1",cov.value2="2", xlim = c(-0.1, 0.1))
+```
+

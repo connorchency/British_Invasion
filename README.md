@@ -37,3 +37,6 @@ Text Mining project on songs by British Invasions artists (mid-60s, 80s) and the
 
 
 ```
+Lyrics Sources:
+- [Kaggle](https://www.kaggle.com/mousehead/songlyrics)
+- [lyricsfreak.com](lyricsfreak.com)

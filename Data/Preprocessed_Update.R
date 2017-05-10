@@ -1,7 +1,13 @@
+library(textcat)
 load('~/Documents/NYU/Text-as-Data/British_Invasion/Data/preprocessed.RData')
+
+lan = textcat(BA$Lyrics)
+
 
 BA = BA[!duplicated(BA[,1:2]),]
 BA = BA[which(BA$Lyrics != ""),]
+BA = BA[which(lan != "portuguese"),]
+BA = BA[which(lan != "french"),]
 
 stopw = c('yeah','na','la','ba','da','sha', 
           'du','oo','rah','huh','ya','whoa',

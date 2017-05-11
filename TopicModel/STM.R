@@ -1,52 +1,70 @@
-library(quanteda)
-library(tidytext)
-library(topicmodels)
-library(ldatuning)
-library(stringi)
+rm(list = ls())
 library(stm)
+libs <- c('stringi',"ldatuning","topicmodels","ggplot2","dplyr","rjson","quanteda","parallel","doParallel","tidytext")
+lapply(libs, library, character.only = T)
+rm(libs)
 
-BI = read.csv("~/Documents/text_project/British_Invasion/Preprocessing/BI.csv", stringsAsFactors = FALSE)
-sum(table(BI$Artist)>5)
-dim(table(BI$Artist))
-
-artist_list = as.data.frame(table(BI$Artist))
-colnames(artist_list) = c('Artist', 'Number')
-final_list = artist_list[artist_list$Number>5,]$Artist
-
-stopword1 = read.table('~/Documents/text_project/stopwords.txt', header = F, stringsAsFactors = FALSE)
-stopword1 = as.vector(as.character(stopword1$V1))
-load('~/Dropbox/text/HW3/custom_stopwords.RData')
-stopw = as.vector(rbind(stopword1,custom_stopwords))
+load('~/Desktop/British_Invasion/Data/preprocessed.RData')
 
 
-BI_new = BI[BI$Artist %in% final_list, ]
-BI_new$Label = as.factor(BI_new$Label)
-BI_new$Artist = as.factor(BI_new$Artist)
-corpus_gt<-textProcessor(documents=BI_new$Lyrics,
-                         metadata = BI_new[,c("Artist","Label","Lyrics")],
+# Setting seed
+set.seed(826)
+
+# 
+BA_stm = BA
+BA_stm$Artist = as.factor(BA_stm$Artist)
+BA_stm$Label = as.factor(BA_stm$Label)
+
+# Modelling
+corpus_gt<-textProcessor(documents=BA_stm$Lyrics,
+                         metadata = BA_stm[,c("Artist","Label","Lyrics","Song")],
                          language='english',
-                         stem = FALSE,
                          customstopwords = as.vector(as.character(stopw)))
 corpus_out <- prepDocuments(corpus_gt$documents,
                             corpus_gt$vocab,
-                            corpus_gt$meta,
-                            lower.thresh=5)
-
+                            corpus_gt$meta)
 library(Rtsne)
 library(geometry)
-stm_mod <- stm(corpus_out$documents, corpus_out$vocab, 
-               prevalence = ~Label+Artist, data = corpus_out$meta, 
-               init.type ='Spectral', K = 10)
-stm::labelTopics(stm_mod)
-stm::findThoughts(stm_mod, texts = corpus_out$meta$Lyrics, topics = c(5),n=3)
+
+stm_mod_10 <- stm(corpus_out$documents, 
+              corpus_out$vocab, 
+              prevalence = ~Label+Artist, 
+              data = corpus_out$meta, 
+              init.type ='Spectral', 
+              K = 10)
+
+#1 Top Words
+stm::labelTopics(stm_mod_10)
+
+#2 Word Cloud
 for(i in 1:10){
-  stm::cloud(stm_mod, topic = 1)
+  # dev.new()
+  stm::cloud(stm_mod_10, topic = 1)
 }
 
+#3
+# A plot that summarizes the topics by what words occur most commonly in them
+dev.new()
+plot(stm_mod_10,type="labels")
+plot(stm_mod_10, type = 'summary', text.cex = 1, n = 5)
 
-plot(stm_mod,type="labels")
-plot(stm_mod, type = 'summary', text.cex = 0.5)
-prep<-estimateEffect(1:10 ~ Label , stm_mod, meta=corpus_out$meta)
-plot(prep, "Label", model=stm_mod,
-     method="difference",cov.value1="1",cov.value2="2", xlim = c(-0.1, 0.1))
-```
+
+#4 prevalence Between Label: 1 & 3
+dev.new()
+prep<-estimateEffect(1:10 ~ Label , stm_mod_10, meta=corpus_out$meta)
+plot(prep, "Label", model=stm_mod_10,
+     method="difference",cov.value1="1",cov.value2="3", xlim = c(-0.1, 0.1))
+
+# Song
+dev.control(1)
+thoughts1 = findThoughts(stm_mod_10, texts=corpus_out$meta$Song, topics=1:10, n=5)
+thoughts2 = findThoughts(stm_mod_10, texts=corpus_out$meta$Artist, topics=1:10, n=5)
+thoughts3 = findThoughts(stm_mod_10, texts=corpus_out$meta$Lyrics, topics=1:10, n=5)
+thoughts4 = findThoughts(stm_mod_10, texts=corpus_out$meta$Label, topics=1:10, n=5)
+thought = cbind.data.frame(thoughts1$docs, thoughts2$docs, thoughts3$docs, thoughts4$docs)
+View(thought)
+thoughts3
+
+
+# 
+stm::topicCorr(stm_mod_10)
